@@ -1,6 +1,6 @@
 "use client";
 
-import { Save, User, Lock, Bell, Globe, Settings, Loader2, Phone } from "lucide-react";
+import { Save, User, Lock, Bell, Globe, Settings, Loader2, Phone, Bot } from "lucide-react";
 import { useState, useEffect } from "react";
 
 export default function SettingsPage() {
@@ -13,8 +13,10 @@ export default function SettingsPage() {
         security: { pin: "" },
         notifications: { emailAlerts: true, newComplaint: true, reportBundling: false },
         general: { language: "id", maintenanceMode: false },
-        contact: { phone: "", email: "", address: "" }
+        contact: { phone: "", email: "", address: "" },
+        chatbot: { geminiApiKey: "" }
     });
+
 
     // Temp state for password change
     const [newPin, setNewPin] = useState("");
@@ -100,8 +102,8 @@ export default function SettingsPage() {
                 <div className="md:col-span-1 space-y-2">
                     <TabButton id="profile" label="Profil Admin" icon={User} />
                     <TabButton id="security" label="Keamanan & PIN" icon={Lock} />
-                    <TabButton id="notifications" label="Notifikasi" icon={Bell} />
                     <TabButton id="contact" label="Kontak Publik" icon={Phone} />
+                    <TabButton id="chatbot" label="Chatbot AI" icon={Bot} />
                     <TabButton id="general" label="Umum" icon={Globe} />
                 </div>
 
@@ -115,6 +117,7 @@ export default function SettingsPage() {
                             {activeTab === 'security' && "Keamanan Akun & PIN"}
                             {activeTab === 'notifications' && "Preferensi Notifikasi"}
                             {activeTab === 'contact' && "Informasi Kontak Publik"}
+                            {activeTab === 'chatbot' && "Konfigurasi Kecerdasan Buatan (AI)"}
                             {activeTab === 'general' && "Pengaturan Umum"}
                         </h2>
                         <p className="text-sm text-gray-500 mt-1">
@@ -122,6 +125,7 @@ export default function SettingsPage() {
                             {activeTab === 'security' && "Jaga keamanan akses dashboard dengan PIN yang kuat."}
                             {activeTab === 'notifications' && "Tentukan kapan sistem harus mengirim pemberitahuan."}
                             {activeTab === 'contact' && "Atur nomor telepon, email, dan alamat yang tampil di website."}
+                            {activeTab === 'chatbot' && "Hubungkan sistem dengan otak AI eksternal untuk menjawab pertanyaan sulit."}
                             {activeTab === 'general' && "Konfigurasi dasar sistem dan preferensi bahasa."}
                         </p>
                     </div>
@@ -254,6 +258,31 @@ export default function SettingsPage() {
                                     onChange={(e) => setSettings({ ...settings, contact: { ...settings.contact, address: e.target.value } })}
                                     className="w-full px-4 py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-unaicBlue outline-none transition-all"
                                 />
+                            </div>
+                        </div>
+                    )}
+
+                    {/* CHATBOT AI TAB */}
+                    {activeTab === 'chatbot' && (
+                        <div className="max-w-xl space-y-6">
+                            <div className="bg-blue-50 border border-blue-200 p-4 rounded-xl mb-6 flex gap-3">
+                                <Bot className="text-blue-600 shrink-0 mt-0.5" size={20} />
+                                <div className="text-sm text-blue-800">
+                                    <p className="font-bold">Google Gemini AI Integrasi</p>
+                                    Gunakan Gemini API Key untuk mengaktifkan fitur tanya-jawab otomatis jika pertanyaan user tidak ditemukan di database FAQ.
+                                </div>
+                            </div>
+
+                            <div>
+                                <label className="block text-sm font-bold text-gray-700 mb-2">Google Gemini API Key</label>
+                                <input
+                                    type="password"
+                                    placeholder="Masukkan API Key Gemini..."
+                                    value={settings.chatbot?.geminiApiKey || ""}
+                                    onChange={(e) => setSettings({ ...settings, chatbot: { ...settings.chatbot, geminiApiKey: e.target.value } })}
+                                    className="w-full px-4 py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-unaicBlue outline-none transition-all"
+                                />
+                                <p className="text-xs text-gray-400 mt-2">Dapatkan API Key di <a href="https://aistudio.google.com/" target="_blank" className="text-blue-600 underline">Google AI Studio</a>.</p>
                             </div>
                         </div>
                     )}

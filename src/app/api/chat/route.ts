@@ -2,11 +2,27 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getKnowledgeBase } from '@/lib/chatbot';
 import Fuse from 'fuse.js';
 import { GoogleGenerativeAI } from '@google/generative-ai';
+import fs from 'fs';
+import path from 'path';
 
-// Initialize Gemini
-const genAI = new GoogleGenerativeAI(process.env.GOOGLE_GEMINI_API_KEY || "");
+const SETTINGS_PATH = path.join(process.cwd(), 'src', 'data', 'admin_settings.json');
+
+// Helper to get Gemini API key
+function getGeminiApiKey() {
+  try {
+    if (process.env.GOOGLE_GEMINI_API_KEY) return process.env.GOOGLE_GEMINI_API_KEY;
+    if (fs.existsSync(SETTINGS_PATH)) {
+      const settings = JSON.parse(fs.readFileSync(SETTINGS_PATH, 'utf-8'));
+      return settings.chatbot?.geminiApiKey || "";
+    }
+  } catch (e) {
+    console.error("Error reading settings for Gemini key", e);
+  }
+  return "";
+}
 
 export async function GET() {
+
   const knowledgeBase = getKnowledgeBase();
   // Filter items that are active and marked as suggestions
   const suggestions = knowledgeBase
@@ -42,7 +58,8 @@ export async function POST(request: NextRequest) {
 
     // 2. AI FALLBACK (Google Gemini)
     // -----------------------------------------
-    if (!process.env.GOOGLE_GEMINI_API_KEY) {
+    const apiKey = getGeminiApiKey();
+    if (!apiKey) {
       return NextResponse.json({
         answer: "Maaf, saya belum menemukan jawaban di database dan fitur AI belum dikonfigurasi.",
         source: 'system'
@@ -50,7 +67,9 @@ export async function POST(request: NextRequest) {
     }
 
     try {
+      const genAI = new GoogleGenerativeAI(apiKey);
       const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
+
 
       // Create a context-aware system prompt
       // We feed the local knowledge as "context" so AI knows the facts too

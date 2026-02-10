@@ -27,8 +27,12 @@ const DEFAULT_SETTINGS = {
         phone: "(0282) 532975",
         email: "info@universitasalirsyad.ac.id",
         address: "Jl. Cerme No. 24, Sidanegara, Cilacap"
+    },
+    chatbot: {
+        geminiApiKey: ""
     }
 };
+
 
 const readData = () => {
     try {

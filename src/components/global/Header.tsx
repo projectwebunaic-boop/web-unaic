@@ -15,6 +15,19 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
   const locale = useLocale();
   const isEn = locale === 'en';
 
+  // Safe translation helper to prevent "Objects are not valid as a React child"
+  const safeT = (key: string, fb: string) => {
+    try {
+      const res = tMenu(key);
+      if (typeof res === 'string') return res;
+      if (res && typeof res === 'object') return fb;
+      return res || fb;
+    } catch (e) {
+      return fb;
+    }
+  };
+
+
   // Build dynamic faculties menu if data available
   const dynamicNavigation: any[] = navigation.map(item => {
     if (item.key === "Navigation.menu.faculties" && dbFaculties && dbFaculties.length > 0) {
@@ -151,7 +164,7 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                     onMouseEnter={() => setActiveDesktopDropdown(item.title)}
                     className="flex items-center gap-1 px-3 py-2 rounded-md hover:bg-unaicGold hover:text-unaicNavy transition-all duration-200 whitespace-nowrap cursor-pointer"
                   >
-                    {item.key ? tMenu(item.key) : item.title} <ChevronDown size={14} />
+                    {item.key ? safeT(item.key, item.title) : item.title} <ChevronDown size={14} />
                   </button>
 
                   {/* Level 1 Dropdown */}
@@ -174,9 +187,9 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                           <>
                             <div className={`flex justify-between items-center w-full px-4 py-2 rounded-md hover:bg-unaicGold hover:text-unaicNavy font-medium transition-colors cursor-pointer ${activeDesktopNestedDropdown === subItem.title ? 'bg-unaicGold text-unaicNavy' : 'text-unaicNavy'}`}>
                               {subItem.href ? (
-                                <Link href={subItem.href} className="flex-grow">{subItem.key ? tMenu(subItem.key) : subItem.title}</Link>
+                                <Link href={subItem.href} className="flex-grow">{subItem.key ? safeT(subItem.key, subItem.title) : subItem.title}</Link>
                               ) : (
-                                <span className="flex-grow">{subItem.key ? tMenu(subItem.key) : subItem.title}</span>
+                                <span className="flex-grow">{subItem.key ? safeT(subItem.key, subItem.title) : subItem.title}</span>
                               )}
                               <ChevronRight size={14} className={`text-gray-400 ${activeDesktopNestedDropdown === subItem.title ? 'text-unaicNavy' : ''}`} />
                             </div>
@@ -192,7 +205,7 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                                     href={nestedItem.href || '#'}
                                     className="block px-4 py-2 rounded-md hover:bg-unaicGold hover:text-unaicNavy text-unaicNavy text-sm transition-colors"
                                   >
-                                    {nestedItem.key ? tMenu(nestedItem.key) : nestedItem.title}
+                                    {nestedItem.key ? safeT(nestedItem.key, nestedItem.title) : nestedItem.title}
                                   </Link>
                                 </li>
                               ))}
@@ -204,7 +217,7 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                             href={subItem.href || '#'}
                             className="block px-4 py-2 rounded-md hover:bg-unaicGold hover:text-unaicNavy text-unaicNavy font-medium transition-colors"
                           >
-                            {subItem.key ? tMenu(subItem.key) : subItem.title}
+                            {subItem.key ? safeT(subItem.key, subItem.title) : subItem.title}
                           </Link>
                         )}
                       </li>
@@ -213,7 +226,7 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                 </>
               ) : (
                 <Link href={item.href || '#'} className="px-3 py-2 rounded-md hover:bg-unaicGold hover:text-unaicNavy transition-all duration-200">
-                  {item.key ? tMenu(item.key) : item.title}
+                  {item.key ? safeT(item.key, item.title) : item.title}
                 </Link>
               )}
             </li>
@@ -278,7 +291,7 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                         onClick={() => toggleMobileSubmenu(item.title)}
                         className="w-full flex justify-between items-center px-6 py-3 font-medium text-unaicNavy hover:bg-gray-50"
                       >
-                        {item.key ? tMenu(item.key) : item.title}
+                        {item.key ? safeT(item.key, item.title) : item.title}
                         <ChevronDown
                           size={18}
                           className={`transition-transform duration-300 ${activeMobileSubmenu === item.title ? 'rotate-180 text-unaicGold' : 'text-gray-400'}`}
@@ -295,7 +308,7 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                                     onClick={() => toggleMobileNestedSubmenu(subItem.title)}
                                     className="w-full flex justify-between items-center pl-10 pr-6 py-3 text-sm font-medium text-gray-700 hover:text-unaicNavy"
                                   >
-                                    {subItem.key ? tMenu(subItem.key) : subItem.title}
+                                    {subItem.key ? safeT(subItem.key, subItem.title) : subItem.title}
                                     <ChevronDown
                                       size={16}
                                       className={`transition-transform duration-300 ${activeMobileNestedSubmenu === subItem.title ? 'rotate-180' : ''}`}
@@ -319,7 +332,7 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                                         onClick={() => setIsMobileMenuOpen(false)}
                                         className="block pl-14 pr-6 py-2 text-sm text-gray-600 hover:text-unaicNavy"
                                       >
-                                        {nested.key ? tMenu(nested.key) : nested.title}
+                                        {nested.key ? safeT(nested.key, nested.title) : nested.title}
                                       </Link>
                                     ))}
                                   </div>
@@ -330,7 +343,7 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                                   onClick={() => setIsMobileMenuOpen(false)}
                                   className="block pl-10 pr-6 py-3 text-sm text-gray-700 hover:text-unaicNavy"
                                 >
-                                  {subItem.key ? tMenu(subItem.key) : subItem.title}
+                                  {subItem.key ? safeT(subItem.key, subItem.title) : subItem.title}
                                 </Link>
                               )}
                             </li>
@@ -344,7 +357,7 @@ export default function Header({ dbFaculties }: { dbFaculties?: any[] }) {
                       onClick={() => setIsMobileMenuOpen(false)}
                       className="block px-6 py-3 font-medium text-unaicNavy hover:bg-gray-50"
                     >
-                      {item.key ? tMenu(item.key) : item.title}
+                      {item.key ? safeT(item.key, item.title) : item.title}
                     </Link>
                   )}
                 </li>

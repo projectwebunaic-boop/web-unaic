@@ -41,11 +41,20 @@ export default async function RootLayout({
     notFound();
   }
 
-  const messages = await getMessages();
+  // Providing all messages to the client
+  // side is the easiest way to get started
+  let messages;
+  try {
+    messages = await getMessages({ locale });
+  } catch (error) {
+    notFound();
+  }
+
   const dbFaculties = await prisma.faculty.findMany({
     include: { programs: true },
     orderBy: { name: 'asc' }
   });
+
 
   return (
     <html lang={locale} className={`${inter.variable} ${poppins.variable}`} suppressHydrationWarning>

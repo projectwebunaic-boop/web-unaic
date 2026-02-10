@@ -445,7 +445,7 @@ model PkmProgram {
 
 model Publication {
   id            String   @id @default(uuid())
-  type          String   // JOURNAL, PROCEEDING, ARTICLE
+  type          String
   title         String
   titleEn       String?
   link          String?
@@ -464,16 +464,12 @@ model PmbConfig {
   heroTitleEn     String?  @default("New Student Admission")
   heroSubtitle    String?  @default("Bergabunglah dengan Universitas Al-Irsyad Cilacap dan jadilah generasi unggul yang berkarakter islami dan berdaya saing global.")
   heroSubtitleEn  String?  @default("Join Al-Irsyad University of Cilacap and become a superior generation with Islamic character and global competitiveness.")
-  
   ctaTitle        String?
   ctaTitleEn      String?
   ctaDesc         String?
   ctaDescEn       String?
-  
   timelinePdfUrl  String?
   brochurePdfUrl  String?
-  
   registrationUrl String?  @default("https://pmb.universitasalirsyad.ac.id/")
-  
   updatedAt       DateTime @updatedAt
 }

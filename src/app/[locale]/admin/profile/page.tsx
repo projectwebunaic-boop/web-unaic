@@ -864,7 +864,7 @@ export default function AdminProfilePage() {
                                     <Image src={src} alt={`Archive ${idx}`} fill className="object-cover" />
                                     <button
                                         onClick={() => {
-                                            const newArchive = data.archiveGallery.filter((_, i) => i !== idx);
+                                            const newArchive = (data.archiveGallery || []).filter((_, i) => i !== idx);
                                             setData({ ...data, archiveGallery: newArchive });
                                         }}
                                         className="absolute top-1 right-1 bg-red-500 text-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition"

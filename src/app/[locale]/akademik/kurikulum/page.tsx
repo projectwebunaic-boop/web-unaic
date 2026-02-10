@@ -26,7 +26,7 @@ export default async function KurikulumPage({ params }: { params: Promise<{ loca
     name: isEn ? (f.nameEn || f.name) : f.name,
     programs: f.programs.map(p => ({
       name: isEn ? (p.nameEn || p.name) : p.name,
-      pdfUrl: p.curriculumPdf || "#",
+      pdfUrl: (p as any).curriculumPdf || "#",
       curriculum: p.subjects.map(s => ({
         semester: s.semester,
         course: isEn ? (s.nameEn || s.name) : s.name,

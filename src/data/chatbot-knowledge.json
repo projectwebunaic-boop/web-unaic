@@ -1,0 +1,84 @@
+[
+  {
+    "id": "1",
+    "topics": [
+      "Pendaftaran",
+      "PMB"
+    ],
+    "keywords": [
+      "cara daftar",
+      "registrasi",
+      "buat akun",
+      "pmb online",
+      "daftar baru"
+    ],
+    "answer": "Pendaftaran mahasiswa baru UNAIC dapat dilakukan secara online melalui laman **pmb.universitasalirsyad.ac.id**. Klik menu 'Daftar Sekarang' dan ikuti langkah-langkahnya. Pastikan Anda menyiapkan scan ijazah/SKL dan pas foto.",
+    "isActive": true,
+    "isSuggestion": true
+  },
+  {
+    "id": "2",
+    "topics": [
+      "Biaya"
+    ],
+    "keywords": [
+      "biaya kuliah",
+      "spp",
+      "ukt",
+      "biaya masuk",
+      "rincian biaya"
+    ],
+    "answer": "Biaya kuliah di UNAIC bervariasi tergantung Program Studi. Untuk rincian lengkap D3/S1/Profesi, silakan unduh brosur biaya terbaru di menu **Download** pada website kami, atau hubungi admin PMB di 088905905905.",
+    "isActive": true,
+    "isSuggestion": true
+  },
+  {
+    "id": "3",
+    "topics": [
+      "Beasiswa"
+    ],
+    "keywords": [
+      "beasiswa",
+      "kip",
+      "kip kuliah",
+      "potongan biaya"
+    ],
+    "answer": "UNAIC menyediakan berbagai beasiswa, termasuk **KIP Kuliah**, Beasiswa Yayasan, dan Beasiswa Prestasi. Informasi pembukaan beasiswa biasanya diumumkan saat gelombang pendaftaran atau melalui Instagram resmi @unaic_official.",
+    "isActive": true,
+    "isSuggestion": true
+  },
+  {
+    "id": "4",
+    "topics": [
+      "Prodi",
+      "Jurusan"
+    ],
+    "keywords": [
+      "prodi",
+      "jurusan",
+      "program studi",
+      "ada jurusan apa"
+    ],
+    "answer": "UNAIC memiliki 3 Fakultas: \n1. **Fakultas Ilmu Kesehatan** (Keperawatan, Kebidanan, Profesi Ners & Bidan, Fisioterapi, Gizi) \n2. **Fakultas Farmasi, Sains & Teknologi** (Farmasi, TLM, Profesi Apoteker) \n3. **Fakultas Ekonomi & Bisnis** (Bisnis Digital, Kewirausahaan, Akuntansi).",
+    "isActive": true,
+    "isSuggestion": true
+  },
+  {
+    "id": "5",
+    "topics": [
+      "Kontak",
+      "Alamat"
+    ],
+    "keywords": [
+      "kontak",
+      "alamat",
+      "hubungi",
+      "nomor telepon",
+      "wa",
+      "lokasi"
+    ],
+    "answer": "Kampus UNAIC berlokasi di **Jl. Cerme No. 24, Sidanegara, Cilacap**. \n\nAnda dapat menghubungi kami melalui:\n- WhatsApp: 088905905905\n- Email: info@universitasalirsyad.ac.id\n- Instagram: @unaic_official",
+    "isActive": true,
+    "isSuggestion": true
+  }
+]

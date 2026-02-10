@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Wisuda Angkatan 2025",
+    "slug": "wisuda-angkatan-2025",
+    "date": "2026-03-17",
+    "time": "08:00 - 12:00 WIB",
+    "location": "Auditorium UNAIC",
+    "category": "Akademik",
+    "thumbnail": "/uploads/1768631564748_IMG-20240512-WA0005-2215039040.webp",
+    "description": "Prosesi Wisuda Sarjana dan Diploma Universitas Al-Irsyad Cilacap Tahun Akademik 2024/2025."
+  },
+  {
+    "id": "2",
+    "title": "Seminar Nasional Kesehatan 2025",
+    "slug": "seminar-nasional-kesehatan-2025",
+    "date": "2025-11-10",
+    "time": "09:00 - 15:00 WIB",
+    "location": "Online (Zoom Meeting)",
+    "category": "Event",
+    "thumbnail": "/uploads/1768635067620_WhatsApp_Image_2025-12-01_at_10.23.26_013b8844.jpg",
+    "description": "Seminar Nasional dengan tema 'Inovasi Teknologi Kesehatan di Era Digital' dengan pembicara ahli."
+  },
+  {
+    "id": "3",
+    "title": "Rapat Senat Terbuka",
+    "slug": "rapat-senat-terbuka-2025",
+    "date": "2025-12-15",
+    "time": "13:00 - 15:00 WIB",
+    "location": "Ruang Rapat Utama",
+    "category": "Rapat",
+    "thumbnail": "/uploads/1768635088498_news1.png",
+    "description": "Rapat Senat Terbuka dalam rangka Dies Natalis UNAIC."
+  }
+]

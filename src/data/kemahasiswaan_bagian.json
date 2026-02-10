@@ -1,0 +1,153 @@
+{
+  "hero": {
+    "title": "Bagian Kemahasiswaan",
+    "subtitle": "Mengembangkan potensi, karakter, dan kesejahteraan mahasiswa menuju lulusan yang unggul dan kompetitif.",
+    "titleEn": "Student Affairs Department",
+    "subtitleEn": "Developing students' potential, character, and well-being to become outstanding and competitive graduates."
+  },
+  "profile": {
+    "title": "Profil Singkat",
+    "content": "Bagian Kemahasiswaan Universitas Al-Irsyad Cilacap (UNAIC) merupakan unit yang dibentuk untuk mengembangkan aktivitas kemahasiswaan yang mampu mendukung terwujudnya mahasiswa Islami, Unggul,  dan Tepercaya. ",
+    "titleEn": "Brief Profile",
+    "contentEn": "The Student Affairs Division of Al-Irsyad University Cilacap (UNAIC) is a unit established to develop student activities that support the realization of Islamic, excellent, and trustworthy students. "
+  },
+  "layanan_umum": {
+    "title": "Layanan Kemahasiswaan",
+    "content": "Kami menyediakan berbagai layanan administrasi dan pendampingan untuk memfasilitasi kebutuhan mahasiswa selama menempuh pendidikan di UNAIC.",
+    "titleEn": "Student Services",
+    "contentEn": "We provide various administrative and support services to facilitate students' needs during their studies at UNAIC."
+  },
+  "sections": [
+    {
+      "id": "softskill",
+      "title": "Pengembangan Softskill",
+      "content": "Program pelatihan dan workshop untuk meningkatkan kemampuan komunikasi, kepemimpinan, dan etika mahasiswa.",
+      "icon": "Users",
+      "slug": "pengembangan-softskill",
+      "detail_content": "Program pengembangan softskill di UNAIC dirancang untuk mempersiapkan mahasiswa menghadapi dunia profesional dengan kemampuan interpersonal yang kuat. Pelatihan Kepemimpinan Workshop Komunikasi Efektif Seminar Etika Profesi Problem Solving & Critical Thinking",
+      "titleEn": "Soft Skills Development",
+      "contentEn": "Training programs and workshops to improve students' communication, leadership, and ethics skills.",
+      "detail_contentEn": "The soft skills development program at UNAIC is designed to prepare students for the professional world with strong interpersonal skills. Leadership Training Effective Communication Workshop Professional Ethics Seminar Problem Solving & Critical Thinking"
+    },
+    {
+      "id": "minat_bakat",
+      "title": "Minat dan Bakat",
+      "content": "Wadah pengembangan potensi mahasiswa melalui berbagai Unit Kegiatan Mahasiswa (UKM) di bidang seni, olahraga, dan lainnya.",
+      "icon": "Star",
+      "slug": "minat-dan-bakat",
+      "detail_content": "Mahasiswa dapat mengembangkan potensi diri melalui berbagai UKM yang tersedia: UKM Olahraga (Basket, Futsal, Badminton)UKM Seni (Paduan Suara, Tari, Musik) UKM Pecinta Alam UKM Keagamaan",
+      "titleEn": "Interests and Talents",
+      "contentEn": "A forum for developing student potential through various Student Activity Units (UKM) in the fields of arts, sports, and others.",
+      "detail_contentEn": "Students can develop their potential through various student activity units (UKM) available: Sports UKM (Basketball, Futsal, Badminton) Arts UKM (Choir, Dance, Music) Nature Lovers UKM Religious UKM"
+    },
+    {
+      "id": "konseling",
+      "title": "Bimbingan Konseling",
+      "content": "Layanan konsultasi psikologis dan akademik untuk membantu mahasiswa mengatasi hambatan pribadi maupun studi.",
+      "icon": "HeartHandshake",
+      "slug": "bimbingan-konseling",
+      "detail_content": "Layanan konseling tersedia bagi seluruh mahasiswa aktif UNAIC untuk mendukung kesehatan mental dan kelancaran studi.",
+      "titleEn": "Counseling Guidance",
+      "contentEn": "Psychological and academic counseling services to help students overcome personal and academic obstacles.",
+      "detail_contentEn": "Counseling services are available to all active UNAIC students to support their mental health and academic progress."
+    },
+    {
+      "id": "kewirausahaan",
+      "title": "Bimbingan Kewirausahaan",
+      "content": "Pendampingan bagi mahasiswa yang memiliki minat dalam dunia bisnis melalui pelatihan dan inkubasi bisnis.",
+      "icon": "Lightbulb",
+      "slug": "bimbingan-kewirausahaan",
+      "detail_content": "Program kewirausahaan mendorong mahasiswa untuk mandiri dan kreatif dalam menciptakan peluang bisnis. Program Mahasiswa Wirausaha (PMW) Business Plan Competition Inkubasi Bisnis Kampus",
+      "titleEn": "Entrepreneurship Guidance",
+      "contentEn": "Assistance for students interested in the business world through training and business incubation.",
+      "detail_contentEn": "The entrepreneurship program encourages students to be independent and creative in creating business opportunities. Student Entrepreneurship Program (PMW) Business Plan Competition Campus Business Incubation"
+    },
+    {
+      "id": "asrama",
+      "title": "Layanan Asrama",
+      "content": "Pengelolaan fasilitas tempat tinggal bagi mahasiswa dengan lingkungan yang kondusif untuk belajar dan berorganisasi.",
+      "icon": "Home",
+      "slug": "layanan-asrama",
+      "detail_content": "Asrama mahasiswa UNAIC menyediakan fasilitas hunian yang aman dan nyaman, terintegrasi dengan program pembinaan karakter.",
+      "titleEn": "Dormitory Services",
+      "contentEn": "Management of residential facilities for students with an environment conducive to learning and organizing.",
+      "detail_contentEn": "The UNAIC student dormitory provides safe and comfortable accommodation facilities, integrated with character building programs."
+    },
+    {
+      "id": "kesehatan",
+      "title": "Layanan Kesehatan Mahasiswa",
+      "content": "Penyediaan fasilitas pelayanan kesehatan dasar dan jaminan kesehatan bagi seluruh mahasiswa aktif.",
+      "icon": "Stethoscope",
+      "slug": "layanan-kesehatan",
+      "detail_content": "Kesehatan mahasiswa adalah prioritas kami. UNAIC bekerja sama dengan fasilitas kesehatan untuk menjamin pelayanan bagi mahasiswa.",
+      "titleEn": "Student Health Services",
+      "contentEn": "Provision of basic health care facilities and health insurance for all active students.",
+      "detail_contentEn": "Student health is our priority. UNAIC works with health facilities to ensure services for students."
+    },
+    {
+      "id": "beasiswa",
+      "title": "Layanan Beasiswa Mahasiswa",
+      "content": "Informasi dan pengelolaan berbagai jenis beasiswa baik dari internal yayasan maupun external (pemerintah/swasta).",
+      "icon": "GraduationCap",
+      "slug": "layanan-beasiswa",
+      "detail_content": "Beresbagai sumber beasiswa tersedia untuk mendukung biaya pendidikan mahasiswa berprestasi dan kurang mampu. Beasiswa KIP Kuliah, Beasiswa Prestasi UNAIC, Beasiswa Yayasan Al-Irsyad.",
+      "titleEn": "Student Scholarship Services",
+      "contentEn": "",
+      "detail_contentEn": "Various scholarship sources are available to support the educational costs of outstanding and underprivileged students. KIP Kuliah Scholarship, UNAIC Achievement Scholarship, Al-Irsyad Foundation Scholarship."
+    },
+    {
+      "id": "ilmiah",
+      "title": "Pelaksanaan Kegiatan Ilmiah, Penalaran dan Kreatifitas Mahasiswa",
+      "content": "Dukungan bagi mahasiswa untuk berpartisipasi dalam kompetisi ilmiah, penelitian, dan program kreativitas mahasiswa.",
+      "icon": "BookOpen",
+      "slug": "kegiatan-ilmiah-dan-kreativitas",
+      "detail_content": "Kami mendukung penuh partisipasi mahasiswa dalam ajang ilmiah tingkat nasional maupun internasional. Lomba Karya Tulis Ilmiah (LKTI), Program Kreativitas Mahasiswa (PKM), Olimpiade Sains, Hibah Penelitian Mahasiswa.",
+      "titleEn": "Implementation of Scientific, Reasoning, and Creativity Activities for Students",
+      "contentEn": "Implementation of Scientific, Reasoning, and Creativity Activities for Students",
+      "detail_contentEn": "We fully support student participation in national and international scientific events. Scientific Writing Competition (LKTI), Student Creativity Program (PKM), Science Olympiad, Student Research Grants."
+    }
+  ],
+  "documents": [
+    {
+      "id": "1",
+      "title": "Kode Etik",
+      "url": "#"
+    },
+    {
+      "id": "2",
+      "title": "Pedoman Asrama",
+      "url": "#"
+    },
+    {
+      "id": "3",
+      "title": "Ketentuan Asrama",
+      "url": "#"
+    },
+    {
+      "id": "4",
+      "title": "Ketentuan Seragam",
+      "url": "#"
+    },
+    {
+      "id": "5",
+      "title": "Panduan PA",
+      "url": "#"
+    },
+    {
+      "id": "6",
+      "title": "Layanan Kesehatan",
+      "url": "#"
+    },
+    {
+      "id": "7",
+      "title": "Panduan Kemahasiswaan",
+      "url": "#"
+    }
+  ],
+  "contact": {
+    "whatsapp": "6288905905905",
+    "email": "kemahasiswaan@unaic.ac.id",
+    "address": "Gedung kemahasiswaan Lt. 1, UNAIC",
+    "addressEn": "Student Affairs Building, 1st Floor, UNAIC"
+  }
+}

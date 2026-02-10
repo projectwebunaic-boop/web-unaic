@@ -1,0 +1,160 @@
+{
+  "categories": [
+    {
+      "id": "c_umum",
+      "name": "Dosen (MKU/Umum)",
+      "slug": "dosen-umum"
+    },
+    {
+      "id": "c1",
+      "name": "Dosen Fakultas Ilmu Kesehatan",
+      "slug": "dosen-fikes"
+    },
+    {
+      "id": "c2",
+      "name": "Dosen Fakultas Farmasi, Sains Dan Teknologi",
+      "slug": "dosen-fastek"
+    },
+    {
+      "id": "c3",
+      "name": "Tenaga Kependidikan",
+      "slug": "tendik"
+    },
+    {
+      "id": "c4",
+      "name": "Pimpinan Universitas",
+      "slug": "pimpinan"
+    }
+  ],
+  "staff": [
+    {
+      "id": "8b076e70-e3f0-4dbc-8e9a-592815118a12",
+      "name": "Dr. Opi Irawansyah, M.PdI.",
+      "role": "Dekan Fakultas Ekonomi & Bisnis",
+      "categoryId": "c4",
+      "nidn": "89087662782929",
+      "image": "/uploads/1768459129239_s1-keperawatan-mahasiswa-opi.jpg"
+    },
+    {
+      "id": "13b62c32-e2d5-428a-8585-a8d893716eba",
+      "name": "Dr. apt. Yuhansyah Nurfauzi, M.Si.",
+      "role": "Dekan Fakultas Farmasi, Sains & Teknologi",
+      "categoryId": "c4",
+      "nidn": "283933736382202",
+      "image": "/uploads/1768458899316_fauzy.jpg"
+    },
+    {
+      "id": "caae2e24-4b1c-4ec8-8469-ed6a80f73021",
+      "name": "Dr. Johariyah., M. Keb.",
+      "role": "Dekan Fakultas Ilmu Kesehatan",
+      "categoryId": "c4",
+      "nidn": "37899300303778",
+      "image": "/uploads/1768458740039_STAR5446-Photoroom.png-Photoroom.png"
+    },
+    {
+      "id": "72e6080e-cc69-4ada-96ab-20f27c6bb211",
+      "name": "Imam Agus Faizal, S.Tr.A.K., M.Imun.",
+      "role": "Dosen",
+      "categoryId": "c2",
+      "nidn": "787970000765",
+      "image": "/uploads/1768458352689_pa_imam_tlm.jpg"
+    },
+    {
+      "id": "71babc4d-33c9-40f6-812e-5a88e7d299f9",
+      "name": "Yuni Sapto Edhy Rahayu,M.Kep., Ns",
+      "role": "Dosen",
+      "categoryId": "c1",
+      "nidn": "2675228827678",
+      "image": "/uploads/1768458225350_warek2.jpg"
+    },
+    {
+      "id": "e9f462ae-8a23-42ea-93f8-1e325dc62f01",
+      "name": "Sarwa, AMK., S.Pd., M.Kes.",
+      "role": "Dosen",
+      "categoryId": "c1",
+      "nidn": "1223444456789",
+      "image": "/uploads/1768458098763_rektor.jpg"
+    },
+    {
+      "id": "9aa7cb70-4cbd-4001-83d7-99c743a90987",
+      "name": "Yogi Andhi Lestari, S.ST., M.Keb.",
+      "role": "Dosen",
+      "categoryId": "c1",
+      "nidn": "18726542672889",
+      "image": "/uploads/1768457981481_warek3.jpg"
+    },
+    {
+      "id": "1a40c657-5155-4811-8fb3-2ae4b3bdd776",
+      "name": "Agus Prasetyo, M.Kep., Ns.",
+      "role": "Dosen",
+      "categoryId": "c1",
+      "nidn": "1987362289923",
+      "image": "/uploads/1768457611631_warek1.jpg"
+    },
+    {
+      "id": "89f4d142-baff-4bb0-afa3-6ff4bece5f28",
+      "name": "Agus Prasetyo, M.Kep., Ns.",
+      "role": "Wakil Rektor III",
+      "categoryId": "c4",
+      "nidn": "1987362289923",
+      "image": "/uploads/1768457498382_warek1.jpg"
+    },
+    {
+      "id": "8bbb989f-2fcb-4e54-ae13-4e9429e101af",
+      "name": "Yogi Andhi Lestari, S.ST., M.Keb.",
+      "role": "Wakil Rektor II",
+      "categoryId": "c4",
+      "nidn": "18726542672889",
+      "image": "/uploads/1768457429168_warek3.jpg"
+    },
+    {
+      "id": "81b31cb2-0aca-4b33-b0ce-735d9d99925a",
+      "name": "apt. Mika Tri Kumala Swandari, M.Sc",
+      "role": "Dosen",
+      "categoryId": "c2",
+      "nidn": "1345272782899",
+      "image": "/uploads/1768451568641_mika-dekan-fastek-600x600-1.jpg"
+    },
+    {
+      "id": "6cfa22f6-5c54-49cf-945e-7c03db0f74db",
+      "name": "apt. Mika Tri Kumala Swandari, M.Sc",
+      "role": "Wakil Rektor I",
+      "categoryId": "c4",
+      "nidn": "1345272782899",
+      "image": "/uploads/1768451406741_mika-dekan-fastek-600x600-1.jpg"
+    },
+    {
+      "id": "31b83b21-61b7-4c40-bffd-0bd208fb82f1",
+      "name": "Sarwa, AMK., S.Pd., M.Kes.",
+      "role": "Rektor",
+      "categoryId": "c4",
+      "nidn": "1223444456789",
+      "image": "/uploads/1768451226714_rektor.jpg"
+    },
+    {
+      "id": "731d307f-6cef-4664-aa32-333a62254197",
+      "name": "Heri Subangkit, M.Kom",
+      "role": "Kepala Pusat Data Dan Informasi",
+      "categoryId": "c3",
+      "nidn": "12345678"
+    },
+    {
+      "id": "s1",
+      "name": "Susanti, S.ST., Bdn., M.Keb.",
+      "role": "Dosen Kebidanan",
+      "nidn": "0617088902",
+      "categoryId": "c1",
+      "scholarUrl": "#",
+      "image": "/uploads/1768451087015_staff.jpg"
+    },
+    {
+      "id": "s2",
+      "name": "Wisnu Subroto, S.ST.FT., S.FT., M.Or",
+      "role": "Dosen Fisioterapi",
+      "nidn": "0610059001",
+      "categoryId": "c1",
+      "scholarUrl": "#",
+      "image": "/uploads/1768457691295_pa_wisnu.jpg"
+    }
+  ]
+}

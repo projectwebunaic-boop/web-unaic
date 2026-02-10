@@ -1,0 +1,101 @@
+{
+  "categories": [
+    {
+      "id": "institutional",
+      "name": "Beasiswa Institusi Universitas Al-Irsyad Cilacap",
+      "nameEn": "Institutional Scholarship of Universitas Al-Irsyad Cilacap"
+    },
+    {
+      "id": "government",
+      "name": "Beasiswa dari Departemen/Lembaga Pemerintah",
+      "nameEn": "Scholarship from Government Departments/Agencies"
+    },
+    {
+      "id": "others",
+      "name": "Beasiswa dari Sumber Lain",
+      "nameEn": "Scholarship from Other Sources"
+    }
+  ],
+  "items": [
+    {
+      "id": "8cda99aa-a708-44b1-81d1-837b9ed4c017",
+      "categoryId": "institutional",
+      "title": "Beasiswa KIP UNAIC",
+      "description": "Bantuan Kuliah 50% dari kampus",
+      "titleEn": "KIP UNAIC Scholarship",
+      "descriptionEn": "50% Tuition Support from the University"
+    },
+    {
+      "id": "bpa",
+      "categoryId": "institutional",
+      "title": "Beasiswa Prestasi Akademik",
+      "description": "Ditujukan bagi mahasiswa dengan IPK minimal 3.5 dan prestasi akademik yang konsisten selama studi di UNAIC.",
+      "descriptionEn": "Intended for students with a minimum GPA of 3.5 and consistent academic achievement throughout their studies at UNAIC.",
+      "titleEn": "Academic Achievement Scholarship"
+    },
+    {
+      "id": "bpna",
+      "categoryId": "institutional",
+      "title": "Beasiswa Prestasi Non Akademik",
+      "description": "Diberikan kepada mahasiswa yang berprestasi di bidang olahraga, seni, kepemimpinan, dan kegiatan kemahasiswaan.",
+      "titleEn": "Non-Academic Merit Scholarship",
+      "descriptionEn": "Awarded to high-achieving students in the fields of sports, arts, leadership, and student activities."
+    },
+    {
+      "id": "bha",
+      "categoryId": "institutional",
+      "title": "Beasiswa Hafidz Al Qur'an",
+      "description": "Khusus untuk mahasiswa yang telah menghafal Al-Qur'an minimal 5 juz dengan kriteria kemampuan baca dan tajwid yang baik.",
+      "titleEn": "Hafidz Al Qur'an Scholarship",
+      "descriptionEn": "Specifically for students who have memorized at least 5 juz of the Qur'an with good reading and tajwid skills."
+    },
+    {
+      "id": "byp",
+      "categoryId": "institutional",
+      "title": "Beasiswa Yatim Piatu",
+      "description": "Bantuan biaya pendidikan untuk mahasiswa yatim/piatu yang memiliki prestasi akademik baik dan kondisi ekonomi terbatas.",
+      "titleEn": "Orphan Scholarship",
+      "descriptionEn": "Tuition Fee Assistance for orphaned students who maintain strong academic performance and demonstrate financial need."
+    },
+    {
+      "id": "ppa",
+      "categoryId": "government",
+      "title": "Beasiswa Peningkatan Prestasi Akademik (PPA)",
+      "description": "Program beasiswa dari pemerintah untuk mahasiswa berprestasi yang membutuhkan bantuan biaya pendidikan.",
+      "titleEn": "Academic Achievement Enhancement Scholarship (PPA)",
+      "descriptionEn": "A government scholarship program for outstanding students who require financial assistance for their educational costs."
+    },
+    {
+      "id": "bbp-ppa",
+      "categoryId": "government",
+      "title": "Beasiswa Bantuan Biaya Pendidikan Peningkatan Prestasi Akademik (BBP PPA)",
+      "description": "Bantuan biaya pendidikan untuk mahasiswa dengan prestasi akademik tinggi dari keluarga kurang mampu.",
+      "titleEn": "Scholarship for Educational Cost Assistance and Academic Achievement Enhancement (BBP PPA)",
+      "descriptionEn": "Educational funding assistance for students with high academic achievement from low-income families."
+    },
+    {
+      "id": "kip-k",
+      "categoryId": "government",
+      "title": "Beasiswa Kartu Indonesia Pintar Kuliah (KIP-K)",
+      "description": "Program bantuan biaya pendidikan dari pemerintah untuk mahasiswa dari keluarga kurang mampu dengan potensi akademik baik.",
+      "titleEn": "Indonesia Smart Card for Higher Education (KIP-K) Scholarship",
+      "descriptionEn": "Government educational cost assistance program intended for students from financially disadvantaged families who possess good academic potential."
+    },
+    {
+      "id": "ukt",
+      "categoryId": "government",
+      "title": "Beasiswa Uang Kuliah Tunggal (UKT)",
+      "description": "Bantuan pembayaran UKT untuk mahasiswa yang mengalami kesulitan ekonomi namun memiliki prestasi akademik yang baik.",
+      "titleEn": "Tuition Fee (UKT) Scholarship",
+      "descriptionEn": "Tuition Fee payment assistance for students who are facing financial hardship but maintain good academic achievement."
+    },
+    {
+      "id": "mitra",
+      "categoryId": "others",
+      "title": "Beasiswa Perusahaan atau Persatuan Profesi",
+      "description": "Beasiswa dari perusahaan swasta, BUMN, atau organisasi profesi yang bekerja sama dengan UNAIC untuk mendukung pendidikan mahasiswa.",
+      "titleEn": "Company or Professional Association Scholarships",
+      "descriptionEn": "Scholarships from private companies, state-owned enterprises, or professional organizations that collaborate with UNAIC to support student education."
+    }
+  ]
+}

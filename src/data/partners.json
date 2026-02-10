@@ -1,0 +1,120 @@
+{
+  "categories": [
+    {
+      "id": "cat1",
+      "name": "Pelayanan Kesehatan",
+      "iconName": "Hospital",
+      "description": "Kerjasama praktik klinik dan pengembangan karir tenaga kesehatan.",
+      "nameEn": "Health Services",
+      "descriptionEn": "Clinical practice cooperation and career development for healthcare workers."
+    },
+    {
+      "id": "cat2",
+      "name": "Institusi Pendidikan",
+      "iconName": "GraduationCap",
+      "description": "Kolaborasi riset, pertukaran pelajar, dan studi lanjut.",
+      "nameEn": "Educational Institutions",
+      "descriptionEn": "Research collaboration, student exchange, and further studies."
+    },
+    {
+      "id": "cat3",
+      "name": "Industri & Perusahaan",
+      "iconName": "Building2",
+      "description": "Program magang, penyerapan lulusan, dan hilirisasi inovasi.",
+      "nameEn": "Industry & Companies",
+      "descriptionEn": "Internship programs, graduate recruitment, and innovation commercialization."
+    },
+    {
+      "id": "cat4",
+      "name": "Instansi Pemerintah",
+      "iconName": "Landmark",
+      "description": "Sinergi program pengabdian masyarakat dan pengembangan daerah.",
+      "nameEn": "Government Agency",
+      "descriptionEn": "Synergy between community service programs and regional development."
+    }
+  ],
+  "items": [
+    {
+      "id": "p1",
+      "slug": "rsud-cilacap",
+      "name": "RSUD Cilacap",
+      "category": "Pelayanan Kesehatan",
+      "description": "Rumah Sakit Umum Daerah kebanggaan Kabupaten Cilacap.",
+      "profile": "RSUD Cilacap adalah rumah sakit rujukan utama di Kabupaten Cilacap yang berkomitmen memberikan pelayanan kesehatan paripurna. Kerjasama dengan UNAIC meliputi praktik klinik mahasiswa keperawatan, kebidanan, dan farmasi, serta penelitian bersama dosen dan tenaga medis.",
+      "images": [
+        "/uploads/8b80f02e-ce38-49d3-b09a-2afb4252e377.png"
+      ],
+      "website": "https://rsud.cilacapkab.go.id",
+      "descriptionEn": "The Regional General Hospital, the pride of Cilacap Regency.",
+      "profileEn": "Cilacap Regional General Hospital (RSUD Cilacap) is the main referral hospital in Cilacap Regency, committed to providing comprehensive healthcare services. Collaboration with UNAIC includes student clinical practice for nursing, midwifery, and pharmacy programs, as well as joint research involving faculty members and medical staff."
+    },
+    {
+      "id": "p2",
+      "slug": "rsi-fatimah-cilacap",
+      "name": "RSI Fatimah Cilacap",
+      "category": "Pelayanan Kesehatan",
+      "description": "Rumah Sakit Islam dengan pelayanan unggulan dan modern.",
+      "profile": "RSI Fatimah Cilacap merupakan mitra strategis UNAIC dalam penyelenggaraan pendidikan kesehatan berbasis nilai-nilai Islam. Kerjasama mencakup penyediaan lahan praktik, rekrutmen lulusan, dan kegiatan sosial kemasyarakatan.",
+      "images": [
+        "/uploads/7c2d462d-297d-4968-82e4-2e5c37533b57.png"
+      ],
+      "descriptionEn": "Islamic Hospital with excellent and modern services.",
+      "profileEn": "RSI Fatimah Cilacap is a strategic partner of UNAIC in organizing health education based on Islamic values. The collaboration encompasses the provision of practical training grounds, graduate recruitment, and community social activities."
+    },
+    {
+      "id": "p3",
+      "slug": "unsoed",
+      "name": "Universitas Jenderal Soedirman",
+      "category": "Institusi Pendidikan",
+      "description": "Perguruan tinggi negeri terkemuka di Purwokerto.",
+      "profile": "Kerjasama dengan Universitas Jenderal Soedirman (Unsoed) meliputi kolaborasi riset antar dosen, seminar internasional bersama, dan pendampingan akreditasi. Unsoed menjadi mitra strategis dalam pengembangan mutu akademik UNAIC.",
+      "images": [
+        "/uploads/364dcf61-a410-4dd4-a8ed-bdabcd5cd38f.png"
+      ],
+      "website": "https://unsoed.ac.id",
+      "descriptionEn": "A leading public university in Purwokerto.",
+      "profileEn": "The collaboration with Jenderal Soedirman University (Unsoed) includes research collaboration between lecturers, joint international seminars, and accreditation assistance. Unsoed is a strategic partner in the development of UNAIC's academic quality."
+    },
+    {
+      "id": "p4",
+      "slug": "msu-malaysia",
+      "name": "Management and Science University (MSU) Malaysia",
+      "category": "Institusi Pendidikan",
+      "description": "Mitra internasional untuk pertukaran pelajar dan dosen.",
+      "profile": "Management and Science University (MSU) adalah salah satu universitas swasta terkemuka di Malaysia. Kerjasama ini membuka peluang bagi mahasiswa UNAIC untuk mengikuti program pertukaran pelajar, double degree, dan bagi dosen untuk melakukan visiting lecturer.",
+      "images": [
+        "/uploads/adfe5393-b1d8-44f8-bc1a-19ec98291e55.png"
+      ],
+      "website": "https://msu.edu.my",
+      "descriptionEn": "International partners for student and faculty exchanges.",
+      "profileEn": "Management and Science University (MSU) is one of the leading private universities in Malaysia. This collaboration opens opportunities for UNAIC students to participate in student exchange programs and double degree programs, and for lecturers to become visiting lecturers."
+    },
+    {
+      "id": "p5",
+      "slug": "pertamina-cilacap",
+      "name": "PT Pertamina (Persero) RU IV Cilacap",
+      "category": "Industri & Perusahaan",
+      "description": "Kilang minyak terbesar di Indonesia yang berlokasi di Cilacap.",
+      "profile": "PT Pertamina RU IV Cilacap mendukung program pendidikan UNAIC melalui penyediaan tempat magang, kuliah umum dari praktisi industri, dan dukungan beasiswa/CSR bagi mahasiswa berprestasi.",
+      "images": [
+        "/uploads/1024c7fd-4564-464f-a30a-f3ff826bff51.png"
+      ],
+      "descriptionEn": "The largest oil refinery in Indonesia, located in Cilacap.",
+      "profileEn": "PT Pertamina RU IV Cilacap supports UNAIC's education program by providing internship opportunities, public lectures from industry practitioners, and scholarship/CSR support for outstanding students."
+    },
+    {
+      "id": "p6",
+      "slug": "pemkab-cilacap",
+      "name": "Pemerintah Kabupaten Cilacap",
+      "category": "Instansi Pemerintah",
+      "description": "Sinergi pembangunan daerah melalui pendidikan.",
+      "profile": "UNAIC bekerjasama erat dengan Pemerintah Kabupaten Cilacap dalam berbagai program pembangunan daerah, khususnya di bidang kesehatan masyarakat, pengentasan stunting, dan pengembangan sumber daya manusia.",
+      "images": [
+        "/uploads/bfcfdd4f-8c5a-47fc-b93f-d83f41eeaca7.png"
+      ],
+      "website": "https://cilacapkab.go.id",
+      "descriptionEn": "Regional development synergy through education.",
+      "profileEn": "UNAIC works closely with the Cilacap Regency Government on various regional development programs, particularly in the areas of public health, stunting eradication, and human resource development."
+    }
+  ]
+}

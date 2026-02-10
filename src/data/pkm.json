@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Pelatihan Kesehatan Ibu & Anak di Cilacap Dan Banyumas",
+    "leader": "Ns. Siti Nurjanah, S.Kep., M.Kep",
+    "year": "2023",
+    "status": "Selesai",
+    "description": "Program pengabdian masyarakat melalui pelatihan kesehatan ibu dan anak di wilayah Cilacap Dan Banyumas.",
+    "reportUrl": "#"
+  },
+  {
+    "id": 2,
+    "title": "Pemberdayaan UMKM Melalui Digital Marketing",
+    "leader": "Dr. Hendro Wicaksono, SE., MM",
+    "year": "2023",
+    "status": "Selesai",
+    "description": "Program pemberdayaan UMKM di Cilacap melalui pelatihan digital marketing dan e-commerce.",
+    "reportUrl": "#"
+  },
+  {
+    "id": 3,
+    "title": "Edukasi Gizi Seimbang untuk Lansia",
+    "leader": "Dr. Nur Hidayah, S.Gz., M.Gz",
+    "year": "2023",
+    "status": "Selesai",
+    "description": "Program edukasi gizi seimbang dan pola hidup sehat untuk lansia di panti werdha.",
+    "reportUrl": "#"
+  }
+]

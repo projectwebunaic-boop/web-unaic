@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Laboratorium Keperawatan",
+    "description": "Mini Hospital UNAIC",
+    "image": "/uploads/1768378886648_lab_kep_unaic.jpg",
+    "facilities": [
+      "Manekin Resusitasi",
+      "Bed Pasien",
+      "Alat TTV",
+      "AC",
+      "Westafel"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Laboratorium Kebidanan",
+    "description": "Simulasi persalinan & perawatan ibu-anak dengan peralatan modern",
+    "image": "/images/fasilitas/lab.jpg",
+    "facilities": [
+      "Phantom Persalinan",
+      "Incubator",
+      "USG Portable"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Laboratorium Farmasi",
+    "description": "Formulasi & analisis obat dengan teknologi terkini",
+    "image": "/uploads/1768380180774_lab_farmasi.jpg",
+    "facilities": [
+      "Timbangan Analitik",
+      "Mikroskop",
+      "Alat Gelas"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Laboratorium TLM",
+    "description": "Analisis klinik & diagnostik untuk praktikum mahasiswa",
+    "image": "/uploads/1768380388382_lab_TLM.jpg",
+    "facilities": [
+      "Mikroskop Binokuler",
+      "Sentrifuse",
+      "Fotometer"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Laboratorium Informatika",
+    "description": "Komputer & jaringan untuk pengembangan software dan sistem",
+    "image": "/uploads/1768380532265_lab_informatika.jpg",
+    "facilities": [
+      "PC High Spec",
+      "Server",
+      "Jaringan FO"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Laboratorium Bisnis Digital",
+    "description": "Startup & simulasi bisnis dengan teknologi digital terkini",
+    "image": "/uploads/1768380654868_lab-bisdig.jpeg",
+    "facilities": [
+      "Smart TV",
+      "Tablet",
+      "Software Bisnis"
+    ]
+  }
+]

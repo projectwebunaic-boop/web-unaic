@@ -1,0 +1,192 @@
+{
+  "hero": {
+    "title": "Lembaga Jaminan Mutu (LJM)",
+    "subtitle": "Menjamin standar kualitas pendidikan, penelitian, dan pengabdian masyarakat di lingkungan Universitas Al-Irsyad Cilacap secara berkelanjutan.",
+    "titleEn": "Quality Assurance Institute (QAI)",
+    "subtitleEn": "Ensuring the quality standards of education, research, and community service within Universitas Al-Irsyad Cilacap sustainably."
+  },
+  "about": {
+    "content": "<p>Lembaga Jaminan Mutu (LJM) bertugas untuk merencanakan, melaksanakan, mengevaluasi, mengendalikan, dan meningkatkan standar mutu internal universitas.</p>",
+    "contentEn": "<p>The Quality Assurance Body (QAB) is responsible for planning, implementing, evaluating, controlling, and improving the university's internal quality standards.</p>"
+  },
+  "profile": {
+    "vision": "Menjadi lembaga penjaminan mutu yang unggul, kredibel, dan akuntabel dalam mewujudkan budaya mutu di Universitas Al-Irsyad Cilacap pada tahun 2045.",
+    "mission": [
+      "Mengembangkan dan menetapkan standar mutu pendidikan, penelitian, dan pengabdian kepada masyarakat.",
+      "Melaksanakan monitoring dan evaluasi secara berkala terhadap pelaksanaan standar mutu.",
+      "Mendorong peningkatan budaya mutu secara berkelanjutan di lingkungan universitas.",
+      "Meningkatkan kompetensi sumber daya manusia dalam bidang penjaminan mutu."
+    ]
+  },
+  "structure": [
+    {
+      "id": "ketua",
+      "name": "Nama Ketua LJM",
+      "position": "Kepala Lembaga",
+      "image": "/images/placeholder-user.png"
+    },
+    {
+      "id": "sekretaris",
+      "name": "Nama Sekretaris",
+      "position": "Sekretaris",
+      "image": "/images/placeholder-user.png"
+    },
+    {
+      "id": "kabid-akreditasi",
+      "name": "Nama Kabid",
+      "position": "Kabid. Akreditasi",
+      "image": "/images/placeholder-user.png"
+    },
+    {
+      "id": "kabid-spmi",
+      "name": "Nama Kabid",
+      "position": "Kabid. SPMI",
+      "image": "/images/placeholder-user.png"
+    }
+  ],
+  "agendas": [
+    {
+      "id": "a1",
+      "slug": "rapat-tinjauan-manajemen-2025",
+      "title": "Rapat Tinjauan Manajemen (RTM) 2025",
+      "date": "2025-11-20",
+      "location": "Ruang Rapat Utama",
+      "description": "Evaluasi kinerja mutu universitas semester gasal.",
+      "image": "/images/placeholder-agenda.jpg"
+    },
+    {
+      "id": "a2",
+      "slug": "audit-mutu-internal-1",
+      "title": "Audit Mutu Internal (AMI) Tahap 1",
+      "date": "2025-10-15",
+      "location": "Fakultas Ilmu Kesehatan",
+      "description": "Pelaksanaan audit mutu internal untuk prodi kesehatan.",
+      "image": "/images/placeholder-agenda.jpg"
+    }
+  ],
+  "criteria": [
+    {
+      "id": "c1",
+      "title": "Kriteria 1",
+      "subtitle": "Visi, Misi, Tujuan, dan Strategi",
+      "description": "Visi, misi, tujuan, dan strategi pencapaian sasaran universitas.",
+      "icon": "Target",
+      "slug": "visi-misi-tujuan-strategi",
+      "content": "Universitas menetapkan visi, misi, tujuan, dan strategi sebagai arah pengembangan institusi dalam jangka panjang. Visi menggambarkan cita-cita besar yang ingin dicapai, sedangkan misi menjelaskan langkah nyata melalui pendidikan, penelitian, dan pengabdian kepada masyarakat. Tujuan dirumuskan untuk menghasilkan lulusan berkualitas, meningkatkan kontribusi riset, serta memperkuat peran sosial universitas. Strategi yang dijalankan meliputi penerapan kurikulum berbasis capaian, peningkatan kualitas sumber daya manusia, penguatan tata kelola, serta perluasan jejaring kerjasama nasional maupun internasional. Keseluruhan komponen ini menjadi dasar bagi universitas dalam mewujudkan reputasi akademik dan daya saing global."
+    },
+    {
+      "id": "c2",
+      "title": "Kriteria 2",
+      "subtitle": "Tata Pamong, Tata Kelola & Kerjasama",
+      "description": "Sistem tata pamong, kepemimpinan, dan pengelolaan institusi.",
+      "icon": "Users",
+      "slug": "tata-pamong-tata-kelola",
+      "content": "Kriteria ini menilai bagaimana universitas menjalankan tata pamong dan tata kelola yang transparan, akuntabel, serta berorientasi pada peningkatan mutu. Struktur organisasi disusun jelas dengan pembagian tugas dan wewenang yang efektif, didukung oleh sistem kepemimpinan yang partisipatif. Selain itu, universitas membangun kerjasama strategis dengan berbagai pihak, baik di tingkat nasional maupun internasional, untuk memperkuat kualitas pendidikan, penelitian, dan pengabdian kepada masyarakat. Sinergi tata kelola yang baik dan jejaring kerjasama yang luas menjadi fondasi penting dalam mewujudkan visi dan misi universitas."
+    },
+    {
+      "id": "c3",
+      "title": "Kriteria 3",
+      "subtitle": "Mahasiswa",
+      "description": "Kualitas input, proses, dan layanan kemahasiswaan.",
+      "icon": "GraduationCap",
+      "slug": "mahasiswa",
+      "content": "Mahasiswa menjadi pusat kegiatan akademik dengan sistem penerimaan yang transparan, layanan kemahasiswaan yang memadai, serta dukungan beasiswa. Prestasi akademik maupun non-akademik mahasiswa mencerminkan kualitas universitas, sekaligus menunjukkan peran aktif mereka dalam kegiatan sosial dan pengembangan diri."
+    },
+    {
+      "id": "c4",
+      "title": "Kriteria 4",
+      "subtitle": "Sumber Daya Manusia",
+      "description": "Kualifikasi dan kompetensi dosen serta tenaga kependidikan.",
+      "icon": "UserCheck",
+      "slug": "sumber-daya-manusia",
+      "content": "Kualitas dosen dan tenaga kependidikan menjadi faktor utama dalam mendukung tridharma perguruan tinggi. Universitas memastikan kualifikasi, rasio dosen-mahasiswa, serta pengembangan profesional berjalan optimal sehingga tercipta lingkungan akademik yang produktif dan berdaya saing."
+    },
+    {
+      "id": "c5",
+      "title": "Kriteria 5",
+      "subtitle": "Keuangan, Sarana & Prasarana",
+      "description": "Kecukupan dan aksesibilitas sumber daya pembelajaran.",
+      "icon": "Building",
+      "slug": "keuangan-sarana-prasarana",
+      "content": "Pengelolaan keuangan dilakukan secara transparan dan akuntabel untuk mendukung keberlanjutan program. Sarana dan prasarana kampus, seperti laboratorium, perpustakaan, dan fasilitas pembelajaran, disediakan untuk menunjang kegiatan akademik, penelitian, dan pengabdian."
+    },
+    {
+      "id": "c6",
+      "title": "Kriteria 6",
+      "subtitle": "Pendidikan",
+      "description": "Kurikulum, pembelajaran, dan suasana akademik.",
+      "icon": "BookOpen",
+      "slug": "pendidikan",
+      "content": "Kurikulum dirancang berbasis capaian pembelajaran dengan metode inovatif yang relevan dengan kebutuhan zaman. Evaluasi dilakukan secara berkesinambungan untuk memastikan kualitas lulusan, sementara integrasi teknologi memperkuat sistem pembelajaran modern."
+    },
+    {
+      "id": "c7",
+      "title": "Kriteria 7",
+      "subtitle": "Penelitian",
+      "description": "Produktivitas, relevansi, dan mutu penelitian dosen/mahasiswa.",
+      "icon": "FlaskConical",
+      "slug": "penelitian",
+      "content": "Universitas mendorong budaya riset dengan dukungan dana, fasilitas, dan kolaborasi. Publikasi ilmiah, paten, serta penelitian terapan menjadi indikator kontribusi universitas dalam pengembangan ilmu pengetahuan dan pemecahan masalah masyarakat."
+    },
+    {
+      "id": "c8",
+      "title": "Kriteria 8",
+      "subtitle": "Pengabdian kepada Masyarakat",
+      "description": "Pelaksanaan PkM yang bermanfaat bagi masyarakat.",
+      "icon": "Handshake",
+      "slug": "pengabdian-masyarakat",
+      "content": "Program pengabdian dilaksanakan sebagai wujud tanggung jawab sosial universitas. Kegiatan ini mencakup pemberdayaan masyarakat, pelatihan, dan pendampingan yang berdampak nyata terhadap peningkatan kualitas hidup dan pembangunan berkelanjutan."
+    },
+    {
+      "id": "c9",
+      "title": "Kriteria 9",
+      "subtitle": "Luaran dan Capaian Tridharma",
+      "description": "Kualitas lulusan dan produk ilmiah/inovasi.",
+      "icon": "Award",
+      "slug": "luaran-capaian-tridharma",
+      "content": "Luaran tridharma mencakup prestasi lulusan, serapan kerja, inovasi, serta penghargaan yang diraih universitas. Capaian ini menjadi tolok ukur keberhasilan dalam melaksanakan pendidikan, penelitian, dan pengabdian secara terpadu."
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc-1",
+      "title": "(RIP) 2020-2045",
+      "year": 2020,
+      "url": "#",
+      "category": "VMTS"
+    },
+    {
+      "id": "doc-2",
+      "title": "Statuta Universitas Al-Irsyad Cilacap",
+      "year": 2020,
+      "url": "#",
+      "category": "VMTS"
+    },
+    {
+      "id": "doc-3",
+      "title": "Manual Mutu SPMI",
+      "year": 2022,
+      "url": "#",
+      "category": "Tata Pamong"
+    },
+    {
+      "id": "doc-4",
+      "title": "SOP Tata Kelola Keuangan",
+      "year": 2021,
+      "url": "#",
+      "category": "Keuangan"
+    },
+    {
+      "id": "29ad417b-0c4e-4add-9ddb-6aeb8856cf4a",
+      "year": 2026,
+      "title": "SOP Contoh",
+      "url": "#",
+      "category": "PkM"
+    }
+  ],
+  "contact": {
+    "address": "Gedung Rektorat Lt. 2, Jl. Cerme No. 24, Cilacap",
+    "email": "ljm@universitasalirsyad.ac.id",
+    "whatsapp": "6281234567890"
+  }
+}

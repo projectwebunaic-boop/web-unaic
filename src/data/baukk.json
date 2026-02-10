@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "title": "Biro Administrasi Umum, Keuangan, dan Kepegawaian (BAUKK)",
+    "titleEn": "Bureau of General Affairs, Finance, and Human Resources (BAUKK)",
+    "subtitle": "Mengelola sumber daya universitas dengan integritas, transparansi, dan pelayanan prima untuk kemajuan UNAIC.",
+    "subtitleEn": "Managing university resources with integrity, transparency, and excellent service for the advancement of UNAIC."
+  },
+  "services": [
+    {
+      "id": "1",
+      "title": "Layanan Keuangan Mahasiswa",
+      "titleEn": "Student Financial Services",
+      "description": "Informasi pembayaran UKT, dispensasi, dan beasiswa internal.",
+      "descriptionEn": "Information on tuition fees (UKT), payment dispensations, and internal scholarships.",
+      "icon": "Wallet",
+      "slug": "layanan-keuangan-mahasiswa",
+      "content": "<p>Kami membantu mahasiswa dalam urusan administrasi keuangan, meliputi:</p><ol><li>Pembayaran Uang Kuliah Tunggal (UKT) dan biaya lainnya.</li><li>Pengajuan dispensasi pembayaran.</li><li>Verifikasi pembayaran wisuda.</li></ol>",
+      "contentEn": "<p>We assist students in financial administration, including:</p><ol><li>Tuition fee (UKT) payments and other fees.</li><li>Submission of payment dispensations.</li><li>Graduation payment verification.</li></ol>"
+    },
+    {
+      "id": "2",
+      "title": "Layanan Kepegawaian",
+      "titleEn": "Human Resources Services",
+      "description": "Administrasi dosen dan tenaga kependidikan, kenaikan pangkat, dan kesejahteraan.",
+      "descriptionEn": "Administration for lecturers and staff, promotions, and welfare.",
+      "icon": "Briefcase",
+      "slug": "layanan-kepegawaian",
+      "content": "<p>Layanan untuk dosen dan karyawan UNAIC:</p><ol><li>Pengurusan NIDN/NIDK/NUP.</li><li>Pengajuan kepangkatan akademik (Jafung).</li><li>Administrasi cuti dan izin studi lanjut.</li></ol>",
+      "contentEn": "<p>Services for UNAIC lecturers and staff:</p><ol><li>Management of NIDN/NIDK/NUP.</li><li>Academic rank (Jafung) applications.</li><li>Leave administration and study permits.</li></ol>"
+    },
+    {
+      "id": "3",
+      "title": "Sarana & Prasarana",
+      "titleEn": "Facilities & Infrastructure",
+      "description": "Pengelolaan aset, peminjaman ruangan, dan pemeliharaan fasilitas kampus.",
+      "descriptionEn": "Asset management, room booking, and campus facility maintenance.",
+      "icon": "Building",
+      "slug": "sarana-prasarana",
+      "content": "<p>Unit Sarpras melayani:</p><ol><li>Peminjaman ruang kelas dan aula.</li><li>Perbaikan fasilitas rusak.</li><li>Pengadaan barang dan inventaris kampus.</li></ol>",
+      "contentEn": "<p>The Facilities unit serves:</p><ol><li>Classroom and auditorium booking.</li><li>Repair of damaged facilities.</li><li>Procurement of campus goods and inventory.</li></ol>"
+    },
+    {
+      "id": "4",
+      "title": "Pengadaan & Logistik",
+      "titleEn": "Procurement & Logistics",
+      "description": "Layanan pengadaan barang dan distribusi logistik untuk kebutuhan operasional.",
+      "descriptionEn": "Goods procurement and logistics distribution for operational needs.",
+      "icon": "Truck",
+      "slug": "pengadaan-logistik",
+      "content": "<p>Layanan sentralisasi pengadaan untuk unit kerja di lingkungan UNAIC.</p>",
+      "contentEn": "<p>Centralized procurement services for work units within UNAIC.</p>"
+    }
+  ],
+  "audits": [
+    {
+      "year": 2024,
+      "url": "/documents/FORM_ETIKA_DAN_HUKUM_KESEHATAN.pdf",
+      "title": "Laporan Audit Internal 2024",
+      "titleEn": "Internal Audit Report 2024"
+    },
+    {
+      "year": 2023,
+      "url": "#",
+      "title": "Laporan Audit Internal 2023",
+      "titleEn": "Internal Audit Report 2023"
+    },
+    {
+      "year": 2022,
+      "url": "#",
+      "title": "Laporan Audit Internal 2022",
+      "titleEn": "Internal Audit Report 2022"
+    }
+  ],
+  "contact": {
+    "address": "Gedung Rektorat UNAIC, Jl. Cerme No.24, Cilacap",
+    "addressEn": "UNAIC Rectorate Building, Jl. Cerme No.24, Cilacap",
+    "whatsapp": "6288905905905",
+    "email": "baukk@universitasalirsyad.ac.id"
+  },
+  "faqs": [
+    {
+      "question": "Bagaimana prosedur pembayaran UKT?",
+      "questionEn": "What is the procedure for tuition (UKT) payment?",
+      "answer": "Pembayaran UKT dapat dilakukan melalui Virtual Account Bank Syariah Indonesia (BSI) atau Bank Jateng Syariah. Kode bayar dapat dilihat di akun SIAKAD masing-masing.",
+      "answerEn": "Tuition payments can be made via Virtual Account at Bank Syariah Indonesia (BSI) or Bank Jateng Syariah. The payment code can be found in each student's SIAKAD account."
+    },
+    {
+      "question": "Bagaimana cara mengajukan surat keterangan pegawai?",
+      "questionEn": "How do I apply for an employment certificate?",
+      "answer": "Pegawai dapat mengajukan surat keterangan melalui sistem informasi kepegawaian atau datang langsung ke kantor BAUKK dengan membawa formulir pengajuan.",
+      "answerEn": "Employees can apply for a certificate through the human resource information system or visit the BAUKK office directly with an application form."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Pengembangan Media Pembelajaran Digital Berbasis AR",
+    "leader": "Dr. Rahmawati, M.Kom",
+    "year": "2026",
+    "status": "Rencana",
+    "description": "Penelitian pengembangan media pembelajaran augmented reality untuk mata kuliah farmasi.",
+    "reportUrl": "#"
+  },
+  {
+    "id": 2,
+    "title": "Analisis Kandungan Nutrisi Tanaman Obat Tradisional",
+    "leader": "Dr. Ahmad Santoso, Apt., M.Farm",
+    "year": "2025",
+    "status": "Berjalan",
+    "description": "Penelitian kandungan nutrisi dan senyawa aktif pada tanaman obat tradisional lokal.",
+    "reportUrl": "#"
+  },
+  {
+    "id": 3,
+    "title": "Sistem Informasi Manajemen Apotek Berbasis Web",
+    "leader": "Dr. Maya Sari, M.TI",
+    "year": "2024",
+    "status": "Selesai",
+    "description": "Pengembangan sistem informasi terintegrasi untuk manajemen apotek modern.",
+    "reportUrl": "#"
+  }
+]

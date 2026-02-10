@@ -1,0 +1,216 @@
+{
+  "hero": {
+    "title": "Profil",
+    "subtitle": "Mengenal lebih dalam tentang Universitas Al-Irsyad Cilacap sebagai universitas unggul dan berkarakter Islami.",
+    "titleEn": "Profile",
+    "subtitleEn": "Learn more about Al-Irsyad University Cilacap as a leading university with Islamic values."
+  },
+  "history": {
+    "title": "Sejarah Singkat UNAIC",
+    "content": "Universitas Al-Irsyad Cilacap (UNAIC) adalah perguruan tinggi swasta di bawah Yayasan Sosial Al-Irsyad Cilacap, Jawa Tengah. UNAIC hadir sebagai kampus modern sekaligus rumah bagi generasi muda yang ingin meraih cita-cita melalui pendidikan tinggi.\n\nMahasiswa tidak hanya belajar teori, tetapi juga dibimbing untuk membangun karakter, mengasah keterampilan, dan mempersiapkan diri menghadapi tantangan masa depan. Dengan dukungan dosen profesional, fasilitas yang lengkap, serta lingkungan akademik yang nyaman, UNAIC berkomitmen mencetak lulusan yang cerdas, berakhlak, dan siap bersaing di dunia kerja maupun masyarakat global.\n\nKampus UNAIC berlokasi strategis di pusat kota Cilacap, memudahkan akses bagi mahasiswa dan masyarakat sekitar.",
+    "image": "/images/profil/campus-building.jpg",
+    "titleEn": "A Brief History of UNAIC",
+    "contentEn": "Al-Irsyad Cilacap University (UNAIC) is a private university under the Al-Irsyad Cilacap Social Foundation, Central Java. UNAIC is a modern campus and a home for young people who want to achieve their dreams through higher education.\n\nStudents not only learn theory, but are also guided to build character, hone skills, and prepare themselves for future challenges. With the support of professional lecturers, comprehensive facilities, and a comfortable academic environment, UNAIC is committed to producing graduates who are intelligent, ethical, and ready to compete in the workforce and global society.\n\nThe UNAIC campus is strategically located in the center of Cilacap city, making it easily accessible for students and the surrounding community."
+  },
+  "identity": [
+    {
+      "id": "id_1",
+      "title": "Akreditasi",
+      "value": "Baik Sekali",
+      "icon": "Award",
+      "titleEn": "Accreditation",
+      "valueEn": "Very good"
+    },
+    {
+      "id": "id_2",
+      "title": "Fakultas",
+      "value": "3 Fakultas",
+      "icon": "School",
+      "titleEn": "Faculty",
+      "valueEn": "3 Faculty"
+    },
+    {
+      "id": "id_3",
+      "title": "Mahasiswa",
+      "value": "5000+ Mahasiswa",
+      "icon": "Users",
+      "titleEn": "Student",
+      "valueEn": "5000+ Students"
+    },
+    {
+      "id": "id_4",
+      "title": "Lokasi",
+      "value": "Cilacap, Jawa Tengah",
+      "icon": "MapPin",
+      "titleEn": "Location",
+      "valueEn": "Cilacap, Central Java"
+    }
+  ],
+  "values": [
+    {
+      "id": "val_1",
+      "title": "Integritas",
+      "description": "Menjunjung tinggi kejujuran dan etika akademik.",
+      "icon": "Book",
+      "descriptionEn": "Upholding honesty and academic ethics.",
+      "titleEn": "Integrity"
+    },
+    {
+      "id": "val_2",
+      "title": "Inovasi",
+      "description": "Mendorong kreativitas dan pengembangan teknologi.",
+      "icon": "Lightbulb",
+      "descriptionEn": "Promoting creativity and technological development.",
+      "titleEn": "Inovation"
+    },
+    {
+      "id": "val_3",
+      "title": "Kolaborasi",
+      "description": "Membangun kemitraan dan kerja sama yang produktif.",
+      "icon": "Users",
+      "titleEn": "Colaboration",
+      "descriptionEn": "Building productive partnerships and cooperation."
+    },
+    {
+      "id": "val_4",
+      "title": "Keunggulan",
+      "description": "Berkomitmen pada kualitas pendidikan dan riset.",
+      "icon": "Award",
+      "titleEn": "Advantages",
+      "descriptionEn": "Committed to quality education and research."
+    }
+  ],
+  "media": {
+    "gallery": [
+      {
+        "src": "/uploads/1768462717639_mou1.jpg",
+        "alt": "Gallery Image"
+      },
+      {
+        "src": "/uploads/1768462758410_students.jpg",
+        "alt": "Gallery Image"
+      },
+      {
+        "src": "/uploads/1768462781881_timline1.jpg",
+        "alt": "Gallery Image"
+      },
+      {
+        "src": "/uploads/1768462812468_timeline3.jpg",
+        "alt": "Gallery Image"
+      }
+    ],
+    "video": {
+      "src": "/video/hero/hero.mp4",
+      "poster": "/images/campus-hero.jpg"
+    }
+  },
+  "timeline": [
+    {
+      "id": "t1",
+      "year": "1998",
+      "title": "Pendirian Akademi Keperawatan (AKPER)",
+      "description": "Cikal bakal UNAIC dimulai dengan pendirian AKPER Al-Irsyad Al-Islamiyyah Cilacap, fokus pada pendidikan perawat profesional.",
+      "icon": "GraduationCap",
+      "titleEn": "Establishment of the Nursing Academy (AKPER)",
+      "descriptionEn": "The origins of UNAIC began with the establishment of AKPER Al-Irsyad Al-Islamiyyah Cilacap, which focused on professional nursing education."
+    },
+    {
+      "id": "t2",
+      "year": "2005",
+      "title": "Pendirian Akademi Kebidanan (AKBID)",
+      "description": "Mersepons kebutuhan tenaga bidan, didirikan AKBID untuk mencetak bidan yang kompeten dan berkarakter.",
+      "icon": "Users",
+      "titleEn": "Establishment of the Midwifery Academy (AKBID)",
+      "descriptionEn": "Responding to the need for midwives, AKBID was established to produce competent midwives with good character."
+    },
+    {
+      "id": "t3",
+      "year": "2014",
+      "title": "Menjadi STIKES Al-Irsyad Al-Islamiyyah",
+      "description": "AKPER dan AKBID bergabung menjadi Sekolah Tinggi Ilmu Kesehatan (STIKES), memperluas cakupan program studi di bidang kesehatan.",
+      "icon": "Building",
+      "titleEn": "Becoming Al-Irsyad Al-Islamiyyah College of Health Sciences",
+      "descriptionEn": "AKPER and AKBID merged to become the College of Health Sciences (STIKES), expanding the scope of study programs in the health sector."
+    },
+    {
+      "id": "t4",
+      "year": "2021",
+      "title": "Transformasi Menjadi Universitas (UNAIC)",
+      "description": "STIKES resmi bertransformasi menjadi Universitas Al-Irsyad Cilacap (UNAIC) dengan penambahan fakultas baru di luar bidang kesehatan.",
+      "icon": "Milestone",
+      "titleEn": "Transformation into a University (UNAIC)",
+      "descriptionEn": "STIKES officially transformed into Al-Irsyad Cilacap University (UNAIC) with the addition of new faculties outside the health sector."
+    }
+  ],
+  "stats": [
+    {
+      "id": "s1",
+      "label": "Tahun Berdiri",
+      "value": 1998,
+      "suffix": "",
+      "labelEn": "Year Established"
+    },
+    {
+      "id": "s2",
+      "label": "Program Studi Awal",
+      "value": 1,
+      "suffix": "",
+      "labelEn": "Early Study Program"
+    },
+    {
+      "id": "s3",
+      "label": "Transformasi Institusi",
+      "value": 3,
+      "suffix": " Kali",
+      "labelEn": "Institutional Transformation"
+    },
+    {
+      "id": "s4",
+      "label": "Mahasiswa Saat Ini",
+      "value": "4000",
+      "suffix": "+",
+      "labelEn": "Current Students"
+    }
+  ],
+  "vision": {
+    "content": "Menjadi universitas yang berbasis islami, unggul dan terpercaya",
+    "contentEn": "Becoming an Islamic-based university that is excellent and trustworthy"
+  },
+  "mission": [
+    {
+      "id": "m1",
+      "title": "Pendidikan Berkualitas",
+      "description": "Menyelenggarakan Tri Dharma Perguruan Tinggi sesuai perkembangan ilmu pengetahuan dan teknologi    berdasarkan nilai-nilai Islam untuk meningkatkan derajat kesehatan masysrakat.",
+      "icon": "BookOpen",
+      "titleEn": "Quality Education",
+      "descriptionEn": "Implementing the Tri Dharma of Higher Education in accordance with developments in science and technology based on Islamic values to improve the health of the community."
+    },
+    {
+      "id": "m2",
+      "title": "Riset dan Inovasi",
+      "description": "Menyelenggarakan tata kelola perguruan tinggi yang baik.",
+      "icon": "Settings",
+      "titleEn": "Research and Innovation",
+      "descriptionEn": "Implementing good governance in higher education."
+    },
+    {
+      "id": "m3",
+      "title": "Kemitraan",
+      "description": "Memperkuat dan mengembangkan jaringan kemitraan kelembagaan yang menunjang pencapaian  kompetensi lulusan.",
+      "icon": "Handshake",
+      "titleEn": "Partnership",
+      "descriptionEn": "Strengthen and develop institutional partnership networks that support the achievement of graduate competencies."
+    },
+    {
+      "id": "m4",
+      "title": "Pengembangan SDM",
+      "description": "Meningkatkan kualitas sumberdaya dan kewirausahaan.",
+      "icon": "TrendingUp",
+      "titleEn": "Human Resource Development",
+      "descriptionEn": "Improving the quality of resources and entrepreneurship."
+    }
+  ],
+  "archiveGallery": [
+    "/uploads/1768463860291_Unaic-C-1346718398.webp"
+  ]
+}

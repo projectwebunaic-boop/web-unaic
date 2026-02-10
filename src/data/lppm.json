@@ -1,0 +1,52 @@
+{
+  "vision": "Menjadi lembaga penelitian dan pengabdian kepada masyarakat yang unggul dalam pengembangan ilmu pengetahuan, teknologi, dan inovasi berbasis nilai-nilai Islam untuk kemajuan bangsa.",
+  "mission": [
+    "Mengembangkan penelitian yang inovatif dan berdampak",
+    "Mendorong pengabdian masyarakat yang berkelanjutan",
+    "Meningkatkan publikasi ilmiah berkualitas",
+    "Membina kerjasama riset dengan stakeholder"
+  ],
+  "tasks": [
+    "Koordinasi kegiatan penelitian",
+    "Pengelolaan program PKM",
+    "Fasilitasi publikasi ilmiah",
+    "Pengembangan kerjasama riset",
+    "Pengelolaan laboratorium riset"
+  ],
+  "organization": {
+    "kepalaLembaga": {
+      "name": "Susanti, S.ST., Bdn., M.Keb.",
+      "title": "Kepala Lembaga Penelitian Dan Pengabdian Masyarakat"
+    },
+    "kabagPenelitian": {
+      "name": "Arief Hendrawan, S.ST., M.Fis.",
+      "title": "Kepala Bagian Penelitian, Publikasi, HKI & Paten"
+    },
+    "kabagPKM": {
+      "name": "Dwi Maryanti, S.ST., M.Kes.",
+      "title": "Kepala Bagian Pengabdian, Hilirisasi Hasil P2M & Pengelolaan Jurnal Ilmiah"
+    },
+    "komiteEtik": {
+      "name": "Dhiah Dwi Kusumawati, S.ST., MPH",
+      "title": "Ketua Komite Etik Penelitian"
+    },
+    "kasubagPenelitian": {
+      "name": "R. Bagus Bambang Sumantri, ST., M.Kom",
+      "title": "Kepala Sub Bagian Penelitian, Publikasi, HKI & Paten"
+    },
+    "kasubagJurnal": {
+      "name": "Rochany Septiyaningsih, S.ST., M.Ph.",
+      "title": "Kepala Sub Bagian Pengelolaan Jurnal Ilmiah & Unaic Pers"
+    },
+    "kasubagPKM": {
+      "name": "Indra Rachmawati, SE., M.Si.",
+      "title": "Kepala Sub Bagian Pengabdian Masyarakat, Inkubis & Hilirisasi Hasil P2M"
+    }
+  },
+  "proposalCta": {
+    "title": "Kirim Proposal Penelitian",
+    "description": "Ajukan proposal penelitian atau pengabdian masyarakat Anda. LPPM UNAIC siap mendampingi dan memfasilitasi pengembangan riset yang berdampak.",
+    "buttonText": "Ajukan Proposal",
+    "buttonLink": "https://wa.me/6281234567890"
+  }
+}

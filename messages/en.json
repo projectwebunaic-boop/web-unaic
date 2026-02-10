@@ -1,0 +1,1004 @@
+{
+    "HomePage": {
+        "heroTitle": "Al-Irsyad University of Cilacap",
+        "welcomeBadge": "Welcome to Future Education",
+        "welcomePrefix": "Welcome to",
+        "typeAnimation": {
+            "text1": "Building a Brighter Future.",
+            "text2": "Islamic, Professional, & Globally Competitive.",
+            "text3": "Center for Health Innovation & Technology."
+        },
+        "heroSubtitle": "Excellent, Islamic, and Trusted. Creating a generation of leaders with character and professionalism.",
+        "ctaRegister": "Register Now",
+        "ctaExplore": "Explore Campus"
+    },
+    "About": {
+        "title": "Building a Generation of Scholars & Professionals",
+        "subtitle": "About Us",
+        "description": "Al-Irsyad University of Cilacap (UNAIC) is not just a campus, but the birthplace of future leaders. We combine international standard curriculum with strong Islamic values.",
+        "features": {
+            "curriculum": "Competency-Based & Islamic Curriculum",
+            "facilities": "Complete Laboratory & Research Facilities",
+            "collaboration": "Extensive International Cooperation Network",
+            "career": "Scholarships & Career Support"
+        },
+        "cta": "Learn More",
+        "statsBadge": "Study Programs"
+    },
+    "Stats": {
+        "title": "UNAIC in Numbers",
+        "subtitle": "Our Achievements",
+        "description": "Achievements and statistics of Al-Irsyad University of Cilacap in educating future generations.",
+        "labels": {
+            "students": "Active Students",
+            "alumni": "Successful Alumni",
+            "lecturers": "Quality Lecturers",
+            "programs": "Study Programs",
+            "partners": "Collaboration Partners"
+        }
+    },
+    "PMB": {
+        "heroTitle": "New Student Admission",
+        "whyChooseTitle": "Why Choose UNAIC?",
+        "registerNow": "Register Now",
+        "viewProdi": "View Study Programs",
+        "wavesTitle": "Registration Waves",
+        "wavesDesc": "Don't miss this golden opportunity! We open registration in several waves. Make sure you register according to the schedule to get priority.",
+        "scheduleBtn": "View Full Schedule",
+        "timelineTitle": "Registration Schedule",
+        "reasons": {
+            "accredited": "Accredited",
+            "accreditedDesc": "Institutions and Study Programs accredited 'Very Good' by LAM-PTKes and BAN-PT.",
+            "lecturers": "Professional Lecturers",
+            "lecturersDesc": "Taught by practitioner lecturers and academics graduated from the best universities.",
+            "curriculum": "Modern Curriculum",
+            "curriculumDesc": "Competency-based curriculum relevant to current industry needs.",
+            "facilities": "Complete Facilities",
+            "facilitiesDesc": "Modern laboratories, digital libraries, and comfortable classrooms."
+        }
+    },
+    "Navigation": {
+        "menu": {
+            "about": "About Us",
+            "management": "Management",
+            "faculties": "Faculties & Programs",
+            "academic": "Academic",
+            "research": "Research & Innovation",
+            "student": "Student Affairs",
+            "news": "News & Agenda",
+            "faq": "FAQ"
+        },
+        "submenu": {
+            "profile": "Profile",
+            "history": "History",
+            "vision": "Vision & Mission",
+            "facilities": "Facilities",
+            "achievements": "Achievements",
+            "cooperation": "Cooperation",
+            "accreditation": "Accreditation & Legality",
+            "leaders": "Leadership",
+            "baak": "Academic Admin Bureau",
+            "baukk": "Finance & HR Bureau",
+            "lppm": "LPPM Profile",
+            "lpm": "LJM (Quality Assurance)",
+            "lecturers": "Lecturers & Staff",
+            "curriculum": "Curriculum",
+            "calendar": "Academic Calendar",
+            "policy": "Academic Policy",
+            "library": "Library",
+            "publication": "Publication",
+            "research": "Research & IP",
+            "pkm": "Community Service",
+            "lab": "Laboratory",
+            "student_dept": "Student Affairs Department",
+            "activities": "Student Activities",
+            "scholarship": "Scholarship",
+            "organizations": "Student Organizations",
+            "career": "Alumni & Career",
+            "news": "News",
+            "agenda": "Agenda"
+        }
+    },
+    "Faculties": {
+        "deanWelcome": "Dean's Welcome",
+        "vision": "Vision",
+        "mission": "Mission",
+        "facilities": "Excellent Facilities",
+        "facilitiesSubtitle": "Supporting the teaching and learning process with modern infrastructure and industry-standard laboratories.",
+        "welcomeTo": "Welcome to",
+        "title": "Faculties & Study Programs",
+        "subtitle": "Universitas Al-Irsyad Cilacap has various faculties and study programs focused on producing competent and characterful graduates.",
+        "explore": "Explore Faculties",
+        "visitWebsite": "Visit Faculty Website",
+        "comingSoon": "Coming Soon",
+        "notFound": "Faculty not found",
+        "notFoundDesc": "Sorry, the faculty you are looking for is not available.",
+        "backToList": "Back to Faculties",
+        "aboutTitle": "About Faculty",
+        "aboutDesc": "This faculty is committed to providing high-quality education with a curriculum that is continuously updated in accordance with the development of science and industry needs. With competent teaching staff and complete facilities, we prepare students to become professionals ready to contribute to society and the nation.",
+        "locationDesc": "UNAIC campus is strategically located in the center of Cilacap city, making it easy for students and the surrounding community to access.",
+        "prodiTitle": "Study Programs",
+        "health": {
+            "name": "Faculty of Health Sciences",
+            "dean": {
+                "name": "Siti Muthoharoh, S.Kep., Ners., M.Kep.",
+                "title": "Dean of the Faculty of Health Sciences",
+                "message": "The Faculty of Health Sciences (FIKES) UNAIC serves as a bridge for future professional health workers to achieve their dreams. We are committed to organizing higher health education that is not only academically excellent but also upholds Islamic values."
+            },
+            "vision": "To become an Excellent Health Science Faculty, with Islamic Character and Global Competitiveness by 2045.",
+            "missions": [
+                "Organizing quality, professional health science education and teaching with Islamic character.",
+                "Carrying out innovative and tested research in the field of health that is relevant to community needs.",
+                "Carrying out appropriate community internal service in the field of health.",
+                "Establishing sustainable cooperation with various national and international institutions."
+            ],
+            "facilities": [
+                {
+                    "title": "Nursing Laboratory",
+                    "description": "Medical simulation facilities with hospital-standard equipment."
+                },
+                {
+                    "title": "Midwifery Laboratory",
+                    "description": "Complete practice room for delivery and maternal-child health."
+                },
+                {
+                    "title": "Physiotherapy Laboratory",
+                    "description": "Equipped with the latest medical rehabilitation equipment."
+                },
+                {
+                    "title": "Digital Library",
+                    "description": "Access to thousands of international health journals and medical references."
+                }
+            ],
+            "programs": {
+                "d3_midwifery": "D3 Midwifery",
+                "d3_nursing": "D3 Nursing",
+                "prof_midwife": "Midwife Profession",
+                "prof_nurse": "Nurse Profession",
+                "s1_physio": "S1 Physiotherapy",
+                "s1_midwifery": "S1 Midwifery",
+                "s1_nursing": "S1 Nursing",
+                "s1_nursing_rpl": "S1 Nursing (RPL)",
+                "s1_midwifery_rpl": "S1 Midwifery (RPL)",
+                "prof_nurse_employee": "Nurse Profession (Employee Class)",
+                "prof_midwife_employee": "Midwife Profession (Employee Class)"
+            }
+        },
+        "science": {
+            "name": "Faculty of Pharmacy, Science & Tech",
+            "dean": {
+                "name": "Eko Ari Cahyo, M.Farm., Apt.",
+                "title": "Dean of the Faculty of Pharmacy, Science & Technology",
+                "message": "FFST UNAIC is committed to producing scientists and technology practitioners who are not only technically proficient but also have moral integrity. We focus on research that provides solutions to future health and technology challenges."
+            },
+            "vision": "To become an excellent Faculty in the development of science and technology in the fields of Pharmacy and Information Technology with Islamic character and Global Competitiveness by 2045.",
+            "missions": [
+                "Organizing pharmacy and technology education that is adaptive to Industry 4.0.",
+                "Developing innovative and applicable science and technology research.",
+                "Carrying out community service based on science and technology products.",
+                "Building strategic partnerships with national and international industries."
+            ],
+            "facilities": [
+                {
+                    "title": "Pharmaceutics Lab",
+                    "description": "Modern compounding and pharmaceutical formulation facilities."
+                },
+                {
+                    "title": "Computer & Informatics Lab",
+                    "description": "High-speed software development and data analysis center."
+                },
+                {
+                    "title": "Analytical Chemistry Lab",
+                    "description": "Fully equipped with HPLC and Spectrophotometry instruments."
+                },
+                {
+                    "title": "Teaching Pharmacy",
+                    "description": "Simulation pharmacy for developing clinical pharmacist skills."
+                }
+            ],
+            "programs": {
+                "d3_pharmacy": "D3 Pharmacy",
+                "d4_tlm": "D4 Medical Lab Technology",
+                "prof_apothecary": "Apothecary Profession",
+                "s1_pharmacy": "S1 Pharmacy",
+                "s1_informatics": "1 Informatics",
+                "s1_pharmacy_rpl": "S1 Pharmacy (RPL)"
+            }
+        },
+        "business": {
+            "name": "Faculty of Economics & Business",
+            "dean": {
+                "name": "Arif Rahman, M.B.A.",
+                "title": "Dean of the Faculty of Economics & Business",
+                "message": "FEB UNAIC creates future technopreneurs. We believe that a successful business is one built on Islamic ethical values and the smart utilization of digital technology."
+            },
+            "vision": "To become an Excellent Faculty of Economics and Business with Islamic Character in the Field of Digital Business and Entrepreneurship by 2045.",
+            "missions": [
+                "Organizing digital business and entrepreneurship education based on Islamic values.",
+                "Conducting innovative research in the creative and digital economy sectors.",
+                "Providing business assistance to MSMEs and the wider community.",
+                "Creating an entrepreneurial ecosystem within the campus environment."
+            ],
+            "facilities": [
+                {
+                    "title": "Investment Gallery",
+                    "description": "Real-time capital market learning and stock analysis center."
+                },
+                {
+                    "title": "Business Incubator",
+                    "description": "A place for developing student startups with mentor guidance."
+                },
+                {
+                    "title": "Coworking Space",
+                    "description": "Creative collaboration space for student business ideation."
+                },
+                {
+                    "title": "Digital Lab",
+                    "description": "Digital marketing and e-commerce business analysis facilities."
+                }
+            ],
+            "programs": {
+                "s1_digital_business": "S1 Digital Business",
+                "s1_entrepreneurship": "S1 Entrepreneurship",
+                "pjj_digital_business": "S1 Digital Business (Online)",
+                "pjj_entrepreneurship": "S1 Entrepreneurship (Online)"
+            }
+        },
+        "prodiFallbackPrefix": "Superior",
+        "prodiFallbackSuffix": "study program with competency-based curriculum and modern facilities.",
+        "semester": "Semester",
+        "certificate": "Certificate",
+        "viewCurriculum": "View Curriculum & Prospects",
+        "detail": [
+            {
+                "slug": "ilmu-kesehatan",
+                "nama": "Faculty of Health Sciences",
+                "deskripsi": "A faculty focusing on health education with flagship programs in nursing, midwifery, and physiotherapy."
+            },
+            {
+                "slug": "farmasi-sains-teknologi",
+                "nama": "Faculty of Pharmacy, Science and Technology",
+                "deskripsi": "Integrating pharmacy, science, and technology to produce competent graduates in health and technology fields."
+            },
+            {
+                "slug": "ekonomi-bisnis",
+                "nama": "Faculty of Economics & Business",
+                "deskripsi": "Preparing students to become future business leaders with a curriculum that is relevant and adaptive to industry."
+            }
+        ]
+    },
+    "Common": {
+        "readMore": "Read More",
+        "seeDetails": "View Faculty Details",
+        "visitPage": "Visit Page",
+        "programsList": "Study Programs List",
+        "programsCount": "Study Programs",
+        "search": "Search",
+        "search_placeholder": "Search website...",
+        "searchResults": "Search Results",
+        "noResults": "No results found",
+        "portal_btn": "Academic Portal",
+        "home_btn": "Home",
+        "footerDesc": "Al-Irsyad University of Cilacap is a health and social higher education institution dedicated to producing excellent generations."
+    },
+    "BAAK": {
+        "title": "Academic & Student Affairs Bureau (BAAK)",
+        "subtitle": "Providing excellent services in academics, graduation, and student administration.",
+        "servicesTitle": "Primary Services",
+        "servicesDesc": "We provide various services to support your academic journey at UNAIC.",
+        "searchPlaceholder": "Search for services (e.g., Graduation, Diploma, Student ID)...",
+        "noServices": "Service not found",
+        "noServicesDesc": "Try another keyword or contact BAAK for assistance.",
+        "viewDetail": "View Details",
+        "accessService": "Access Service",
+        "faqTitle": "Academic Service FAQ",
+        "faqDesc": "Frequently asked questions regarding academic and student services.",
+        "surveyTitle": "Academic Service Satisfaction Survey",
+        "surveyDesc": "Help us improve our service by providing your feedback.",
+        "surveyStart": "Start Filling the Questionnaire",
+        "fullName": "Full Name",
+        "fullNamePlaceholder": "Enter your full name",
+        "suggestions": "Suggestions & Feedback",
+        "suggestionsPlaceholder": "Write your suggestions here...",
+        "submitBtn": "Submit Feedback",
+        "submitBtnText": "Submit Feedback",
+        "submitting": "Submitting...",
+        "successTitle": "Thank You!",
+        "successDesc": "Your feedback has been received and is valuable to us.",
+        "close": "Close",
+        "contactTitle": "BAAK Contact",
+        "contactDesc": "Reach out to us for further inquiries.",
+        "address": "Address",
+        "whatsapp": "WhatsApp",
+        "email": "Email",
+        "contactUs": "Contact Us",
+        "contactUsDesc": "Need quick help? Chat with us via WhatsApp.",
+        "contactWaBtn": "Chat via WhatsApp",
+        "categories": {
+            "academic": "Academic Services",
+            "student": "Student Services",
+            "admin": "Administration & General",
+            "other": "Other Services"
+        },
+        "detail": {
+            "subtitle": "BAAK Service Detail Al-Irsyad University of Cilacap",
+            "backAuth": "Back to BAAK Services",
+            "helpTitle": "Need Further Assistance?",
+            "helpDesc": "Do not hesitate to contact our staff if you have specific questions regarding this service.",
+            "contactWa": "Contact via WhatsApp"
+        },
+        "faqs": [
+            {
+                "title": "What is the procedure for Study Plan (KRS)?",
+                "content": "<p>Students can perform KRS through the UNAIC academic portal by following these steps:</p>\n<ol class=\"list-decimal list-inside mt-2 space-y-1\">\n  <li>Login to the academic portal</li>\n  <li>Select the KRS menu</li>\n  <li>Select the desired courses</li>\n  <li>Confirm and save KRS</li>\n</ol>"
+            },
+            {
+                "title": "How to apply for academic leave?",
+                "content": "<p>To apply for academic leave, students must:</p>\n<ul class=\"list-disc list-inside mt-2 space-y-1\">\n  <li>Fill out the leave application form</li>\n  <li>Attach a recommendation letter from parents/guidance</li>\n  <li>Submit to BAAK for processing</li>\n  <li>Maximum leave is 1 semester per year</li>\n</ul>"
+            },
+            {
+                "title": "How to obtain an active student certificate?",
+                "content": "<p>An active student certificate can be obtained by:</p>\n<ul class=\"list-disc list-inside mt-2 space-y-1\">\n  <li>Login to the academic portal</li>\n  <li>Select the \"Certificates\" menu</li>\n  <li>Select \"Active Student Certificate\"</li>\n  <li>Download and print the certificate</li>\n</ul>"
+            }
+        ],
+        "surveyQuestions": [
+            "The officer provides clear and easy-to-understand information regarding academic procedures.",
+            "The service provided by BAAK is fast and according to the specified time.",
+            "The officers are friendly, polite, and communicative in serving students.",
+            "Academic information is easily accessible through the portal or notice board.",
+            "Facilities and service rooms at BAAK are comfortable and well-organized."
+        ]
+    },
+    "Accreditation": {
+        "title": "Accreditation & Legality",
+        "subtitle": "Proof of Universitas Al-Irsyad Cilacap's commitment to maintaining education quality and compliance with national standards.",
+        "instBadge": "Institutional Accreditation",
+        "instTitle": "History of Institutional Legality & Accreditation",
+        "instDesc": "The journey of institutional legality from the Nursing Academy, School of Health Sciences, to becoming a University. This document guarantees the validity of graduates' diplomas in each period.",
+        "excellentAccred": "Accredited Excellent",
+        "progTitle": "Study Program Accreditation Status",
+        "progDesc": "Complete list of accreditation status for Diploma, Bachelor, and Professional study programs within Universitas Al-Irsyad Cilacap.",
+        "allFaculties": "All Faculties",
+        "progsCount": "Programs",
+        "tableNo": "No",
+        "tableProg": "Study Program",
+        "tableLevel": "Level",
+        "tableRank": "Rank",
+        "tableSK": "SK No. & Validity",
+        "tableCert": "Certificate",
+        "validUntil": "Valid until",
+        "noData": "There is no study program data for this faculty yet."
+    },
+    "LPM": {
+        "defaultTitle": "Quality Assurance Institute",
+        "defaultSubtitle": "Official Portal of Internal Quality Assurance System (SPMI) Universitas Al-Irsyad Cilacap",
+        "portalBadge": "Accreditation Portal",
+        "criteriaTitle": "9 Criteria Data Center",
+        "criteriaDesc": "Quick access to accreditation criteria documents for Internal Quality Audit (IQA) and Field Assessment needs.",
+        "documentsTitle": "Documents",
+        "criteria": "Criteria",
+        "allDocuments": "All Public Documents",
+        "resetFilter": "Reset Filter",
+        "noCriteria": "Criteria data is not available yet.",
+        "more": "Read More",
+        "searchPlaceholder": "Search documents (e.g., Strategic Plan, Statutes)...",
+        "categoryAll": "All",
+        "tableDocName": "Document Name",
+        "tableCategory": "Category",
+        "tableYear": "Year",
+        "tableAction": "Action",
+        "download": "Download",
+        "noDocuments": "No documents found."
+    },
+    "News": {
+        "categoryAll": "All",
+        "categoryNews": "News",
+        "categoryAnnouncement": "Announcement",
+        "categoryCareer": "Career",
+        "noData": "No data",
+        "noDataDesc": "No information available for the {category} category yet.",
+        "more": "See More",
+        "readMore": "Read Detail",
+        "defaultTitle": "UNAIC News",
+        "notFound": "Article Not Found",
+        "notFoundDesc": "The article you are looking for could not be found.",
+        "backToList": "Back to News List",
+        "by": "by",
+        "share": "Share",
+        "relatedNews": "Related News",
+        "heroTitle": "News & Agenda - News",
+        "heroSubtitle": "Collection of the latest news about Universitas Al-Irsyad Cilacap.",
+        "latestNews": "Latest News"
+    },
+    "Agenda": {
+        "noAgenda": "No agenda scheduled yet.",
+        "viewAll": "View All Agendas",
+        "readMore": "View Details",
+        "heroTitle": "UNAIC Agenda",
+        "heroSubtitle": "Collection of the latest agendas around Universitas Al-Irsyad Cilacap.",
+        "recentAgenda": "Recent Agenda",
+        "category": "Category",
+        "date": "Date",
+        "time": "Time",
+        "location": "Location",
+        "descriptionTitle": "Agenda Description",
+        "backToList": "Back to Agenda List",
+        "shareText": "Check out this agenda at Universitas Al-Irsyad Cilacap"
+    },
+    "Leaders": {
+        "viewProfile": "View Profile",
+        "loadingProfile": "Loading Profile...",
+        "loadingLeaders": "Loading Leadership Data...",
+        "backToList": "Back to Leadership List",
+        "heroTitle": "Leadership Profile",
+        "heroSubtitle": "Get to know the leaders of Universitas Al-Irsyad Cilacap better",
+        "heroTitleList": "Leadership",
+        "heroSubtitleList": "Leadership commitment in advancing Universitas Al-Irsyad Cilacap towards an excellent university with Islamic character.",
+        "rector": "Rector",
+        "viceRector": "Vice Rector",
+        "dean": "Faculty Dean",
+        "topLeader": "Top Leader",
+        "otherLeaders": "Other Officials & Leaders",
+        "contactInfo": "Contact Information",
+        "officialEmail": "Official Email",
+        "office": "Office",
+        "officeLocation": "UNAIC Rectorate Building",
+        "researchPub": "Research Publication",
+        "scholarProfile": "Google Scholar Profile",
+        "visionTitle": "Vision & Commitment",
+        "defaultVision": "Committed to advancing higher education in health and technology based on Islamic values to produce future superior generations.",
+        "educationHistory": "Education History",
+        "careerHistory": "Professional Career History",
+        "researchFocus": "Research Focus",
+        "ctaTitle": "UNAIC Leadership Commitment",
+        "ctaDesc": "The leadership of Universitas Al-Irsyad Cilacap is committed to continuing to improve the quality of education, research, and community service in order to produce superior generations with Islamic character.",
+        "category": {
+            "Rektor": "Rector",
+            "Wakil Rektor": "Vice Rector",
+            "Direktur": "Director",
+            "Dekan": "Dean",
+            "Lainnya": "Others"
+        },
+        "orgTitle": "UNAIC Organization Structure",
+        "orgDesc": "Complete overview of the organization structure of Universitas Al-Irsyad Cilacap showing hierarchy and relationships between work units.",
+        "showOrg": "View Complete Organization Structure",
+        "hideOrg": "Hide Organization Structure",
+        "clickToZoom": "Click image to zoom and see organization structure details"
+    },
+    "BAUKK": {
+        "servicesTitle": "Main Services",
+        "servicesDesc": "We provide integrated services to support university operations and the welfare of the academic community.",
+        "transparencyTitle": "Transparency & Accountability",
+        "transparencyDesc": "We are committed to maintaining high integrity in financial management. Here are the audit reports as a form of public accountability.",
+        "faqTitle": "Frequently Asked Questions",
+        "contactTitle": "Contact BAUKK Services",
+        "contactDesc": "Our team is ready to assist with your administrative needs. Please contact us through the following channels.",
+        "whatsappBtn": "Chat via WhatsApp"
+    },
+    "Research": {
+        "title": "Research & Innovation",
+        "subtitle": "Developing science and technology through high-quality research.",
+        "focusTitle": "Research Focus",
+        "focusDesc": "Research at UNAIC is directed towards answering future health and technology challenges. We focus on developing innovations that can be applied directly to improve the community's quality of life. Research spans health, pharmacy, midwifery, and information technology fields.",
+        "servicesTitle": "Research Services",
+        "ethicsTitle": "Research Ethics Committee",
+        "ethicsDesc": "Ethical review services to ensure research meets ethical standards and protects research subjects.",
+        "hkiTitle": "IPR & Patents",
+        "hkiDesc": "Assistance in registering Intellectual Property Rights (IPR) and Patents from the research of the academic community.",
+        "pubTitle": "Scientific Publication",
+        "pubDesc": "Facilitating the publication of research results in accredited national journals and reputable international journals.",
+        "currentResearch": "Latest Research",
+        "leader": "LEAD RESEARCHER",
+        "viewDetail": "View Details"
+    },
+    "Footer": {
+        "description": "Universitas Al-Irsyad Cilacap (UNAIC) is a higher education institution committed to producing excellent, characterized, and globally competitive graduates.",
+        "quickLinks": "Quick Access",
+        "services": "Services & Information",
+        "contact": "Contact & Location",
+        "followUs": "Follow Us",
+        "location": "Campus Location",
+        "viewDirections": "See Directions on Google Maps",
+        "links": {
+            "pmb": "New Student Admission (PMB)",
+            "mitra": "Partners & Cooperation",
+            "career": "Alumni & Career",
+            "gallery": "Photo Gallery",
+            "complaints": "Complaint Service",
+            "explore": "Campus Exploration",
+            "faq": "Question & Answer (FAQ)",
+            "contact": "Contact Us"
+        }
+    },
+    "Profile": {
+        "identityTitle": "Campus Identity",
+        "valuesTitle": "University Core Values",
+        "ctaTitle": "Get to Know UNAIC Closer",
+        "buttons": {
+            "history": "History",
+            "vision": "Vision & Mission",
+            "achievements": "Achievements"
+        }
+    },
+    "FAQ": {
+        "title": "FAQ",
+        "subtitle": "Frequently Asked Questions about Universitas Al-Irsyad Cilacap.",
+        "generalQuestions": "General Questions",
+        "needHelp": "Need More Help?",
+        "needHelpDesc": "Contact us via the Contact page for other questions not listed in the FAQ.",
+        "contactUs": "Contact Us",
+        "noFAQ": "No FAQ data available yet."
+    },
+    "VisiMisi": {
+        "heroTitle": "Vision & Mission",
+        "heroSubtitle": "Al-Irsyad Cilacap University",
+        "visionTitle": "Vision",
+        "missionTitle": "Mission",
+        "ctaTitle": "Building the Future Together",
+        "ctaDesc": "Join Al-Irsyad Cilacap University to achieve our shared vision and mission in producing a superior generation.",
+        "ctaButton": "View UNAIC Profile"
+    },
+    "History": {
+        "statsTitle": "Key Milestones in History",
+        "galleryTitle": "UNAIC Archive Gallery",
+        "ctaTitle": "Moving Forward with UNAIC",
+        "ctaDesc": "Our history is the foundation for a brighter future.",
+        "ctaButton": "View Vision & Mission"
+    },
+    "Facilities": {
+        "heroTitle": "Facilities",
+        "heroSubtitle": "Supporting comfortable learning, research, and student self-development.",
+        "ctaTitle": "Explore UNAIC Facilities",
+        "ctaDesc": "Experience a comfortable, modern, and Islamic learning environment.",
+        "ctaButton": "Visit Campus"
+    },
+    "Achievements": {
+        "heroTitle": "Achievements",
+        "heroSubtitle": "Academic and non-academic achievements of students and lecturers of Universitas Al-Irsyad Cilacap at local, national, and international levels.",
+        "highlightsTitle": "Featured Achievements",
+        "timelineTitle": "Achievement Timeline",
+        "ctaTitle": "Join and Achieve with UNAIC",
+        "ctaButton": "Register Now"
+    },
+    "Partners": {
+        "heroTitle": "Partners & Cooperation",
+        "heroSubtitle": "Building strategic synergies with various national and international institutions to achieve academic excellence and public benefit.",
+        "searchPlaceholder": "Search for partner name...",
+        "searchButton": "Search",
+        "allPartners": "All Partners",
+        "introTitle": "Collaboration Without Limits",
+        "introDesc": "Universitas Al-Irsyad Cilacap believes that progress cannot be achieved alone. Through our extensive partnership network, we facilitate students and staff to grow through internships, exchanges, and impactful collaborative research.",
+        "networkTitle": "Global & Local Network",
+        "networkDesc": "We have established cooperation with over 100 strategic partners including hospitals, industries, governments, and leading universities both domestically and abroad.",
+        "ctaTitle": "Want to Become Our Partner?",
+        "ctaDesc": "We are always open to new mutually beneficial cooperation opportunities in education, research, and community service.",
+        "ctaButton": "Contact Us",
+        "emptyCategory": "No partner data for this category",
+        "noCategories": "No categories found.",
+        "backButton": "Back to Partner List",
+        "profileTitle": "Partner Profile",
+        "websiteButton": "Visit Official Website",
+        "galleryTitle": "Cooperation Documentation",
+        "noGallery": "No documentation photos uploaded yet.",
+        "mouTitle": "MoU Document",
+        "mouStatus": "Document Status",
+        "mouActive": "ACTIVE",
+        "mouDesc": "Memorandum of Understanding (MoU) document is available for download as a limited public archive.",
+        "downloadButton": "Download Document",
+        "noMou": "Digital document not available for public.",
+        "contactTitle": "Cooperation Contact",
+        "contactDesc": "For more information regarding this cooperation detail, please contact the Bureau of Cooperation & Public Relations."
+    },
+    "Curriculum": {
+        "title": "Academic Curriculum",
+        "subtitle": "Information on course structures and curriculum of study programs at Al-Irsyad University of Cilacap.",
+        "sectionTitle": "Course List",
+        "description": "Select a faculty and study program to see the curriculum details.",
+        "download": "Download Full Curriculum (PDF)",
+        "noData": "Curriculum data is not yet available for this study program.",
+        "table": {
+            "semester": "Sem",
+            "course": "Course Name",
+            "credits": "Credits"
+        }
+    },
+    "AcademicCalendar": {
+        "title": "Academic Calendar",
+        "subtitle": "Guide to academic activities at Al-Irsyad University of Cilacap for each academic year.",
+        "descriptionTitle": "UNAIC Academic Calendar",
+        "description": "UNAIC Academic Calendar contains a schedule of important activities that must be known by students, lecturers, and the academic community. The calendar includes schedules for lectures, registration, mid and final semester examinations, academic activities, to official holidays.",
+        "tableTitle": "Academic Activity Schedule",
+        "table": {
+            "semester": "Period",
+            "activity": "Activity",
+            "date": "Date"
+        },
+        "mobileNote": "Swipe horizontal to see the full table",
+        "downloadTitle": "Download Full Academic Calendar",
+        "downloadDesc": "Get the full academic calendar in PDF format for offline reference.",
+        "downloadBtn": "Download PDF",
+        "helpTitle": "Need Help?",
+        "helpDesc": "Contact the academic department for more information about the academic calendar.",
+        "helpBtn": "Academic Contact",
+        "noData": "No academic calendar agenda has been published yet."
+    },
+    "AcademicPolicy": {
+        "title": "Academic Policy",
+        "subtitle": "Standards, rules, and academic guidelines of Al-Irsyad University of Cilacap.",
+        "descriptionTitle": "UNAIC Academic Policy",
+        "description": "Al-Irsyad University of Cilacap (UNAIC) establishes academic policies that form the basis for organizing higher education. These policies include curriculum, learning processes, evaluation, research, and academic governance. Policy documents are designed so that the academic community can understand the rules and carry out the Tri Dharma of Higher Education in accordance with national standards.",
+        "sectionTitle": "Academic Policy Documents",
+        "detailTitle": "Policy Details",
+        "purpose": "Purpose",
+        "scope": "Scope",
+        "update": "Update",
+        "responsible": "Responsible Party",
+        "download": "Download PDF",
+        "helpTitle": "Information & Help",
+        "helpDesc": "Contact the academic department to get the latest policy details.",
+        "helpBtn": "Academic Contact",
+        "noData": "No academic policy documents are currently available."
+    },
+    "Library": {
+        "title": "Library & Information Center",
+        "subtitle": "Center for literacy, research, and digital learning resources of Al-Irsyad University of Cilacap.",
+        "portalTitle": "SIMPUS Digital Portal",
+        "portalDesc": "Access the Library Information System (SIMPUS) to search for book collections, check loan status, and access digital repositories independently.",
+        "portalBtn": "Open SIMPUS Website",
+        "servicesTitle": "Library Services",
+        "services": {
+            "opac": {
+                "title": "Online Catalog (OPAC)",
+                "desc": "Search for physical book collections available in the UNAIC library in real-time."
+            },
+            "repository": {
+                "title": "UNAIC Repository",
+                "desc": "Collection of scientific works, theses, and faculty/student publications in digital format."
+            },
+            "journal": {
+                "title": "E-Resources",
+                "desc": "Access to national and international journal databases subscribed by the university."
+            },
+            "circulation": {
+                "title": "Circulation & Member",
+                "desc": "Borrowing and returning services, and library membership registration."
+            }
+        },
+        "info": {
+            "hours": "Opening Hours",
+            "weekday": "Monday - Friday",
+            "saturday": "Saturday",
+            "sunday": "Sunday & Public Holidays",
+            "closed": "Closed",
+            "location": "Library Location",
+            "contact": "Library Contact"
+        }
+    },
+    "Laboratory": {
+        "headerTitle": "Laboratory Facilities",
+        "introTitle": "Modern Laboratory Facilities at UNAIC",
+        "introText1": "Al-Irsyad University of Cilacap (UNAIC) provides various modern laboratories to support research, practicum, and innovation activities.",
+        "introText2": "Each laboratory is equipped with state-of-the-art equipment that can be used by students and faculty according to their fields of study.",
+        "introText3": "Laboratories serve not only as practicum venues but also as centers for research and technological development.",
+        "listTitle": "Laboratory List",
+        "listSubtitle": "Modern laboratories supporting learning and research in various scientific fields",
+        "galleryTitle": "Laboratory Gallery",
+        "gallerySubtitle": "A closer look at UNAIC's laboratory facilities",
+        "ctaTitle": "Access & Information",
+        "ctaDesc": "Contact us for more information regarding borrowing, practicum schedules, and research collaborations.",
+        "ctaContactBtn": "Contact Page",
+        "info": {
+            "contactPerson": "Contact Person",
+            "locationEmail": "Location & Email"
+        }
+    },
+    "CommunityService": {
+        "title": "Community Service",
+        "subtitle": "Downstreaming research results for the benefit of the wider community.",
+        "impactTitle": "Social Impact",
+        "impactDesc": "UNAIC is committed to not just developing knowledge in an ivory tower, but also hands-on solving problems in society. Through the Community Service (PKM) program, we apply technology and science to empower communities, improve health, and support the local economy.",
+        "servicesTitle": "Featured Programs",
+        "featuredTitle": "Current PKM Activities",
+        "leader": "TEAM LEADER",
+        "viewReport": "View Report"
+    },
+    "Publication": {
+        "title": "Scientific Publications",
+        "subtitle": "Repository of scientific publications, journals, and proceedings of UNAIC academic community.",
+        "repoTitle": "Publication Repository",
+        "tabs": {
+            "journal": "Journals",
+            "proceeding": "Proceedings",
+            "article": "Scientific Articles"
+        },
+        "searchPlaceholder": "Search title, author, or topic...",
+        "noData": "No publication data available for this category.",
+        "visitJournal": "Visit Journal",
+        "visitArticle": "View Document",
+        "author": "Author",
+        "desc": "Description",
+        "category": "Category",
+        "year": "Year",
+        "loading": "Loading publication data..."
+    },
+    "Complaint": {
+        "heroTitle": "Complaint & Aspiration Service",
+        "heroSubtitle": "Your voice matters for UNAIC's progress. Submit your aspirations and complaints safely and reliably.",
+        "privacyBadge": "Privacy Guaranteed",
+        "privacyTitle": "Reporter Identity & Data Security Guaranteed",
+        "privacyDesc": "We value your privacy. Every report, especially sensitive ones (Whistleblowing System), will be handled with strict confidentiality. You can choose to report anonymously.",
+        "successTitle": "Report Successfully Submitted!",
+        "successDesc": "Thank you for your feedback. Our team will follow up on this report immediately.",
+        "newReport": "Submit New Report",
+        "categoryTitle": "Select Complaint Category (Required)",
+        "selected": "Selected",
+        "flowTitle": "Complaint Handling Flow",
+        "steps": {
+            "1": {
+                "title": "Submit Complaint",
+                "desc": "Fill the form with details and supporting evidence."
+            },
+            "2": {
+                "title": "Verification",
+                "desc": "Our team will validate your report."
+            },
+            "3": {
+                "title": "Follow Up",
+                "desc": "Investigation and problem resolution."
+            },
+            "4": {
+                "title": "Finished",
+                "desc": "You will receive the final result notification."
+            }
+        },
+        "formTitle": "Complaint Service Form",
+        "formSubtitle": "Please complete the data below",
+        "form": {
+            "name": "Full Name (Optional)",
+            "namePlaceholder": "Can be left blank for anonymous",
+            "category": "Category",
+            "categoryPlaceholder": "Select Category Above ☝️",
+            "title": "Report Title",
+            "titlePlaceholder": "Example: Room 301 AC Broken / Extortion Suspicion",
+            "desc": "Detailed Report Content",
+            "descPlaceholder": "Tell the chronology, location, and details of the incident...",
+            "file": "Upload Evidence (Photo/Document)",
+            "fileLabel": "Click to upload evidence",
+            "fileHelp": "Max 5MB (JPG, PNG, PDF)",
+            "changeFile": "Click to change file",
+            "disclaimer": "By submitting this report, I declare that the data I submit is true and accountable.",
+            "submit": "Submit Report",
+            "submitting": "Submitting..."
+        },
+        "categories": {
+            "academic": {
+                "title": "Academic Services",
+                "desc": "Complaints regarding lecturers, schedules, grades, or guidance."
+            },
+            "facilities": {
+                "title": "Facilities & Infrastructure",
+                "desc": "Report broken AC, WiFi, cleanliness, or public facilities."
+            },
+            "ethics": {
+                "title": "Ethics Violation (WBS)",
+                "desc": "Bullying, sexual harassment, extortion, or gratification."
+            },
+            "admin": {
+                "title": "Admin & Finance",
+                "desc": "Tuition payment issues, bureau services, or correspondence."
+            }
+        },
+        "maintenance": {
+            "title": "Service Under Maintenance",
+            "desc": "We apologize, the complaint service system is undergoing routine maintenance to improve service quality. Please come back later.",
+            "reload": "Try Reloading"
+        }
+    },
+    "Contact": {
+        "heroTitle": "Complaint Service & Contact",
+        "heroSubtitle": "Send your feedback, complaints, or questions to us.",
+        "cards": {
+            "complaint": {
+                "title": "Complaint Service",
+                "desc": "Report complaints related to academic and non-academic services officially."
+            },
+            "info": {
+                "title": "General Information",
+                "desc": "Questions about registration, scholarships, and available study programs."
+            },
+            "technical": {
+                "title": "Technical Support",
+                "desc": "Access issues to SIAKAD, E-Library, or other digital facilities."
+            }
+        },
+        "form": {
+            "title": "Contact Us",
+            "subtitle": "Contact & Location",
+            "desc": "We are ready to assist you. Do not hesitate to contact us or visit the UNAIC campus directly.",
+            "infoTitle": "Contact Information",
+            "fastHelpTitle": "Need Fast Help?",
+            "fastHelpDesc": "Send a message directly to our Official WhatsApp.",
+            "placeholderName": "Full Name",
+            "placeholderEmail": "Email",
+            "placeholderMessage": "Message",
+            "submitWhatsapp": "Chat WhatsApp Now",
+            "success": "Message sent successfully via WhatsApp."
+        },
+        "departments": {
+            "title": "Department & Unit Contacts",
+            "subtitle": "Contact the relevant department for more specific information.",
+            "head": "Head of Department",
+            "email": "Email",
+            "phone": "Phone"
+        }
+    },
+    "PMBInfo": {
+        "heroTitle": "Registration Information",
+        "heroSubtitle": "Complete guide for new student admission at Universitas Al-Irsyad Cilacap",
+        "stats": {
+            "prodi": {
+                "title": "10 Study Programs",
+                "desc": "Choice of excellent study programs in health and social fields."
+            },
+            "curriculum": {
+                "title": "Modern Curriculum",
+                "desc": "Competency-based and integrated with Islamic values."
+            },
+            "access": {
+                "title": "Easy Access",
+                "desc": "Fast, easy, and transparent online registration system."
+            }
+        },
+        "steps": {
+            "1": {
+                "title": "Sign Up",
+                "desc": "Create a registration account at pmb.universitasalirsyad.ac.id"
+            },
+            "2": {
+                "title": "Select Path",
+                "desc": "Choose registration path (Regular, Achievement, or Scholarship)"
+            },
+            "3": {
+                "title": "Fill Form",
+                "desc": "Complete your bio and parent/guardian data"
+            },
+            "4": {
+                "title": "Upload Files",
+                "desc": "Upload scan of report card/diploma, Family Card, and recent photo"
+            },
+            "5": {
+                "title": "Payment",
+                "desc": "Pay the registration fee via virtual account"
+            },
+            "6": {
+                "title": "Print Card",
+                "desc": "Print the entrance exam participant card"
+            },
+            "title": "Registration Flow"
+        },
+        "tuition": {
+            "title": "Tuition Fee Estimation",
+            "subtitle": "Academic Year 2026/2027",
+            "desc": "Transparent and affordable education cost details for every study program."
+        },
+        "requirements": {
+            "title": "Document Requirements",
+            "desc": "Here are the documents you need to prepare before registering online. Make sure the scan results are clearly readable.",
+            "list": [
+                "Scan of Diploma / SKL (Legalized)",
+                "Scan of Report Card Semester 1-5 (For those not yet graduated)",
+                "Scan of Family Card (KK)",
+                "Scan of ID Card / Student Card",
+                "Recent Pass Photo (Red/Blue Background)",
+                "Achievement Certificate (If any, for achievement path)"
+            ],
+            "download": "Download PMB Brochure"
+        },
+        "faq": {
+            "title": "Frequently Asked Questions (FAQ)",
+            "desc": "Answers to questions frequently asked by prospective new students.",
+            "q1": {
+                "title": "When is registration open?",
+                "content": "New Student Admission at UNAIC usually opens in 3 waves. Wave 1 starts in January, Wave 2 in April, and Wave 3 in July. Please check the PMB website for exact dates."
+            },
+            "q2": {
+                "title": "Are there scholarships at UNAIC?",
+                "content": "Yes, UNAIC provides various types of scholarships, including KIP Kuliah Scholarship, Foundation Scholarship, Academic & Non-Academic Achievement Scholarship, and Hafidz Qur'an Scholarship."
+            },
+            "q3": {
+                "title": "How much is the registration fee?",
+                "content": "The registration fee for regular classes is Rp 250.000,-. For special paths or certain study programs there might be differences. Check fee details in the Tuition Fee menu."
+            },
+            "q4": {
+                "title": "Can I register across majors?",
+                "content": "Yes. Science High School graduates can enter all study programs. Social/Language/Vocational High School graduates can enter certain study programs according to their respective regulations."
+            }
+        },
+        "cta": {
+            "title": "Ready to be Part of UNAIC?",
+            "desc": "Don't miss the opportunity to join a leading campus that produces Islamic, professional, and globally competitive generations.",
+            "button": "Register Now"
+        }
+    },
+    "CampusTour": {
+        "heroTitle": "Explore UNAIC Campus",
+        "heroSubtitle": "Experience an Islamic, modern, and beautiful academic atmosphere in the heart of Cilacap city.",
+        "intro": {
+            "badge": "Green & Islamic Campus",
+            "title": "Comfortable & Conducive Learning Environment",
+            "desc": "UNAIC campus is designed to support a balance between academic excellence and spiritual values. Surrounded by lush green areas and representative worship facilities, students can study calmly and focus.",
+            "list": [
+                "Spacious Campus Mosque",
+                "Green Garden Area",
+                "Smoke-Free Environment",
+                "24-Hour Hotspot Area"
+            ]
+        },
+        "facilities": {
+            "title": "Excellent Facilities",
+            "desc": "Supporting the learning process with the latest technology and prime service standards.",
+            "items": {
+                "classroom": {
+                    "title": "Smart Classroom",
+                    "desc": "Multimedia classroom with AC & Smart TV."
+                },
+                "lab": {
+                    "title": "Integrated Laboratory",
+                    "desc": "Modern industry-standard practicum equipment."
+                },
+                "library": {
+                    "title": "E-Library",
+                    "desc": "Access to thousands of international journals and digital books."
+                },
+                "dorm": {
+                    "title": "Student Dormitory",
+                    "desc": "Comfortable, safe, and affordable housing."
+                },
+                "sport": {
+                    "title": "Sport Center",
+                    "desc": "Sports facilities to maintain fitness."
+                },
+                "canteen": {
+                    "title": "Food Court",
+                    "desc": "Clean canteen with halal & healthy menu."
+                }
+            },
+            "viewAll": "View All Facilities"
+        },
+        "virtualTour": {
+            "badge": "Virtual Tour",
+            "title": "Tour the Campus Without Moving",
+            "desc": "Watch a short profile video to get to know Universitas Al-Irsyad Cilacap better."
+        },
+        "location": {
+            "badge": "Campus Location",
+            "title": "Strategic in City Center",
+            "desc": "UNAIC campus is located in a very strategic location in Cilacap city, easily accessible by various modes of transportation. Close to public facilities, shopping centers, and tourist beaches.",
+            "addressTitle": "Campus Address",
+            "addressDesc": "Jl. Cerme No. 24, Sidanegara, Central Cilacap, Cilacap Regency, Central Java 53223",
+            "landmarkTitle": "Nearest Landmark",
+            "landmarkDesc": "Cilacap Town Square (5 mins), Bus Terminal (10 mins), Train Station (10 mins)."
+        },
+        "cta": {
+            "title": "Ready to Join?",
+            "desc": "Be part of the excellent generation with Universitas Al-Irsyad Cilacap.",
+            "register": "Register Now",
+            "programs": "View Programs"
+        }
+    },
+    "Gallery": {
+        "heroTitle": "UNAIC Gallery",
+        "heroSubtitle": "Moments and documentation of Al-Irsyad University of Cilacap activities.",
+        "filters": {
+            "all": "All"
+        },
+        "categories": {
+            "Academic": "Academic",
+            "Student": "Student Affairs",
+            "Facilities": "Facilities",
+            "Event": "Event"
+        },
+        "emptyTitle": "No Photos Found",
+        "emptyDesc": "Sorry, there are no documentation photos for this category yet."
+    }
+}

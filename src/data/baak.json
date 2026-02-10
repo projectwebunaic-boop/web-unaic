@@ -1,0 +1,116 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "title": "Pelayanan Akademik",
+      "description": "Pengelolaan administrasi akademik, KRS, nilai, dan transkrip mahasiswa.",
+      "link": "#",
+      "icon": "GraduationCap",
+      "slug": "pelayanan-akademik",
+      "content": "Layanan Akademik BAAK berfokus pada kelancaran proses belajar mengajar. Kami membantu mahasiswa dalam:\n\n1. Pengisian dan Perubahan Kartu Rencana Studi (KRS)\n2. Pencetakan Kartu Hasil Studi (KHS) dan Transkrip Nilai\n3. Pengurusan Surat Keterangan Mahasiswa Aktif\n4. Legalisir dokumen akademik\n\nSilakan datang ke loket pelayanan kami atau hubungi via WhatsApp untuk informasi lebih lanjut.",
+      "category": "Akademik",
+      "titleEn": "Academic Services",
+      "descriptionEn": "Management of academic records, course registration, grades, and student transcripts.",
+      "contentEn": "The BAAK Academic Services focus on facilitating the teaching and learning process. We assist students with:\n\n1. Filling out and changing Study Plan Cards (KRS)\n2. Printing Study Result Cards (KHS) and Transcripts\n3. Processing Active Student Certificates\n4. Legalizing academic documents\n\nPlease visit our service counter or contact us via WhatsApp for further information."
+    },
+    {
+      "id": "1-b",
+      "title": "Jadwal Kuliah",
+      "description": "Informasi jadwal kuliah semester berjalan untuk seluruh program studi.",
+      "link": "#",
+      "icon": "Calendar",
+      "slug": "jadwal-kuliah",
+      "content": "<p>Cek jadwal kuliah terbaru di sini.</p>",
+      "category": "Akademik",
+      "titleEn": "Course Schedule",
+      "descriptionEn": "Current semester lecture schedule information for all study programs.",
+      "contentEn": "Check the latest class schedule here."
+    },
+    {
+      "id": "1-c",
+      "title": "Kalender Akademik",
+      "description": "Agenda kegiatan akademik universitas selama satu tahun ajaran.",
+      "link": "#",
+      "icon": "Calendar",
+      "slug": "kalender-akademik",
+      "content": "<p>Download kalender akademik tahun ajaran ini.</p>",
+      "category": "Akademik",
+      "titleEn": "Academic Calendar",
+      "descriptionEn": "The university's academic calendar for one academic year.",
+      "contentEn": "Download this academic year's calendar"
+    },
+    {
+      "id": "2",
+      "title": "Pelayanan Kemahasiswaan",
+      "description": "Pendampingan kegiatan kemahasiswaan, beasiswa, dan pengembangan mahasiswa.",
+      "link": "#",
+      "icon": "Users",
+      "slug": "pelayanan-kemahasiswaan",
+      "content": "<p>Bagian Kemahasiswaan mendukung pengembangan soft skills dan kesejahteraan mahasiswa melalui:</p><ol><li>Informasi dan seleksi Beasiswa (KIP-K, Prestasi, Yayasan)</li><li>Pendampingan Organisasi Mahasiswa (Ormawa) dan UKM</li><li>Pengurusan surat tugas dan dispensasi kegiatan</li><li>Konseling dan pengembangan karir</li></ol>",
+      "category": "Kemahasiswaan",
+      "titleEn": "Student Services",
+      "descriptionEn": "Assistance with student activities, scholarships, and student development.",
+      "contentEn": "<p>The Student Affairs Division supports the development of soft skills and student welfare through:</ p><ol><li>Scholarship information and selection (KIP-K, Achievement, Foundation)</li><li>Assistance for Student Organizations (Ormawa) and UKM</li><li>Processing of assignment letters and activity dispensations</li><li>Counseling and career development</li></ol>"
+    },
+    {
+      "id": "3",
+      "title": "Administrasi Akademik",
+      "description": "Pengelolaan data akademik, ijazah, dan sertifikat kelulusan.",
+      "link": "#",
+      "icon": "FileText",
+      "slug": "administrasi-akademik",
+      "content": "<p>Layanan Administrasi Akademik menangani dokumen penting kelulusan:</p><ol><li>Pendaftaran dan pemberkasan Wisuda</li><li>Penerbitan Ijazah dan Transkrip Akhir</li><li>Sertifikat Kompetensi dan SKPI</li><li>Verifikasi data alumni</li></ol>",
+      "category": "Administrasi",
+      "titleEn": "Academic Administration",
+      "descriptionEn": "Management of academic data, diplomas, and graduation certificates.",
+      "contentEn": "<p>The Academic Administration Service handles important graduation documents:</p><ol><li>Graduation registration and filing</li><li>Issuance of diplomas and final transcripts</li><li>Competency certificates and SKPI (Certificate of Professional Competency)</li><li>Verification of alumni data</li></ol>"
+    }
+  ],
+  "questions": [
+    {
+      "text": "Kualitas pelayanan administrasi akademik",
+      "textEn": "Quality of academic administration services"
+    },
+    {
+      "text": "Kecepatan respon terhadap permintaan mahasiswa",
+      "textEn": "Response speed to student requests"
+    },
+    {
+      "text": "Kemudahan akses informasi akademik",
+      "textEn": "Ease of access to academic information"
+    },
+    {
+      "text": "Kepuasan terhadap sistem KRS online",
+      "textEn": "Satisfaction with the online KRS system"
+    },
+    {
+      "text": "Kualitas bimbingan akademik",
+      "textEn": "Quality of academic guidance"
+    },
+    {
+      "text": "Efektivitas komunikasi dengan mahasiswa",
+      "textEn": "Effectiveness of communication with students"
+    },
+    {
+      "text": "Ketersediaan layanan konsultasi",
+      "textEn": "Availability of consultation services"
+    },
+    {
+      "text": "Kepuasan terhadap proses wisuda",
+      "textEn": "Satisfaction with the graduation process"
+    },
+    {
+      "text": "Kualitas layanan kemahasiswaan",
+      "textEn": "Quality of student services"
+    },
+    {
+      "text": "Tingkat kepuasan keseluruhan",
+      "textEn": "Overall satisfaction level"
+    }
+  ],
+  "contact": {
+    "address": "Jl. Cerme No.24, Wanasari, Sidanegara, Kec. Cilacap Tengah, Kabupaten Cilacap, Jawa Tengah 53223",
+    "whatsapp": "6288905905905",
+    "email": "baak.unaic@universitasalirsyad.ac.id"
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "nama": "Sarwa, AMK., S.Pd., M.Kes.",
+    "slug": "sarwa",
+    "jabatan": "Rektor",
+    "fakultas": "Ilmu Kesehatan",
+    "bidang": "Kesehatan Masyarakat",
+    "foto": "/images/dosen/sarwa.jpg",
+    "email": "sarwa@universitasalirsyad.ac.id",
+    "sinta": "https://sinta.kemdikbud.go.id/authors/detail?id=12345",
+    "profil": "Beliau menjabat sebagai Rektor UNAIC sejak 2021 dengan fokus pada pengembangan riset berbasis masyarakat."
+  },
+  {
+    "nama": "apt. Mika Tri Kumala Swandari, M.Sc",
+    "slug": "mika-tri-kumala-swandari",
+    "jabatan": "Wakil Rektor I",
+    "fakultas": "Farmasi, Sains & Teknologi",
+    "bidang": "Farmasi Klinis",
+    "foto": "/images/dosen/mika.jpg",
+    "email": "mika@universitasalirsyad.ac.id",
+    "sinta": "https://sinta.kemdikbud.go.id/authors/detail?id=67890",
+    "profil": "Wakil Rektor I UNAIC dengan keahlian di bidang farmasi klinis dan pengembangan obat."
+  },
+  {
+    "nama": "Yogi Andhi Lestari, S.ST., M.Keb.",
+    "slug": "yogi-andhi-lestari",
+    "jabatan": "Wakil Rektor II",
+    "fakultas": "Ilmu Kesehatan",
+    "bidang": "Kebidanan",
+    "foto": "/images/dosen/yogi.jpg",
+    "email": "yogi@universitasalirsyad.ac.id",
+    "sinta": "https://sinta.kemdikbud.go.id/authors/detail?id=11223",
+    "profil": "Wakil Rektor II UNAIC yang berfokus pada pengembangan program kebidanan dan kesehatan reproduksi."
+  },
+  {
+    "nama": "Agus Prasetyo, M.Kep., Ns.",
+    "slug": "agus-prasetyo",
+    "jabatan": "Wakil Rektor III",
+    "fakultas": "Ilmu Kesehatan",
+    "bidang": "Keperawatan",
+    "foto": "/images/dosen/agus.jpg",
+    "email": "agus@universitasalirsyad.ac.id",
+    "sinta": "https://sinta.kemdikbud.go.id/authors/detail?id=44556",
+    "profil": "Wakil Rektor III UNAIC dengan pengalaman luas di bidang keperawatan dan manajemen kesehatan."
+  },
+  {
+    "nama": "Dr. Johariyah., M. Keb.",
+    "slug": "johariyah",
+    "jabatan": "Dekan Fakultas Ilmu Kesehatan",
+    "fakultas": "Ilmu Kesehatan",
+    "bidang": "Kebidanan",
+    "foto": "/images/dosen/johariyah.jpg",
+    "email": "johariyah@universitasalirsyad.ac.id",
+    "sinta": "https://sinta.kemdikbud.go.id/authors/detail?id=77889",
+    "profil": "Dekan Fakultas Ilmu Kesehatan UNAIC yang berkomitmen pada pendidikan kebidanan berkualitas."
+  },
+  {
+    "nama": "Dr. apt. Yuhansyah Nurfauzi, M.Si.",
+    "slug": "nurfauzi",
+    "jabatan": "Dekan Fakultas Farmasi, Sains & Teknologi",
+    "fakultas": "Farmasi, Sains & Teknologi",
+    "bidang": "Farmakognosi",
+    "foto": "/images/dosen/nurfauzi.jpg",
+    "email": "nurfauzi@universitasalirsyad.ac.id",
+    "sinta": "https://sinta.kemdikbud.go.id/authors/detail?id=00112",
+    "profil": "Dekan Fakultas Farmasi, Sains & Teknologi UNAIC dengan spesialisasi di farmakognosi dan pengembangan obat herbal."
+  },
+  {
+    "nama": "Dr Opi Irawansyah, M.PdI.",
+    "slug": "opi-irawansyah",
+    "jabatan": "Dekan Fakultas Ekonomi & Bisnis",
+    "fakultas": "Ekonomi & Bisnis",
+    "bidang": "Ekonomi Syariah",
+    "foto": "/images/dosen/opi.jpg",
+    "email": "opi@universitasalirsyad.ac.id",
+    "sinta": "https://sinta.kemdikbud.go.id/authors/detail?id=33445",
+    "profil": "Dekan Fakultas Ekonomi & Bisnis UNAIC yang ahli di bidang ekonomi syariah dan kewirausahaan."
+  }
+]

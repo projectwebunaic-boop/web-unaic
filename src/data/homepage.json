@@ -1,0 +1,128 @@
+{
+  "hero": {
+    "welcomePrefix": "",
+    "welcomePrefixEn": "",
+    "title": "",
+    "titleEn": "",
+    "subtitle": "",
+    "subtitleEn": "",
+    "videoUrl": ""
+  },
+  "about": {
+    "title": "",
+    "titleEn": "",
+    "subtitle": "",
+    "subtitleEn": "",
+    "description": "",
+    "descriptionEn": ""
+  },
+  "faculty": {
+    "title": "Eksplorasi Program Unggulan Kami",
+    "subtitle": "FAKULTAS & PROGRAM STUDI",
+    "description": "Pilih jalur masa depanmu melalui berbagai disiplin ilmu yang dirancang untuk mencetak tenaga profesional yang siap bersaing di kancah global."
+  },
+  "stats": {
+    "title": "",
+    "titleEn": "",
+    "subtitle": "",
+    "subtitleEn": "",
+    "description": "",
+    "descriptionEn": ""
+  },
+  "joinUs": {
+    "title": "",
+    "titleEn": "",
+    "description": "",
+    "descriptionEn": ""
+  },
+  "services": [
+    {
+      "title": "PMB Online",
+      "desc": "Pendaftaran Mahasiswa Baru",
+      "link": "/pmb",
+      "iconName": "UserPlus",
+      "color": "bg-gray-500",
+      "light": "bg-gray-50",
+      "text": "text-gray-600",
+      "titleEn": "Online PMB",
+      "descEn": "New Student Registration"
+    },
+    {
+      "title": "Portal SIAKAD",
+      "desc": "Sistem Akademik Terpadu",
+      "link": "https://siraka.universitasalirsyad.ac.id/",
+      "iconName": "LayoutDashboard",
+      "color": "bg-gray-500",
+      "light": "bg-gray-50",
+      "text": "text-gray-600",
+      "titleEn": "SIAKAD Portal",
+      "descEn": "Integrated Academic System"
+    },
+    {
+      "title": "E-Library",
+      "desc": "Perpustakaan Digital",
+      "link": "akademik/perpustakaan",
+      "iconName": "BookMarked",
+      "color": "bg-gray-500",
+      "light": "bg-gray-50",
+      "text": "text-gray-600",
+      "titleEn": "E-Library",
+      "descEn": "Digital Library"
+    },
+    {
+      "title": "Pusat Karir",
+      "desc": "Tracer Study Dan Karir",
+      "link": "alumni-karir",
+      "iconName": "Briefcase",
+      "color": "bg-gray-500",
+      "light": "bg-gray-50",
+      "text": "text-gray-600",
+      "titleEn": "Career Center",
+      "descEn": "Tracer Study and Careers"
+    },
+    {
+      "title": "Layanan Aduan",
+      "desc": "Layanan Aduan",
+      "link": "layanan-aduan",
+      "iconName": "ChatBubbleRegular",
+      "color": "bg-gray-500",
+      "light": "bg-gray-50",
+      "text": "text-gray-600",
+      "titleEn": "Grievance Service",
+      "descEn": "Grievance Service"
+    }
+  ],
+  "testimonials": {
+    "title": "",
+    "titleEn": "",
+    "subtitle": "",
+    "subtitleEn": "",
+    "description": "",
+    "descriptionEn": ""
+  },
+  "gallery": {
+    "title": "",
+    "titleEn": "",
+    "subtitle": "",
+    "subtitleEn": "",
+    "description": "",
+    "descriptionEn": "",
+    "images": []
+  },
+  "partners": {
+    "title": "",
+    "titleEn": "",
+    "subtitle": "",
+    "subtitleEn": "",
+    "description": "",
+    "descriptionEn": ""
+  },
+  "news": {
+    "title": "",
+    "titleEn": "",
+    "subtitle": "",
+    "subtitleEn": "",
+    "description": "",
+    "descriptionEn": ""
+  }
+}

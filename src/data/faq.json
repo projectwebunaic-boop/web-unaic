@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "question": "Bagaimana cara mendaftar di PMB UNAIC?",
+    "answer": "Pendaftaran di UNAIC dapat dilakukan secara online melalui portal resmi UNAIC di website universitasalirsyad.ac.id. Calon mahasiswa perlu mengisi formulir pendaftaran, mengunggah dokumen yang diperlukan, dan mengikuti seleksi sesuai dengan program studi yang dipilih. Proses pendaftaran dibuka setiap tahun pada periode yang telah ditentukan.",
+    "category": "Pendaftaran",
+    "questionEn": "How do I apply for the UNAIC New Student Admission (PMB)?",
+    "answerEn": "Registration at UNAIC can be done online through the official UNAIC portal on the universitasalirsyad.ac.id website. Prospective students need to fill out the registration form, upload the required documents, and participate in the selection process according to their chosen study program. The registration process is open every year during a predetermined period."
+  },
+  {
+    "id": "2",
+    "question": "Apa saja program studi yang tersedia di UNAIC?",
+    "answer": "UNAIC menawarkan berbagai program studi di bidang kesehatan, farmasi, teknologi, dan bisnis. Program studi yang tersedia meliputi: S1 Keperawatan, S1 Kebidanan, D3 Keperawatan, D3 Kebidanan, Profesi Bidan, Profesi Ners, S1 Farmasi, D3 Farmasi, Profesi Apoteker, D4 Teknologi Laboratorium Medis, S1 Informatika, S1 Bisnis Digital, dan S1 Kewirausahaan.",
+    "category": "Akademik",
+    "questionEn": "What are the study programs available at UNAIC?",
+    "answerEn": "UNAIC offers various study programs in the fields of health, pharmacy, technology, and business. The available study programs include: Bachelor of Nursing, Bachelor of Midwifery, Diploma III in Nursing, Diploma III in Midwifery, Midwifery Profession, Nursing Profession, Bachelor of Pharmacy, Diploma III in Pharmacy, Pharmacist Profession, Diploma IV in Medical Laboratory Technology, Bachelor of Informatics, Bachelor of Digital Business, and Bachelor of Entrepreneurship."
+  },
+  {
+    "id": "3",
+    "question": "Apakah tersedia beasiswa di UNAIC?",
+    "answer": "Ya, UNAIC menyediakan berbagai jenis beasiswa untuk membantu mahasiswa berprestasi dan kurang mampu. Beasiswa yang tersedia meliputi Beasiswa Prestasi Akademik, Beasiswa Hafidz Al-Qur'an, Beasiswa Yatim Piatu, Beasiswa KIP-K, dan beasiswa dari perusahaan mitra. Informasi detail dapat diperoleh di Biro Kemahasiswaan UNAIC.",
+    "category": "Beasiswa"
+  },
+  {
+    "id": "4",
+    "question": "Bagaimana sistem perkuliahan di UNAIC?",
+    "answer": "Sistem perkuliahan di UNAIC menggabungkan teori dan praktik dengan pendekatan berbasis kompetensi. Mahasiswa mengikuti kuliah tatap muka, praktikum di laboratorium, dan praktik klinik di rumah sakit atau fasilitas kesehatan mitra. UNAIC juga menerapkan sistem pembelajaran blended learning yang mengintegrasikan teknologi informasi dalam proses pembelajaran.",
+    "category": "Akademik"
+  },
+  {
+    "id": "5",
+    "question": "Apakah UNAIC memiliki asrama mahasiswa?",
+    "answer": "UNAIC menyediakan fasilitas asrama mahasiswa untuk menunjang kegiatan akademik dan kemahasiswaan. Asrama terletak di lingkungan kampus dengan fasilitas yang memadai seperti kamar tidur, ruang belajar, musholla, dan area olahraga. Informasi mengenai pendaftaran asrama dapat diperoleh di bagian kemahasiswaan.",
+    "category": "Fasilitas"
+  },
+  {
+    "id": "6",
+    "question": "Siapa yang bisa saya hubungi untuk informasi lebih lanjut?",
+    "answer": "Untuk informasi lebih lanjut, Anda dapat menghubungi: Biro Administrasi Akademik (email: akademik@universitasalirsyad.ac.id, telp: 0282-123456), Biro Kemahasiswaan (email: kemahasiswaan@universitasalirsyad.ac.id, telp: 0282-654321), atau mengunjungi website resmi UNAIC di universitasalirsyad.ac.id untuk informasi kontak lengkap.",
+    "category": "Lainnya"
+  }
+]

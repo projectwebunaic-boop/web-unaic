@@ -1,0 +1,106 @@
+{
+  "stats": [
+    {
+      "id": "1",
+      "number": "2,500+",
+      "label": "Alumni Aktif",
+      "labelEn": "Active Alumni"
+    },
+    {
+      "id": "2",
+      "number": "85%",
+      "label": "Tingkat Penempatan Kerja"
+    },
+    {
+      "id": "3",
+      "number": "150+",
+      "label": "Perusahaan Mitra"
+    },
+    {
+      "id": "4",
+      "number": "95%",
+      "label": "Kepuasan Alumni"
+    }
+  ],
+  "services": [
+    {
+      "id": "sv1",
+      "title": "Job Placement Center",
+      "description": "Layanan penempatan kerja untuk alumni dan mahasiswa tingkat akhir. Kerjasama dengan 150+ perusahaan mitra di berbagai industri.",
+      "features": "Lowongan kerja eksklusif, Career counseling, Interview preparation, Company networking"
+    },
+    {
+      "id": "sv2",
+      "title": "Career Development",
+      "description": "Program pengembangan karir untuk meningkatkan kompetensi alumni. Workshop, seminar, dan pelatihan profesional.",
+      "features": "Soft skills training, Leadership program, Entrepreneurship workshop, Professional certification"
+    },
+    {
+      "id": "sv3",
+      "title": "Alumni Network",
+      "description": "Jaringan alumni yang kuat untuk kolaborasi dan pengembangan karir. Mentoring program dan business networking.",
+      "features": "Alumni mentoring, Business networking, Industry insights, Career guidance"
+    }
+  ],
+  "communities": [
+    {
+      "id": "com1",
+      "name": "IKA UNAIC Pusat",
+      "activity": "Reuni Akbar Tahunan, Networking Event",
+      "contact": "alumni@unaic.ac.id"
+    },
+    {
+      "id": "com2",
+      "name": "Komunitas Alumni Kesehatan",
+      "activity": "Webinar Kesehatan, Bakti Sosial",
+      "contact": "0812-3456-7890"
+    }
+  ],
+  "contributions": [
+    {
+      "id": "ctr1",
+      "title": "Beasiswa Alumni",
+      "description": "Program donasi alumni untuk membantu biaya pendidikan mahasiswa berprestasi yang kurang mampu.",
+      "link": "https://donasi.unaic.ac.id/beasiswa-alumni"
+    },
+    {
+      "id": "ctr2",
+      "title": "Mentoring Karir",
+      "description": "Daftarkan diri Anda sebagai mentor karir bagi mahasiswa tingkat akhir.",
+      "link": "https://forms.gle/mentoring-alumni"
+    }
+  ],
+  "featured": [
+    {
+      "id": "f1",
+      "name": "Dr. Ahmad Santoso, S.Kep., M.Kes.",
+      "graduation": "Alumni Keperawatan 2015",
+      "position": "Kepala Rumah Sakit Harapan Kita",
+      "company": "RS Harapan Kita Jakarta",
+      "image": "/uploads/1768579114563_AXL_APRIZAL_HERAWAN.png",
+      "testimonial": "UNAIC memberikan fondasi yang kuat untuk karir saya di bidang kesehatan.",
+      "achievements": "Kepala RS Terbaik 2023, Peneliti Bidang Kesehatan"
+    },
+    {
+      "id": "f2",
+      "name": "Apt. Siti Nurhaliza, S.Farm.",
+      "graduation": "Alumni Farmasi 2016",
+      "position": "Regional Manager",
+      "company": "PT Kimia Farma",
+      "image": "/uploads/1768579141563_AMELIA.jpg",
+      "testimonial": "Program magang UNAIC sangat membantu saya mendapatkan posisi top level.",
+      "achievements": "Manager of The Year 2022, Patent Holder"
+    }
+  ],
+  "stories": [
+    {
+      "id": "s1",
+      "title": "Karir di Industri Farmasi",
+      "alumni": "Apt. Rina Sari",
+      "position": "Quality Control Manager",
+      "company": "PT Kalbe Farma",
+      "story": "Setelah lulus dari UNAIC, saya langsung direkrut oleh PT Kalbe Farma melalui program job placement.",
+      "image": "/images/alumni/success-1.jpg"
+    }
+  ]
+}

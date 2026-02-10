@@ -1,0 +1,131 @@
+{
+  "stats": [
+    {
+      "id": "s1",
+      "label": "Prestasi Mahasiswa",
+      "count": 100,
+      "icon": "GraduationCap",
+      "labelEn": "Student Achievements"
+    },
+    {
+      "id": "s2",
+      "label": "Prestasi Akademik",
+      "count": 85,
+      "icon": "BookOpen",
+      "labelEn": "Academic Achievements"
+    },
+    {
+      "id": "s3",
+      "label": "Prestasi Nasional/Internasional",
+      "count": 15,
+      "icon": "Globe",
+      "labelEn": "National/International Achievements"
+    },
+    {
+      "id": "s4",
+      "label": "Prestasi Dosen",
+      "count": 30,
+      "icon": "Award",
+      "labelEn": "Faculty Achievements"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "Juara 1 Lomba Debat Nasional Tingkat Mahasiswa",
+      "category": "Debat",
+      "year": 2023,
+      "description": "Tim UNAIC berhasil meraih juara 1 dalam lomba debat tingkat nasional.",
+      "photo": "/images/prestasi/lomba1.jpg",
+      "titleEn": "1st Place Winner in the National University-Level Debate Competition",
+      "descriptionEn": "The UNAIC team won first place in the national debate competition.",
+      "categoryEn": "Debate"
+    },
+    {
+      "id": "h2",
+      "title": "Penghargaan Dosen Berprestasi",
+      "category": "Akademik",
+      "year": 2025,
+      "description": "Dosen UNAIC mendapatkan penghargaan dosen berprestasi tingkat provinsi.",
+      "photo": "/uploads/1768468114206_mou3.jpg",
+      "titleEn": "Outstanding Lecturer Award",
+      "descriptionEn": "UNAIC lecturers received provincial-level awards for outstanding lecturers.",
+      "categoryEn": "Academic"
+    },
+    {
+      "id": "h3",
+      "title": "Juara 2 Lomba Karya Tulis Ilmiah",
+      "category": "Karya Tulis",
+      "year": 2023,
+      "description": "Mahasiswa UNAIC meraih juara 2 dalam lomba karya tulis ilmiah tingkat nasional.",
+      "photo": "/images/prestasi/lomba2.jpg",
+      "titleEn": "Second Place in Scientific Writing Competition",
+      "descriptionEn": "UNAIC students won second place in a national scientific writing competition.",
+      "categoryEn": ""
+    }
+  ],
+  "carousel": [
+    {
+      "id": "c1",
+      "title": "Juara 1 Kompetisi Robotik Internasional",
+      "photo": "/images/prestasi/timline1.jpg",
+      "titleEn": "1st Place Winner in the International Robotics Competition"
+    },
+    {
+      "id": "c2",
+      "title": "Penghargaan Inovasi Teknologi Dunia",
+      "photo": "/images/prestasi/timline2.jpg",
+      "titleEn": "Global Technology Innovation Award"
+    },
+    {
+      "id": "c3",
+      "title": "Juara 3 Olimpiade Matematika Internasional",
+      "photo": "/images/prestasi/timeline3.jpg",
+      "titleEn": "Third Place in the International Mathematics Olympiad"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "year": 2020,
+      "description": "Mulai program beasiswa prestasi",
+      "icon": "GraduationCap",
+      "descriptionEn": "Launch the Merit Scholarship Program"
+    },
+    {
+      "id": "t2",
+      "year": 2021,
+      "description": "Juara lomba debat tingkat provinsi",
+      "icon": "MessageSquare",
+      "descriptionEn": "Provincial Level Debate Competition Winner"
+    },
+    {
+      "id": "t3",
+      "year": 2022,
+      "description": "Penghargaan dosen berprestasi",
+      "icon": "Trophy",
+      "descriptionEn": "Outstanding Lecturer Award"
+    },
+    {
+      "id": "t4",
+      "year": 2023,
+      "description": "Juara lomba karya tulis ilmiah nasional",
+      "icon": "PenTool",
+      "descriptionEn": "National scientific writing competition winner"
+    },
+    {
+      "id": "t5",
+      "year": 2024,
+      "description": "Penghargaan Inovasi Teknologi",
+      "icon": "Lightbulb",
+      "descriptionEn": "Technology Innovation Award"
+    },
+    {
+      "id": "t6",
+      "year": 2025,
+      "description": "Juara Kompetisi Robotik Internasional",
+      "icon": "Bot",
+      "descriptionEn": "International Robotics Competition Champion"
+    }
+  ]
+}

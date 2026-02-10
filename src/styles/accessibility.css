@@ -1,0 +1,131 @@
+/* === Kontras === */
+.acc-contrast-invert {
+  filter: invert(1) hue-rotate(180deg);
+}
+.acc-contrast-invert img,
+.acc-contrast-invert video {
+  filter: invert(1) hue-rotate(180deg);
+}
+.acc-contrast-dark {
+  filter: contrast(1.2) brightness(0.9);
+}
+.acc-contrast-light {
+  filter: contrast(1.5);
+}
+
+/* === Ukuran Teks === */
+.acc-text-size-medium { --acc-font-scale: 1.1; }
+.acc-text-size-large { --acc-font-scale: 1.3; }
+.acc-text-size-xlarge { --acc-font-scale: 1.5; }
+
+.acc-text-size-medium *,
+.acc-text-size-large *,
+.acc-text-size-xlarge * {
+  font-size: calc(var(--acc-font-scale) * 1em) !important;
+}
+
+/* === Spasi Teks === */
+.acc-text-spacing-medium { letter-spacing: 0.1em !important; }
+.acc-text-spacing-large { letter-spacing: 0.2em !important; }
+.acc-text-spacing-xlarge { letter-spacing: 0.3em !important; }
+
+/* === Tinggi Garis === */
+.acc-line-height-medium * { line-height: 1.8 !important; }
+.acc-line-height-large * { line-height: 2.2 !important; }
+.acc-line-height-xlarge * { line-height: 2.6 !important; }
+
+/* === Perataan Teks === */
+/* Only apply to block-level text containers to avoid breaking layouts */
+.acc-text-align-left p, .acc-text-align-left h1, .acc-text-align-left h2, .acc-text-align-left h3, .acc-text-align-left li { text-align: left !important; }
+.acc-text-align-center p, .acc-text-align-center h1, .acc-text-align-center h2, .acc-text-align-center h3, .acc-text-align-center li { text-align: center !important; }
+.acc-text-align-right p, .acc-text-align-right h1, .acc-text-align-right h2, .acc-text-align-right h3, .acc-text-align-right li { text-align: right !important; }
+
+/* === Saturasi === */
+.acc-saturation-low { filter: saturate(50%); }
+.acc-saturation-medium { filter: saturate(150%); }
+.acc-saturation-high { filter: saturate(200%); }
+
+/* === Sorot Tautan === */
+.acc-highlight-links a {
+  background-color: #FFD600 !important;
+  color: #002B6B !important;
+  padding: 2px 4px;
+  border-radius: 3px;
+  text-decoration: underline !important;
+  font-weight: bold;
+}
+
+/* === Jeda Animasi === */
+.acc-pause-animations *,
+.acc-pause-animations *::before,
+.acc-pause-animations *::after {
+  animation-play-state: paused !important;
+  transition: none !important;
+}
+
+/* === Font Ramah Disleksia === */
+/* Fallback to system fonts that are generally readable if OpenDyslexic is missing */
+.acc-dyslexia-font, .acc-dyslexia-font * {
+  font-family: 'OpenDyslexic', 'Comic Sans MS', 'Chalkboard SE', sans-serif !important;
+  letter-spacing: 0.05em !important;
+}
+
+/* === Sembunyikan Gambar === */
+.acc-hide-images img,
+.acc-hide-images svg,
+.acc-hide-images video,
+.acc-hide-images [style*="background-image"] {
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* === Keterangan Alat (Tooltips) === */
+.acc-show-tooltips [title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(8px);
+  background-color: #002B6B;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  z-index: 10000;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+.acc-show-tooltips [title] {
+  position: relative;
+}
+
+/* === Cursor === */
+.cursor-normal * { cursor: auto !important; }
+.cursor-large, .cursor-large * { cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 24 24' fill='black' stroke='white' stroke-width='2'><path d='M3 3l7.07 16.97 2.51-7.39 7.39-2.51L3 3z'/></svg>") 0 0, auto !important; }
+.cursor-xlarge, .cursor-xlarge * { cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 24 24' fill='black' stroke='white' stroke-width='2'><path d='M3 3l7.07 16.97 2.51-7.39 7.39-2.51L3 3z'/></svg>") 0 0, auto !important; }
+
+
+/* === READING MODE (New) === */
+/* Dim everything except hover/focus */
+.acc-reading-mode main {
+    filter: grayscale(100%) contrast(0.8);
+}
+.acc-reading-mode main:hover {
+    filter: none;
+    transition: filter 0.5s ease;
+}
+
+/* A simpler Reading Guide bar following the mouse could be added via JS, 
+   but for CSS-only, we can highlight paragraphs on hover */
+.acc-reading-mode p:hover,
+.acc-reading-mode li:hover {
+    background-color: rgba(255, 214, 0, 0.1);
+    border-radius: 4px;
+    box-shadow: 0 0 0 5px rgba(255, 214, 0, 0.1);
+    color: #000 !important;
+}
+
+/* === Hide other accessiblity widgets === */
+.accessibility-widget, .accessibility-panel, #accessibility-widget {
+  display: none !important;
+}

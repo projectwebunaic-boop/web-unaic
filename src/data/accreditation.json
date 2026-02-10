@@ -1,0 +1,159 @@
+{
+  "history": [
+    {
+      "id": "unaic-2024",
+      "year": "2021 - Sekarang",
+      "institutionName": "Universitas Al-Irsyad Cilacap (UNAIC)",
+      "description": "Transformasi menjadi Universitas berdasarkan SK Kemendikbud Ristek. Institusi terakreditasi dengan peringkat BAIK SEKALI.",
+      "docTitle": "Sertifikat Akreditasi Institusi (APT)",
+      "docNumber": "No. 123/SK/BAN-PT/Ak-PPj/PT/V/2021",
+      "downloadUrl": "#",
+      "status": "current",
+      "institutionNameEn": "Universitas Al-Irsyad Cilacap (UNAIC)",
+      "descriptionEn": "Transformation into a university based on the Decree of the Ministry of Education and Culture. An accredited institution with an EXCELLENT rating.",
+      "docTitleEn": "Institutional Accreditation Certificate (APT)"
+    },
+    {
+      "id": "stikes-2010",
+      "year": "2006 - 2021",
+      "institutionName": "STIKES Al-Irsyad Al-Islamiyyah",
+      "description": "Perubahan bentuk menjadi Sekolah Tinggi Ilmu Kesehatan dengan penambahan prodi Sarjana.",
+      "docTitle": "SK Pendirian STIKES",
+      "docNumber": "No. 456/D/O/2006",
+      "downloadUrl": "#",
+      "status": "archived",
+      "descriptionEn": "The institution was transformed into a College of Health Sciences with the addition of undergraduate programs.",
+      "docTitleEn": "Decree on the Establishment of STIKES"
+    },
+    {
+      "id": "akper-1995",
+      "year": "1995 - 2006",
+      "institutionName": "Akademi Keperawatan (AKPER) Al-Irsyad",
+      "description": "Berdiri sebagai Akademi Keperawatan pertama di Cilacap yang mencetak tenaga perawat profesional.",
+      "docTitle": "SK Pendirian AKPER",
+      "docNumber": "No. 789/Dikti/Kep/1995",
+      "downloadUrl": "#",
+      "status": "archived",
+      "descriptionEn": "Established as the first Nursing Academy in Cilacap that produces professional nurses.",
+      "docTitleEn": "Decree on the Establishment of AKPER"
+    }
+  ],
+  "faculties": [
+    {
+      "id": "fikes",
+      "name": "Fakultas Ilmu Kesehatan",
+      "nameEn": "Faculty of Health Sciences"
+    },
+    {
+      "id": "ffst",
+      "name": "Fakultas Farmasi, Sains & Teknologi",
+      "nameEn": "Faculty of Pharmacy, Science & Technology"
+    },
+    {
+      "id": "feb",
+      "name": "Fakultas Ekonomi & Bisnis",
+      "nameEn": "Faculty of Economics and Business"
+    }
+  ],
+  "programs": [
+    {
+      "id": "a17cd81b-171f-4d4d-a532-d2331cbe033b",
+      "facultyId": "fikes",
+      "program": "Profesi Bidan",
+      "level": "Profesi",
+      "rank": "Baik",
+      "skNumber": "001/LAM-PTKes/Akr/Dip/IX/2023",
+      "expiryDate": "2023-06-29",
+      "downloadUrl": "#",
+      "programEn": "Midwife Profession"
+    },
+    {
+      "id": "fikes-1",
+      "facultyId": "fikes",
+      "program": "Keperawatan",
+      "level": "D3",
+      "rank": "Unggul",
+      "skNumber": "001/LAM-PTKes/Akr/Dip/IX/2023",
+      "expiryDate": "2028-09-01",
+      "downloadUrl": "/uploads/1768575232501_akred_tlm_new_(2).pdf",
+      "programEn": "Nursing"
+    },
+    {
+      "id": "fikes-2",
+      "facultyId": "fikes",
+      "program": "Kebidanan",
+      "level": "D3",
+      "rank": "Baik Sekali",
+      "skNumber": "002/LAM-PTKes/Akr/Dip/IX/2023",
+      "expiryDate": "2028-09-01",
+      "downloadUrl": "#",
+      "programEn": "Midwifery"
+    },
+    {
+      "id": "fikes-3",
+      "facultyId": "fikes",
+      "program": "Keperawatan",
+      "level": "S1",
+      "rank": "Baik Sekali",
+      "skNumber": "003/LAM-PTKes/Akr/Sar/IX/2023",
+      "expiryDate": "2028-09-01",
+      "downloadUrl": "#",
+      "programEn": "Nursing"
+    },
+    {
+      "id": "fikes-4",
+      "facultyId": "fikes",
+      "program": "Profesi Ners",
+      "level": "Profesi",
+      "rank": "Baik Sekali",
+      "skNumber": "004/LAM-PTKes/Akr/Pro/IX/2023",
+      "expiryDate": "2028-09-01",
+      "downloadUrl": "#",
+      "programEn": "Nursing Profession"
+    },
+    {
+      "id": "ffst-1",
+      "facultyId": "ffst",
+      "program": "Farmasi",
+      "level": "D3",
+      "rank": "Baik Sekali",
+      "skNumber": "005/LAM-PTKes/Akr/Dip/X/2023",
+      "expiryDate": "2028-10-01",
+      "downloadUrl": "#",
+      "programEn": "Pharmacy"
+    },
+    {
+      "id": "ffst-2",
+      "facultyId": "ffst",
+      "program": "Farmasi",
+      "level": "S1",
+      "rank": "Baik",
+      "skNumber": "006/LAM-PTKes/Akr/Sar/X/2023",
+      "expiryDate": "2028-10-01",
+      "downloadUrl": "#",
+      "programEn": "Pharmacy"
+    },
+    {
+      "id": "feb-1",
+      "facultyId": "feb",
+      "program": "Bisnis Digital",
+      "level": "S1",
+      "rank": "Baik",
+      "skNumber": "007/BAN-PT/Akr/Sar/XI/2023",
+      "expiryDate": "2028-11-01",
+      "downloadUrl": "#",
+      "programEn": "Digital Business"
+    },
+    {
+      "id": "feb-2",
+      "facultyId": "feb",
+      "program": "Kewirausahaan",
+      "level": "S1",
+      "rank": "Baik",
+      "skNumber": "008/BAN-PT/Akr/Sar/XI/2023",
+      "expiryDate": "2028-11-01",
+      "downloadUrl": "#",
+      "programEn": "Entrepreneurship"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "id": "core",
+      "name": "Organisasi Inti",
+      "nameEn": "Core Organizations"
+    },
+    {
+      "id": "ukm",
+      "name": "Unit Kegiatan Mahasiswa (UKM)",
+      "nameEn": "Student Activity Units (UKM)"
+    }
+  ],
+  "items": [
+    {
+      "id": "bem",
+      "categoryId": "core",
+      "name": "BEM UNAIC",
+      "fullName": "Badan Eksekutif Mahasiswa UNAIC",
+      "description": "Organisasi eksekutif tertinggi yang mewakili seluruh mahasiswa UNAIC dalam berbagai kegiatan kemahasiswaan dan advokasi.",
+      "details": "BEM UNAIC bertanggung jawab dalam mengkoordinasikan seluruh kegiatan kemahasiswaan, menyuarakan aspirasi mahasiswa, dan membangun hubungan dengan pihak kampus.",
+      "logo": "/images/ormawa/bem-unaic.png",
+      "nameEn": "UNAIC Student Executive Board",
+      "descriptionEn": "The supreme executive organization representing all UNAIC students in various student activities and advocacy matters.",
+      "detailsEn": "The UNAIC Student Executive Board (BEM) is responsible for coordinating all student activities, representing student aspirations, and fostering relationships with the campus administration.",
+      "fullNameEn": "Student Executive Board of UNAIC"
+    },
+    {
+      "id": "ukm-olahraga",
+      "categoryId": "ukm",
+      "name": "UKM Olahraga",
+      "description": "Unit kegiatan yang menampung mahasiswa dengan minat olahraga seperti futsal, basket, voli, dan atletik.",
+      "activities": "Turnamen internal, Latihan rutin, Kompetisi antar kampus, Program fitness",
+      "nameEn": "Sports Student Activity Unit",
+      "descriptionEn": "Activity units that accommodate students with interests in sports such as futsal, basketball, volleyball, and athletics."
+    },
+    {
+      "id": "ukm-seni",
+      "categoryId": "ukm",
+      "name": "UKM Seni & Budaya",
+      "description": "Wadah pengembangan seni dan budaya melalui berbagai kegiatan seperti tari, musik tradisional, dan teater.",
+      "activities": "Pentas seni, Workshop budaya, Festival kampus, Kolaborasi antar UKM"
+    },
+    {
+      "id": "ukm-agama",
+      "categoryId": "ukm",
+      "name": "UKM Keagamaan",
+      "description": "Komunitas yang mengembangkan nilai-nilai spiritual dan keagamaan melalui kegiatan keislaman dan kerohanian.",
+      "activities": "Kajian rutin, Program tadarus, Kegiatan sosial, Pembinaan mental"
+    },
+    {
+      "id": "ukm-mapala",
+      "categoryId": "ukm",
+      "name": "UKM Pecinta Alam",
+      "description": "Organisasi yang fokus pada kegiatan alam bebas, konservasi lingkungan, dan petualangan outdoor.",
+      "activities": "Pendakian gunung, Kampanye lingkungan, Pelatihan survival, Eksplorasi alam"
+    },
+    {
+      "id": "ukm-it",
+      "categoryId": "ukm",
+      "name": "UKM IT & Multimedia",
+      "description": "Unit kegiatan yang mengembangkan kemampuan teknologi informasi, programming, dan multimedia.",
+      "activities": "Workshop programming, Kompetisi IT, Pengembangan aplikasi, Digital marketing"
+    }
+  ]
+}

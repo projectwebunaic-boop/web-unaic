@@ -1,0 +1,60 @@
+[
+  {
+    "id": "TIC-2026001",
+    "date": "2026-01-09",
+    "status": "done",
+    "category": "AKADEMIK",
+    "title": "Jadwal Kosong",
+    "desc": "Dosen ini sering mengkosongkan jadwal tanpa pemberitahuan",
+    "reporter": "Jumanji"
+  },
+  {
+    "id": "TIC-2026002",
+    "date": "2026-01-09",
+    "status": "pending",
+    "category": "FASILITAS",
+    "title": "LCD Projector tidak berfungsi",
+    "desc": "Di ruang kela B.301 LCD Proyektor tidak berfungsi, mohon segera ditindak lanjuti",
+    "reporter": "Maya"
+  },
+  {
+    "id": "TIC-2026003",
+    "date": "2026-01-09",
+    "status": "process",
+    "category": "ADMINISTRASI",
+    "title": "Pembayaran gagal",
+    "desc": "Jadi saya mau bayar UKT, saya sudah transfer dan saldo terpotong tapi di sistem tagihan masih muncul, mohon dibantu sangat",
+    "reporter": "Fajar Sad Boy",
+    "imageUrl": "/uploads/1767927577751-iPhone-13-PRO-localhost.png"
+  },
+  {
+    "id": "TIC-2026004",
+    "date": "2026-01-09",
+    "status": "pending",
+    "category": "ETIK",
+    "title": "Bullying",
+    "desc": "Temen saya dibully oleh teman sekalas lainnya, mohon ditindak lanjuti",
+    "reporter": "Anonim",
+    "imageUrl": ""
+  },
+  {
+    "id": "TIC-2026005",
+    "date": "2026-01-09",
+    "status": "pending",
+    "category": "AKADEMIK",
+    "title": "Bimbingan",
+    "desc": "Saya kesusahan menemui dosbing saya, dengan berbagai alasan beliau sudah sekali untuk ditemui, saya jauh² dari Purbalingga-Cilacap tidak membuahkan hasil progres bimbingan",
+    "reporter": "Ivan Gunawan",
+    "imageUrl": ""
+  },
+  {
+    "id": "TIC-2026006",
+    "date": "2026-01-09",
+    "status": "done",
+    "category": "FASILITAS",
+    "title": "Toilet gedung C sangat kotor",
+    "desc": "kondisi toilet sangat tidak layak dan bau",
+    "reporter": "Anonim",
+    "imageUrl": ""
+  }
+]

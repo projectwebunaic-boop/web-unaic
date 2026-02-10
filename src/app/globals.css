@@ -1,0 +1,89 @@
+@import "tailwindcss";
+@import 'react-medium-image-zoom/dist/styles.css';
+
+@theme {
+  --color-background: #ffffff;
+  --color-foreground: #171717;
+
+  /* 🔹 UNAIC Brand Colors */
+  --color-unaicNavy: #0A2647;
+  --color-unaicBlue: #0056D2;
+  --color-unaicGold: #FFD700;
+  --color-unaicGray: #6B7280;
+
+  /* 🔹 Fonts */
+  --font-body: var(--font-inter), sans-serif;
+  --font-heading: var(--font-poppins), sans-serif;
+
+  /* 🔹 Border Radius */
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+
+  /* 🔹 Shadows */
+  --shadow-card: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+  overflow-x: hidden; /* Prevent horizontal scroll */
+  width: 100%;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+/* 🔹 Google Translate Widget Overrides */
+
+/* 
+  Sembunyikan widget Google Translate.
+  Komponen LanguageSwitcher.tsx yang baru akan menangani semua UI.
+*/
+#google_translate_element,
+.skiptranslate {
+  display: none !important;
+}
+
+.goog-te-gadget-icon {
+  display: none !important;
+}
+
+.goog-logo-link,
+.goog-te-gadget>span {
+  display: none !important;
+}
+
+.goog-te-gadget {
+  color: transparent !important;
+}
+
+/* Sembunyikan banner terjemahan dan perbaiki posisi body */
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0px !important;
+}
+
+/* Chatbot loading animation delays */
+.chatbot-loading-dot-1 {
+  animation-delay: 0s;
+}
+
+.chatbot-loading-dot-2 {
+  animation-delay: 0.1s;
+}
+
+.chatbot-loading-dot-3 {
+  animation-delay: 0.2s;
+}

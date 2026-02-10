@@ -1,0 +1,478 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model AuditLog {
+  id        Int      @id @default(autoincrement())
+  action    String
+  adminId   String
+  details   String?
+  ipAddress String?
+  userAgent String?
+  createdAt DateTime @default(now())
+}
+
+model Post {
+  id        String   @id @default(uuid())
+  title     String
+  titleEn   String?
+  slug      String   @unique
+  content   String?
+  contentEn String?
+  category  String?
+  published Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Leader {
+  id          String    @id @default(uuid())
+  name        String
+  title       String
+  titleEn     String?
+  slug        String    @unique
+  image       String?
+  category    String
+  email       String?
+  scholar     String?
+  vision      String?
+  visionEn    String?
+  education   String?
+  educationEn String?
+  career      String?
+  careerEn    String?
+  research    String?
+  researchEn  String?
+  isActive    Boolean   @default(true)
+  order       Int       @default(0)
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  faculties   Faculty[]
+}
+
+model Agenda {
+  id            String   @id @default(uuid())
+  title         String
+  titleEn       String?
+  slug          String   @unique
+  date          DateTime
+  time          String?
+  location      String?
+  locationEn    String?
+  category      String?
+  thumbnail     String?
+  description   String?
+  descriptionEn String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model LpmCriterion {
+  id            String   @id @default(uuid())
+  title         String
+  titleEn       String?
+  subtitle      String?
+  subtitleEn    String?
+  description   String?
+  descriptionEn String?
+  content       String?
+  contentEn     String?
+  icon          String?
+  slug          String   @unique
+  order         Int      @default(0)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model LpmDocument {
+  id        String   @id @default(uuid())
+  title     String
+  titleEn   String?
+  year      Int
+  url       String
+  category  String?
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model PageContent {
+  id        String   @id @default(uuid())
+  pageSlug  String
+  section   String
+  content   String?
+  contentEn String?
+  updatedAt DateTime @updatedAt
+
+  @@unique([pageSlug, section])
+}
+
+model LpmProfile {
+  id              Int      @id @default(autoincrement())
+  about           String?
+  aboutEn         String?
+  vision          String?
+  visionEn        String?
+  mission         String?
+  missionEn       String?
+  updatedAt       DateTime @updatedAt
+  activityCycle   String?
+  activityCycleEn String?
+  mainDuties      String?
+  mainDutiesEn    String?
+}
+
+model LpmStaff {
+  id         Int      @id @default(autoincrement())
+  name       String
+  position   String
+  positionEn String?
+  image      String?
+  order      Int      @default(0)
+  updatedAt  DateTime @updatedAt
+}
+
+model LpmAgenda {
+  id            String   @id @default(uuid())
+  title         String
+  titleEn       String?
+  slug          String   @unique
+  date          DateTime
+  location      String?
+  locationEn    String?
+  description   String?
+  descriptionEn String?
+  image         String?
+  thumbnail     String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model LpmLegalBasis {
+  id            String   @id @default(uuid())
+  title         String
+  titleEn       String?
+  category      String   @default("Nasional")
+  description   String?
+  url           String?
+  order         Int      @default(0)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  descriptionEn String?
+}
+
+model StaffCategory {
+  id     String  @id @default(uuid())
+  name   String
+  nameEn String?
+  slug   String  @unique
+  order  Int     @default(0)
+  staffs Staff[]
+}
+
+model Staff {
+  id         String        @id @default(uuid())
+  name       String
+  role       String
+  roleEn     String?
+  nidn       String?
+  image      String?
+  scholarUrl String?
+  categoryId String
+  order      Int           @default(0)
+  createdAt  DateTime      @default(now())
+  updatedAt  DateTime      @updatedAt
+  category   StaffCategory @relation(fields: [categoryId], references: [id])
+}
+
+model Faculty {
+  id            String            @id @default(uuid())
+  name          String
+  nameEn        String?
+  slug          String            @unique
+  key           String            @unique
+  icon          String?
+  deanName      String?
+  deanTitle     String?
+  deanTitleEn   String?
+  deanMessage   String?
+  deanMessageEn String?
+  deanImage     String?
+  deanId        String?
+  vision        String?
+  visionEn      String?
+  missions      String?
+  missionsEn    String?
+  heroImage     String?
+  updatedAt     DateTime          @updatedAt
+  dean          Leader?           @relation(fields: [deanId], references: [id])
+  facilities    FacultyFacility[]
+  programs      FacultyProgram[]
+}
+
+model FacultyProgram {
+  id                String              @id @default(uuid())
+  name              String
+  nameEn            String?
+  slug              String
+  key               String              @unique
+  level             String?
+  accreditation     String?
+  facultyId         String
+  updatedAt         DateTime            @updatedAt
+  advantages        String?
+  advantagesEn      String?
+  careerProspects   String?
+  careerProspectsEn String?
+  description       String?
+  descriptionEn     String?
+  websiteUrl        String?
+  duration          String?
+  durationEn        String?
+  degree            String?
+  degreeEn          String?
+  icon              String?             @default("GraduationCap")
+  subjects          CurriculumSubject[]
+  faculty           Faculty             @relation(fields: [facultyId], references: [id], onDelete: Cascade)
+
+  @@unique([facultyId, slug])
+}
+
+model CurriculumSubject {
+  id        String         @id @default(uuid())
+  semester  String
+  name      String
+  nameEn    String?
+  credits   Int            @default(0)
+  programId String
+  order     Int            @default(0)
+  createdAt DateTime       @default(now())
+  updatedAt DateTime       @updatedAt
+  program   FacultyProgram @relation(fields: [programId], references: [id], onDelete: Cascade)
+}
+
+model AcademicCalendar {
+  id         String   @id @default(uuid())
+  semester   String
+  semesterEn String?
+  activity   String
+  activityEn String?
+  date       String
+  dateEn     String?
+  year       String
+  order      Int      @default(0)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+model AcademicPolicy {
+  id            String   @id @default(uuid())
+  title         String
+  titleEn       String?
+  description   String
+  descriptionEn String?
+  pdfUrl        String
+  purpose       String?
+  purposeEn     String?
+  scope         String?
+  scopeEn       String?
+  lastUpdate    String?
+  responsible   String?
+  responsibleEn String?
+  order         Int      @default(0)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model AcademicCalendarConfig {
+  id        String   @id @default("singleton")
+  pdfUrl    String?
+  pdfUrlEn  String?
+  updatedAt DateTime @updatedAt
+}
+
+model LibraryConfig {
+  id            String   @id @default("singleton")
+  simpusUrl     String   @default("https://simpus.universitasalirsyad.ac.id/")
+  phone         String?  @default("(0282) 532975")
+  email         String?  @default("perpustakaan@unaic.ac.id")
+  address       String?  @default("Gedung Utama Lantai 2, Universitas Al-Irsyad Cilacap, Jl. Cerme No. 24, Sidanegara, Cilacap.")
+  addressEn     String?  @default("Main Building 2nd Floor, Al-Irsyad University of Cilacap, Jl. Cerme No. 24, Sidanegara, Cilacap.")
+  weekdayHours  String?  @default("08:00 - 16:00")
+  saturdayHours String?  @default("08:00 - 13:00")
+  updatedAt     DateTime @updatedAt
+}
+
+model FacultyFacility {
+  id            String  @id @default(uuid())
+  title         String
+  titleEn       String?
+  description   String?
+  descriptionEn String?
+  image         String?
+  order         Int     @default(0)
+  facultyId     String
+  faculty       Faculty @relation(fields: [facultyId], references: [id], onDelete: Cascade)
+}
+
+model Laboratory {
+  id            String   @id @default(uuid())
+  name          String
+  nameEn        String?
+  description   String?
+  descriptionEn String?
+  image         String?
+  facilities    String?
+  facilitiesEn  String?
+  order         Int      @default(0)
+  updatedAt     DateTime @updatedAt
+}
+
+model LaboratoryConfig {
+  id               String   @id @default("singleton")
+  title            String?  @default("Laboratorium UNAIC")
+  titleEn          String?  @default("UNAIC Laboratory")
+  subtitle         String?  @default("Fasilitas laboratorium UNAIC yang mendukung kegiatan pendidikan, penelitian, dan inovasi.")
+  subtitleEn       String?  @default("UNAIC laboratory facilities that support education, research, and innovation activities.")
+  contactName      String?  @default("Administrator Lab")
+  contactPhone     String?  @default("-")
+  contactEmail     String?  @default("lab@universitasalirsyad.ac.id")
+  contactAddress   String?  @default("Kampus UNAIC")
+  contactAddressEn String?  @default("UNAIC Campus")
+  updatedAt        DateTime @updatedAt
+}
+
+model LppmProfile {
+  id               String   @id @default("singleton")
+  vision           String?
+  visionEn         String?
+  mission          String?
+  missionEn        String?
+  tasks            String?
+  tasksEn          String?
+  ctaTitle         String?
+  ctaTitleEn       String?
+  ctaDescription   String?
+  ctaDescriptionEn String?
+  ctaButtonText    String?
+  ctaButtonTextEn  String?
+  ctaButtonLink    String?
+  updatedAt        DateTime @updatedAt
+}
+
+model LppmStaff {
+  id         Int      @id @default(autoincrement())
+  name       String
+  position   String
+  positionEn String?
+  image      String?
+  order      Int      @default(0)
+  updatedAt  DateTime @updatedAt
+}
+
+model ResearchConfig {
+  id           String   @id @default("singleton")
+  title        String?  @default("Penelitian & Inovasi")
+  titleEn      String?  @default("Research & Innovation")
+  subtitle     String?  @default("Mengembangkan ilmu pengetahuan dan teknologi melalui riset berkualitas.")
+  subtitleEn   String?  @default("Developing science and technology through high-quality research.")
+  focusTitle   String?  @default("Fokus Penelitian")
+  focusTitleEn String?  @default("Research Focus")
+  focusDesc    String?
+  focusDescEn  String?
+  updatedAt    DateTime @updatedAt
+}
+
+model ResearchProject {
+  id            Int      @id @default(autoincrement())
+  title         String
+  titleEn       String?
+  leader        String
+  year          String
+  status        String
+  description   String
+  descriptionEn String?
+  reportUrl     String?
+  order         Int      @default(0)
+  updatedAt     DateTime @updatedAt
+}
+
+model PkmConfig {
+  id            String   @id @default("singleton")
+  title         String?  @default("Pengabdian Masyarakat")
+  titleEn       String?  @default("Community Service")
+  subtitle      String?  @default("Hilirisasi hasil riset untuk kebermanfaatan masyarakat luas.")
+  subtitleEn    String?  @default("Downstreaming research results for the benefit of the wider community.")
+  impactTitle   String?  @default("Dampak Sosial")
+  impactTitleEn String?  @default("Social Impact")
+  impactDesc    String?
+  impactDescEn  String?
+  updatedAt     DateTime @updatedAt
+}
+
+model PkmProject {
+  id            Int      @id @default(autoincrement())
+  title         String
+  titleEn       String?
+  leader        String
+  year          String
+  status        String
+  description   String
+  descriptionEn String?
+  reportUrl     String?
+  order         Int      @default(0)
+  updatedAt     DateTime @updatedAt
+}
+
+model PkmProgram {
+  id            Int      @id @default(autoincrement())
+  title         String
+  titleEn       String?
+  description   String
+  descriptionEn String?
+  icon          String   @default("Rocket")
+  features      String?
+  featuresEn    String?
+  order         Int      @default(0)
+  updatedAt     DateTime @updatedAt
+}
+
+model Publication {
+  id            String   @id @default(uuid())
+  type          String   // JOURNAL, PROCEEDING, ARTICLE
+  title         String
+  titleEn       String?
+  link          String?
+  pdfUrl        String?
+  authors       String?
+  year          String?
+  description   String?
+  descriptionEn String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model PmbConfig {
+  id              String   @id @default("singleton")
+  heroTitle       String?  @default("Penerimaan Mahasiswa Baru")
+  heroTitleEn     String?  @default("New Student Admission")
+  heroSubtitle    String?  @default("Bergabunglah dengan Universitas Al-Irsyad Cilacap dan jadilah generasi unggul yang berkarakter islami dan berdaya saing global.")
+  heroSubtitleEn  String?  @default("Join Al-Irsyad University of Cilacap and become a superior generation with Islamic character and global competitiveness.")
+  
+  ctaTitle        String?
+  ctaTitleEn      String?
+  ctaDesc         String?
+  ctaDescEn       String?
+  
+  timelinePdfUrl  String?
+  brochurePdfUrl  String?
+  
+  registrationUrl String?  @default("https://pmb.universitasalirsyad.ac.id/")
+  
+  updatedAt       DateTime @updatedAt
+}

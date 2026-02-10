@@ -1,0 +1,282 @@
+[
+  {
+    "id": "rector",
+    "name": "Sarwa, AMK., S.Pd., M.Kes.",
+    "title": "Rektor Universitas Al-Irsyad Cilacap",
+    "titleEn": "Rector of Universitas Al-Irsyad Cilacap",
+    "image": "/images/pimpinan/rektor.png",
+    "category": "Rektor",
+    "profile": "/akademik/pimpinan/rektor",
+    "slug": "rektor",
+    "education": [
+      "S1 Keperawatan - Universitas Indonesia (2005)",
+      "S2 Pendidikan - Universitas Negeri Jakarta (2010)",
+      "S3 Kesehatan Masyarakat - Universitas Gadjah Mada (2015)"
+    ],
+    "educationEn": [
+      "Bachelor of Nursing - University of Indonesia (2005)",
+      "Master of Education - Jakarta State University (2010)",
+      "Doctor of Public Health - Gadjah Mada University (2015)"
+    ],
+    "career": [
+      "Dosen Fakultas Ilmu Kesehatan UNAIC (2006-sekarang)",
+      "Kepala Program Studi Keperawatan (2010-2015)",
+      "Dekan Fakultas Ilmu Kesehatan (2015-2020)",
+      "Rektor Universitas Al-Irsyad Cilacap (2020-sekarang)"
+    ],
+    "careerEn": [
+      "Lecturer at UNAIC Faculty of Health Sciences (2006-present)",
+      "Head of Nursing Study Program (2010-2015)",
+      "Dean of the Faculty of Health Sciences (2015-2020)",
+      "Rector of Universitas Al-Irsyad Cilacap (2020-present)"
+    ],
+    "research": [
+      "Pengembangan Model Pembelajaran Berbasis Komunitas di Daerah Pedesaan",
+      "Studi Efektivitas Program Kesehatan Reproduksi Remaja",
+      "Implementasi Teknologi Digital dalam Pendidikan Kesehatan"
+    ],
+    "researchEn": [
+      "Development of Community-Based Learning Models in Rural Areas",
+      "Study of the Effectiveness of Adolescent Reproductive Health Programs",
+      "Implementation of Digital Technology in Health Education"
+    ],
+    "email": "sarwa@email.ac.id",
+    "scholar": "https://scholar.google.com/",
+    "vision": "Memajukan Universitas adalah tanggung jawab pimpinan dan semua lini",
+    "visionEn": "Advancing the University is the responsibility of the leadership and all levels"
+  },
+  {
+    "id": "warek1",
+    "name": "apt. Mika Tri Kumala Swandari, M.Sc",
+    "title": "Wakil Rektor I",
+    "titleEn": "Vice Rector I",
+    "image": "/images/pimpinan/warek1.png",
+    "category": "Wakil Rektor",
+    "profile": "/akademik/pimpinan/warek1",
+    "slug": "warek1",
+    "education": [
+      "S1 Farmasi - Universitas Padjadjaran (2008)",
+      "S2 Farmasi Klinis - Universitas Indonesia (2012)",
+      "S3 Farmakologi - Universitas Airlangga (2018)"
+    ],
+    "educationEn": [
+      "Bachelor of Pharmacy - Padjadjaran University (2008)",
+      "Master of Clinical Pharmacy - University of Indonesia (2012)",
+      "PhD in Pharmacology - Airlangga University (2018)"
+    ],
+    "career": [
+      "Apoteker RSUD Cilacap (2008-2012)",
+      "Dosen Fakultas Farmasi UNAIC (2012-sekarang)",
+      "Kepala Laboratorium Farmasi Klinis (2015-2020)",
+      "Wakil Rektor I UNAIC (2020-sekarang)"
+    ],
+    "careerEn": [
+      "Pharmacist at Cilacap Regional Hospital (2008-2012)",
+      "Lecturer at UNAIC Faculty of Pharmacy (2012-present)",
+      "Head of Clinical Pharmacy Laboratory (2015-2020)",
+      "Vice Rector I of UNAIC (2020-present)"
+    ],
+    "research": [
+      "Pengembangan Obat Herbal untuk Penyakit Tropis",
+      "Studi Bioavailabilitas Obat Generik",
+      "Riset Pengembangan Vaksin Lokal"
+    ],
+    "researchEn": [
+      "Development of Herbal Medicines for Tropical Diseases",
+      "Bioavailability Study of Generic Drugs",
+      "Research on Local Vaccine Development"
+    ],
+    "email": "",
+    "scholar": "",
+    "vision": "",
+    "visionEn": ""
+  },
+  {
+    "id": "warek2",
+    "name": "Yogi Andhi Lestari, S.ST., M.Keb.",
+    "title": "Wakil Rektor II",
+    "image": "/images/pimpinan/warek2.png",
+    "category": "Wakil Rektor",
+    "profile": "/akademik/pimpinan/warek2",
+    "slug": "warek2",
+    "education": [
+      "D3 Kebidanan - Akademi Kebidanan Yogyakarta (2007)",
+      "S1 Kebidanan - Universitas Gadjah Mada (2010)",
+      "S2 Kesehatan Masyarakat - Universitas Diponegoro (2015)"
+    ],
+    "career": [
+      "Bidan di Puskesmas Cilacap (2007-2012)",
+      "Dosen Fakultas Ilmu Kesehatan UNAIC (2012-sekarang)",
+      "Kepala Program Studi Kebidanan (2015-2020)",
+      "Wakil Rektor II UNAIC (2020-sekarang)"
+    ],
+    "research": [
+      "Program Pencegahan Stunting di Wilayah Pesisir",
+      "Studi Kualitas Pelayanan Kesehatan Ibu dan Anak",
+      "Pengembangan Model Asuhan Kebidanan Berbasis Budaya"
+    ],
+    "titleEn": "Vice Rector II",
+    "email": "",
+    "scholar": "",
+    "vision": "",
+    "visionEn": "",
+    "educationEn": [
+      "D3 Midwifery - Yogyakarta Midwifery Academy (2007)",
+      "Bachelor of Midwifery - Gadjah Mada University (2010)",
+      "Master of Public Health - Diponegoro University (2015)"
+    ],
+    "careerEn": [
+      "Midwife at Cilacap Community Health Center (2007-2012)",
+      "Lecturer at the Faculty of Health Sciences, UNAIC (2012-present)",
+      "Head of Midwifery Study Program (2015-2020)",
+      "Vice Rector II of UNAIC (2020-Present)"
+    ],
+    "researchEn": [
+      "Stunting Prevention Program in Coastal Areas",
+      "Study on the Quality of Maternal and Child Health Services",
+      "Development of a Culture-Based Midwifery Care Model"
+    ]
+  },
+  {
+    "id": "warek3",
+    "name": "Agus Prasetyo, M.Kep., Ns.",
+    "title": "Vice Rector III",
+    "image": "/images/pimpinan/warek3.png",
+    "category": "Wakil Rektor",
+    "profile": "/akademik/pimpinan/warek3",
+    "slug": "warek3",
+    "education": [
+      "S1 Keperawatan - Universitas Indonesia (2009)",
+      "S2 Keperawatan - Universitas Gadjah Mada (2013)",
+      "S3 Manajemen Keperawatan - Universitas Airlangga (2018)"
+    ],
+    "career": [
+      "Perawat di RSUP Dr. Sardjito (2009-2013)",
+      "Dosen Fakultas Ilmu Kesehatan UNAIC (2013-sekarang)",
+      "Kepala Program Studi Keperawatan (2016-2020)",
+      "Wakil Rektor III UNAIC (2020-sekarang)"
+    ],
+    "research": [
+      "Manajemen Risiko Keselamatan Pasien di Rumah Sakit",
+      "Pengembangan Kompetensi Perawat Profesional",
+      "Studi Efektivitas Program Pendidikan Berkelanjutan"
+    ],
+    "titleEn": "",
+    "email": "",
+    "scholar": "",
+    "vision": "",
+    "visionEn": "",
+    "educationEn": [
+      "Bachelor of Nursing - University of Indonesia (2009)",
+      "Master of Science in Nursing - Gadjah Mada University (2013)",
+      "Doctorate in Nursing Management - Airlangga University (2018)"
+    ],
+    "careerEn": [
+      "Nurse at Dr. Sardjito General Hospital (2009-2013)",
+      "Lecturer at the Faculty of Health Sciences, UNAIC (2013-present)",
+      "Head of Nursing Study Program (2016-2020)",
+      "Vice Rector III of UNAIC (2020-present)"
+    ],
+    "researchEn": [
+      "Patient Safety Risk Management in Hospitals",
+      "Development of Professional Nursing Competencies",
+      "Study on the Effectiveness of Continuing Education Programs"
+    ]
+  },
+  {
+    "id": "dekan1",
+    "name": "Dr. Johariyah., M. Keb.",
+    "title": "Dekan Fakultas Ilmu Kesehatan",
+    "image": "/images/pimpinan/dekan1.png",
+    "category": "Dekan",
+    "profile": "/akademik/pimpinan/dekan1",
+    "slug": "dekan1",
+    "education": [
+      "S1 Kebidanan - Universitas Gadjah Mada (2006)",
+      "S2 Kesehatan Reproduksi - Universitas Indonesia (2011)",
+      "S3 Kesehatan Masyarakat - Universitas Diponegoro (2016)"
+    ],
+    "career": [
+      "Bidan di RSUD Cilacap (2006-2011)",
+      "Dosen Fakultas Ilmu Kesehatan UNAIC (2011-sekarang)",
+      "Kepala Program Studi Kebidanan (2013-2018)",
+      "Dekan Fakultas Ilmu Kesehatan UNAIC (2018-sekarang)"
+    ],
+    "research": [
+      "Epidemiologi Kesehatan Reproduksi Remaja",
+      "Program Kesehatan Sekolah di Daerah Terpencil",
+      "Pengembangan Model Deteksi Dini Kanker Serviks"
+    ],
+    "titleEn": "Dean of the Faculty of Health Sciences",
+    "email": "johariyah@email.com",
+    "scholar": "",
+    "vision": "",
+    "visionEn": "",
+    "educationEn": [
+      "S1 Kebidanan - Universitas Gadjah Mada (2006)",
+      "S2 Kesehatan Reproduksi - Universitas Indonesia (2011)",
+      "S3 Kesehatan Masyarakat - Universitas Diponegoro (2016)"
+    ],
+    "careerEn": [
+      "Bidan di RSUD Cilacap (2006-2011)",
+      "Dosen Fakultas Ilmu Kesehatan UNAIC (2011-sekarang)",
+      "Kepala Program Studi Kebidanan (2013-2018)",
+      "Dekan Fakultas Ilmu Kesehatan UNAIC (2018-sekarang)"
+    ],
+    "researchEn": [
+      "Epidemiologi Kesehatan Reproduksi Remaja",
+      "Program Kesehatan Sekolah di Daerah Terpencil",
+      "Pengembangan Model Deteksi Dini Kanker Serviks"
+    ]
+  },
+  {
+    "id": "dekan2",
+    "name": "Dr. apt. Yuhansyah Nurfauzi, M.Si.",
+    "title": "Dekan Fakultas Farmasi, Sains & Teknologi",
+    "image": "/images/pimpinan/dekan2.png",
+    "category": "Dekan",
+    "profile": "/akademik/pimpinan/dekan2",
+    "slug": "dekan2",
+    "education": [
+      "S1 Farmasi - Institut Teknologi Bandung (2007)",
+      "S2 Kimia Farmasi - Universitas Indonesia (2012)",
+      "S3 Farmakognosi - Universitas Gadjah Mada (2017)"
+    ],
+    "career": [
+      "Peneliti di Balai Penelitian Tanaman Obat (2007-2012)",
+      "Dosen Fakultas Farmasi UNAIC (2012-sekarang)",
+      "Kepala Laboratorium Farmakognosi (2015-2018)",
+      "Dekan Fakultas Farmasi, Sains & Teknologi UNAIC (2018-sekarang)"
+    ],
+    "research": [
+      "Isolasi dan Identifikasi Senyawa Bioaktif dari Tanaman Obat",
+      "Pengembangan Fitofarmaka untuk Penyakit Degeneratif",
+      "Studi Etnofarmakologi Masyarakat Adat"
+    ]
+  },
+  {
+    "id": "dekan3",
+    "name": "Dr. Opi Irawansyah, M.PdI.",
+    "title": "Dekan Fakultas Ekonomi & Bisnis",
+    "image": "/images/pimpinan/dekan3.png",
+    "category": "Dekan",
+    "profile": "/akademik/pimpinan/dekan3",
+    "slug": "dekan3",
+    "education": [
+      "S1 Ekonomi Islam - Universitas Islam Indonesia (2008)",
+      "S2 Ekonomi Syariah - Universitas Muhammadiyah Yogyakarta (2013)",
+      "S3 Pendidikan Islam - Universitas Negeri Yogyakarta (2018)"
+    ],
+    "career": [
+      "Pengajar di Madrasah Aliyah (2008-2013)",
+      "Dosen Fakultas Ekonomi & Bisnis UNAIC (2013-sekarang)",
+      "Kepala Program Studi Ekonomi Syariah (2015-2018)",
+      "Dekan Fakultas Ekonomi & Bisnis UNAIC (2018-sekarang)"
+    ],
+    "research": [
+      "Pengembangan Model Bisnis Syariah di Era Digital",
+      "Studi Perilaku Konsumen Muslim Modern",
+      "Implementasi Ekonomi Islam dalam Pembangunan Berkelanjutan"
+    ]
+  }
+]

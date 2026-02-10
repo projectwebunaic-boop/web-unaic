@@ -1,0 +1,987 @@
+{
+    "HomePage": {
+        "heroTitle": "Universitas Al-Irsyad Cilacap",
+        "welcomeBadge": "Selamat Datang di Pendidikan Masa Depan",
+        "welcomePrefix": "Selamat Datang Di",
+        "typeAnimation": {
+            "text1": "Membangun Masa Depan Gemilang.",
+            "text2": "Islami, Profesional, & Berdaya Saing Global.",
+            "text3": "Pusat Inovasi Kesehatan & Teknologi."
+        },
+        "heroSubtitle": "Unggul, Islami, dan Terpercaya. Mencetak generasi pemimpin yang berkarakter dan profesional.",
+        "ctaRegister": "Daftar Sekarang",
+        "ctaExplore": "Jelajahi Kampus"
+    },
+    "About": {
+        "title": "Membangun Generasi Ulama & Profesional",
+        "subtitle": "Tentang Kami",
+        "description": "Universitas Al-Irsyad Cilacap (UNAIC) bukan sekadar kampus, tapi tempat lahirnya para pemimpin masa depan. Kami menggabungkan kurikulum berstandar internasional dengan nilai-nilai Islami yang kokoh.",
+        "features": {
+            "curriculum": "Kurikulum Berbasis Kompetensi & Islami",
+            "facilities": "Fasilitas Laboratorium & Riset Terlengkap",
+            "collaboration": "Jaringan Kerjasama Internasional Luas",
+            "career": "Beasiswa & Dukungan Karir Lulusan"
+        },
+        "cta": "Pelajari Lebih Lanjut",
+        "statsBadge": "Program Studi"
+    },
+    "Stats": {
+        "title": "UNAIC dalam Angka",
+        "subtitle": "Pencapaian Kami",
+        "description": "Prestasi dan statistik Universitas Al-Irsyad Cilacap dalam mendidik generasi masa depan.",
+        "labels": {
+            "students": "Mahasiswa Aktif",
+            "alumni": "Alumni Sukses",
+            "lecturers": "Dosen Berkualitas",
+            "programs": "Program Studi",
+            "partners": "Mitra Kerjasama"
+        }
+    },
+    "Faculties": {
+        "visitWebsite": "Kunjungi Website Resmi",
+        "comingSoon": "Segera Hadir",
+        "notFound": "Fakultas tidak ditemukan",
+        "notFoundDesc": "Maaf, fakultas yang Anda cari tidak tersedia.",
+        "backToList": "Kembali ke Daftar Fakultas",
+        "title": "Fakultas & Program Studi",
+        "subtitle": "Universitas Al-Irsyad Cilacap memiliki berbagai fakultas dan program studi yang berfokus pada menghasilkan lulusan yang kompeten dan berkarakter.",
+        "explore": "Jelajahi Fakultas",
+        "aboutTitle": "Tentang Fakultas",
+        "aboutDesc": "Fakultas ini berkomitmen untuk memberikan pendidikan berkualitas tinggi dengan kurikulum yang terus diperbarui sesuai dengan perkembangan ilmu pengetahuan dan kebutuhan industri. Dengan staf pengajar yang kompeten dan fasilitas yang lengkap, kami menyiapkan mahasiswa untuk menjadi profesional yang siap berkontribusi bagi masyarakat dan bangsa.",
+        "locationDesc": "Kampus UNAIC berlokasi strategis di pusat kota Cilacap, memberikan kemudahan akses bagi mahasiswa maupun masyarakat sekitar.",
+        "prodiTitle": "Program Studi",
+        "deanWelcome": "Sambutan Dekan",
+        "vision": "Visi",
+        "mission": "Misi",
+        "facilities": "Fasilitas Unggulan",
+        "facilitiesSubtitle": "Mendukung proses belajar mengajar dengan infrastruktur modern dan laboratorium berstandar industri.",
+        "welcomeTo": "Selamat Datang di",
+        "health": {
+            "name": "Fakultas Ilmu Kesehatan",
+            "dean": {
+                "name": "Siti Muthoharoh, S.Kep., Ners., M.Kep.",
+                "title": "Dekan Fakultas Ilmu Kesehatan",
+                "message": "Fakultas Ilmu Kesehatan (FIKES) UNAIC hadir sebagai jembatan bagi para calon tenaga kesehatan profesional untuk meraih mimpi. Kami berkomitmen menyelenggarakan pendidikan tinggi kesehatan yang tidak hanya unggul secara akademis, namun juga menjunjung tinggi nilai-nilai Islami."
+            },
+            "vision": "Menjadi Fakultas Ilmu Kesehatan yang Unggul, Berkarakter Islami dan Berdaya Saing Global pada Tahun 2045.",
+            "missions": [
+                "Menyelenggarakan pendidikan dan pengajaran ilmu kesehatan yang berkualitas, profesional dan berkarakter Islami.",
+                "Melaksanakan penelitian yang inovatif dan teruji di bidang kesehatan yang relevan dengan kebutuhan masyarakat.",
+                "Melaksanakan pengabdian kepada masyarakat di bidang kesehatan yang tepat guna.",
+                "Menjalin kerjasama yang berkelanjutan dengan berbagai institusi tingkat nasional dan internasional."
+            ],
+            "facilities": [
+                {
+                    "title": "Laboratorium Keperawatan",
+                    "description": "Fasilitas simulasi medis dengan peralatan standar rumah sakit."
+                },
+                {
+                    "title": "Laboratorium Kebidanan",
+                    "description": "Ruang praktik persalinan dan kesehatan ibu-anak yang lengkap."
+                },
+                {
+                    "title": "Laboratorium Fisioterapi",
+                    "description": "Dilengkapi dengan peralatan rehabilitasi medik terkini."
+                },
+                {
+                    "title": "Perpustakaan Digital",
+                    "description": "Akses ke ribuan jurnal kesehatan internasional dan referensi medik."
+                }
+            ],
+            "programs": {
+                "d3_midwifery": "D3 Kebidanan",
+                "d3_nursing": "D3 Keperawatan",
+                "prof_midwife": "Profesi Bidan",
+                "prof_nurse": "Profesi Ners",
+                "s1_physio": "S1 Fisioterapi",
+                "s1_midwifery": "S1 Kebidanan",
+                "s1_nursing": "S1 Keperawatan",
+                "s1_nursing_rpl": "S1 Keperawatan RPL",
+                "s1_midwifery_rpl": "S1 Kebidanan RPL",
+                "prof_nurse_employee": "Profesi Ners Kelas Karyawan",
+                "prof_midwife_employee": "Profesi Bidan Kelas Karyawan"
+            }
+        },
+        "science": {
+            "name": "Fakultas Farmasi, Sains & Teknologi",
+            "dean": {
+                "name": "Eko Ari Cahyo, M.Farm., Apt.",
+                "title": "Dekan Fak. Farmasi, Sains & Teknologi",
+                "message": "FFST UNAIC berkomitmen melahirkan ilmuwan dan praktisi teknologi yang tidak hanya mahir secara teknis, tetapi juga memiliki integritas moral. Kami fokus pada riset yang solutif bagi tantangan kesehatan dan teknologi masa depan."
+            },
+            "vision": "Menjadi Fakultas yang unggul dalam pengembangan IPTEK bidang Farmasi dan Teknologi Informasi yang berkarakter Islami dan Berdaya Saing Global pada Tahun 2045.",
+            "missions": [
+                "Menyelenggarakan pendidikan farmasi dan teknologi yang adaptif terhadap industri 4.0.",
+                "Mengembangkan riset sains dan teknologi yang inovatif dan aplikatif.",
+                "Melaksanakan pengabdian masyarakat berbasis produk IPTEK.",
+                "Membangun kemitraan strategis dengan industri nasional dan internasional."
+            ],
+            "facilities": [
+                {
+                    "title": "Lab. Farmasetika",
+                    "description": "Fasilitas peracikan obat dan formulasi sediaan farmasi modern."
+                },
+                {
+                    "title": "Lab. Komputer & Informatika",
+                    "description": "Pusat pengembangan perangkat lunak dan analisis data berkecepatan tinggi."
+                },
+                {
+                    "title": "Lab. Kimia Analis",
+                    "description": "Lengkap dengan instrumen HPLC dan Spektrofotometri."
+                },
+                {
+                    "title": "Teaching Pharmacy",
+                    "description": "Apotek simulasi untuk pengembangan skill farmasis klinis."
+                }
+            ],
+            "programs": {
+                "d3_pharmacy": "D3 Farmasi",
+                "d4_tlm": "D4 Teknologi Laboratorium Medis",
+                "prof_apothecary": "Profesi Apoteker",
+                "s1_pharmacy": "S1 Farmasi",
+                "s1_informatics": "S1 Informatika",
+                "s1_pharmacy_rpl": "S1 Farmasi RPL"
+            }
+        },
+        "business": {
+            "name": "Fakultas Ekonomi & Bisnis",
+            "dean": {
+                "name": "Arif Rahman, M.B.A.",
+                "title": "Dekan Fakultas Ekonomi & Bisnis",
+                "message": "FEB UNAIC mencetak technopreneur masa depan. Kami percaya bahwa bisnis yang sukses adalah bisnis yang dibangun di atas nilai-nilai etika Islami dan pemanfaatan teknologi digital yang cerdas."
+            },
+            "vision": "Menjadi Fakultas Ekonomi dan Bisnis yang Unggul dan Berkarakter Islami dalam Bidang Digital Business dan Entrepreneurship pada Tahun 2045.",
+            "missions": [
+                "Menyelenggarakan pendidikan bisnis digital dan kewirausahaan berbasis nilai Islami.",
+                "Melakukan penelitian inovatif di bidang ekonomi kreatif dan digital.",
+                "Memberikan pendampingan bisnis kepada UMKM dan masyarakat luas.",
+                "Menciptakan ekosistem kewirausahaan di lingkungan kampus."
+            ],
+            "facilities": [
+                {
+                    "title": "Galeri Investasi",
+                    "description": "Pusat belajar pasar modal dan analisa saham secara real-time."
+                },
+                {
+                    "title": "Business Incubator",
+                    "description": "Tempat pengembangan startup mahasiswa dengan bimbingan mentor."
+                },
+                {
+                    "title": "Coworking Space",
+                    "description": "Ruang kolaborasi kreatif untuk ideasi bisnis mahasiswa."
+                },
+                {
+                    "title": "Digital Lab",
+                    "description": "Fasilitas pemasaran digital dan analisa bisnis e-commerce."
+                }
+            ],
+            "programs": {
+                "s1_digital_business": "S1 Bisnis Digital",
+                "s1_entrepreneurship": "S1 Kewirausahaan",
+                "pjj_digital_business": "S1 Bisnis Digital (PJJ)",
+                "pjj_entrepreneurship": "S1 Kewirausahaan (PJJ)"
+            }
+        },
+        "prodiFallbackPrefix": "Program studi",
+        "prodiFallbackSuffix": "unggulan dengan kurikulum berbasis kompetensi dan fasilitas modern.",
+        "semester": "Semester",
+        "certificate": "Sertifikat",
+        "viewCurriculum": "Lihat Kurikulum & Prospek"
+    },
+    "PMB": {
+        "heroTitle": "Penerimaan Mahasiswa Baru",
+        "whyChooseTitle": "Kenapa Memilih UNAIC?",
+        "registerNow": "Daftar Sekarang",
+        "viewProdi": "Lihat Program Studi",
+        "wavesTitle": "Gelombang Pendaftaran",
+        "wavesDesc": "Jangan lewatkan kesempatan emas! Kami membuka pendaftaran dalam beberapa gelombang. Pastikan Anda mendaftar sesuai jadwal untuk mendapatkan prioritas.",
+        "scheduleBtn": "Lihat Jadwal Lengkap",
+        "timelineTitle": "Jadwal Pendaftaran",
+        "reasons": {
+            "accredited": "Terakreditasi",
+            "accreditedDesc": "Institusi dan Program Studi terakreditasi Baik Sekali oleh LAM-PTKes dan BAN-PT.",
+            "lecturers": "Dosen Profesional",
+            "lecturersDesc": "Diajar oleh dosen praktisi dan akademisi lulusan universitas terbaik.",
+            "curriculum": "Kurikulum Modern",
+            "curriculumDesc": "Kurikulum berbasis kompetensi yang relevan dengan kebutuhan industri saat ini.",
+            "facilities": "Fasilitas Lengkap",
+            "facilitiesDesc": "Laboratorium modern, perpustakaan digital, dan ruang kelas yang nyaman."
+        }
+    },
+    "Navigation": {
+        "menu": {
+            "about": "Tentang",
+            "management": "Manajemen",
+            "faculties": "Fakultas & Prodi",
+            "academic": "Akademik",
+            "research": "Riset & Inovasi",
+            "student": "Kemahasiswaan",
+            "news": "Berita & Agenda",
+            "faq": "FAQ"
+        },
+        "submenu": {
+            "profile": "Profil",
+            "history": "Sejarah",
+            "vision": "Visi & Misi",
+            "facilities": "Fasilitas",
+            "achievements": "Prestasi",
+            "cooperation": "Kerjasama",
+            "accreditation": "Akreditasi & Legalitas",
+            "leaders": "Pimpinan",
+            "baak": "BAAK",
+            "baukk": "BAUKK",
+            "lppm": "Profil LPPM",
+            "lpm": "LJM (Jaminan Mutu)",
+            "lecturers": "Dosen & Tendik",
+            "curriculum": "Kurikulum",
+            "calendar": "Kalender Akademik",
+            "policy": "Kebijakan Akademik",
+            "library": "Perpustakaan",
+            "publication": "Publikasi",
+            "research": "Penelitian & HKI",
+            "pkm": "Pengabdian Masyarakat",
+            "lab": "Laboratorium",
+            "student_dept": "Bagian Kemahasiswaan",
+            "activities": "Kegiatan Mahasiswa",
+            "scholarship": "Beasiswa",
+            "organizations": "Organisasi Mahasiswa",
+            "career": "Alumni & Karir",
+            "news": "Berita",
+            "agenda": "Agenda"
+        }
+    },
+    "Common": {
+        "readMore": "Baca Selengkapnya",
+        "seeDetails": "Lihat Detail Fakultas",
+        "visitPage": "Kunjungi Halaman",
+        "programsList": "Daftar Program Studi",
+        "programsCount": "Program Studi",
+        "search": "Cari",
+        "search_placeholder": "Cari di website...",
+        "searchResults": "Hasil Pencarian",
+        "noResults": "Tidak ada hasil ditemukan",
+        "portal_btn": "Portal Akademik",
+        "home_btn": "Beranda",
+        "footerDesc": "Universitas Al-Irsyad Cilacap adalah perguruan tinggi kesehatan dan sosial yang berdedikasi mencetak generasi unggul."
+    },
+    "BAAK": {
+        "title": "Biro Administrasi Akademik dan Kemahasiswaan (BAAK)",
+        "subtitle": "Memberikan pelayanan akademik dan kemahasiswaan terbaik untuk mahasiswa UNAIC.",
+        "servicesTitle": "Layanan Utama BAAK",
+        "servicesDesc": "Kami menyediakan berbagai layanan untuk mendukung kegiatan akademik dan kemahasiswaan mahasiswa UNAIC.",
+        "searchPlaceholder": "Cari layanan (misal: KRS, Cuti, Transkrip)...",
+        "noServices": "Layanan tidak ditemukan",
+        "noServicesDesc": "Coba kata kunci lain atau hubungi BAAK jika Anda butuh bantuan.",
+        "faqTitle": "FAQ Pelayanan Akademik",
+        "faqDesc": "Pertanyaan yang sering diajukan mengenai layanan akademik BAAK.",
+        "surveyTitle": "Kuisioner Kepuasan Layanan Akademik",
+        "surveyDesc": "Bantu kami meningkatkan kualitas layanan dengan memberikan penilaian Anda.",
+        "surveyStart": "Mulai Pengisian Kuisioner",
+        "fullName": "Nama Lengkap",
+        "fullNamePlaceholder": "Masukkan nama lengkap Anda",
+        "suggestions": "Saran dan Masukan",
+        "suggestionsPlaceholder": "Tuliskan saran atau masukan Anda di sini...",
+        "submitBtn": "Kirim Penilaian",
+        "submitBtnText": "Kirim Penilaian",
+        "submitting": "Mengirim...",
+        "successTitle": "Terima Kasih!",
+        "successDesc": "Penilaian Anda telah kami terima. Masukan Anda sangat berharga untuk peningkatan kualitas layanan kami.",
+        "close": "Tutup",
+        "contactTitle": "Kontak BAAK",
+        "contactDesc": "Hubungi kami untuk informasi lebih lanjut atau bantuan.",
+        "address": "Alamat",
+        "whatsapp": "WhatsApp",
+        "email": "Email",
+        "contactUs": "Hubungi Kami",
+        "contactUsDesc": "Butuh bantuan atau informasi? Hubungi BAAK melalui WhatsApp untuk respon cepat.",
+        "contactWaBtn": "Hubungi via WhatsApp",
+        "viewDetail": "Lihat Detail Layanan",
+        "accessService": "Akses Layanan",
+        "categories": {
+            "academic": "Layanan Akademik",
+            "student": "Layanan Kemahasiswaan",
+            "admin": "Administrasi & Umum",
+            "other": "Layanan Lainnya"
+        },
+        "detail": {
+            "subtitle": "Detail Layanan BAAK Universitas Al-Irsyad Cilacap",
+            "backAuth": "Kembali ke Layanan BAAK",
+            "helpTitle": "Butuh Bantuan Lebih Lanjut?",
+            "helpDesc": "Jangan ragu untuk menghubungi staff kami jika Anda memiliki pertanyaan spesifik mengenai layanan ini.",
+            "contactWa": "Hubungi via WhatsApp"
+        },
+        "faqs": [
+            {
+                "title": "Bagaimana prosedur KRS?",
+                "content": "<p>Mahasiswa dapat melakukan KRS melalui portal akademik UNAIC dengan mengikuti langkah-langkah:</p>\n<ol class=\"list-decimal list-inside mt-2 space-y-1\">\n  <li>Login ke portal akademik</li>\n  <li>Pilih menu KRS</li>\n  <li>Pilih mata kuliah yang diinginkan</li>\n  <li>Konfirmasi dan simpan KRS</li>\n</ol>"
+            },
+            {
+                "title": "Bagaimana pengajuan cuti kuliah?",
+                "content": "<p>Untuk mengajukan cuti kuliah, mahasiswa harus:</p>\n<ul class=\"list-disc list-inside mt-2 space-y-1\">\n  <li>Mengisi formulir permohonan cuti</li>\n  <li>Melampirkan surat keterangan dari orang tua/wali</li>\n  <li>Menyerahkan ke BAAK untuk diproses</li>\n  <li>Maksimal cuti 1 semester per tahun</li>\n</ul>"
+            },
+            {
+                "title": "Bagaimana memperoleh surat aktif kuliah?",
+                "content": "<p>Surat keterangan aktif kuliah dapat diperoleh dengan cara:</p>\n<ul class=\"list-disc list-inside mt-2 space-y-1\">\n  <li>Login ke portal akademik</li>\n  <li>Pilih menu \"Surat Keterangan\"</li>\n  <li>Pilih \"Surat Aktif Kuliah\"</li>\n  <li>Download dan cetak surat</li>\n</ul>"
+            }
+        ],
+        "surveyQuestions": [
+            "Petugas memberikan informasi yang jelas dan mudah dipahami terkait prosedur akademik.",
+            "Pelayanan yang diberikan BAAK cepat dan sesuai dengan waktu yang ditentukan.",
+            "Petugas ramah, sopan, dan komunikatif dalam melayani mahasiswa.",
+            "Informasi akademik mudah diakses melalui portal atau papan pengumuman.",
+            "Fasilitas dan ruang pelayanan di BAAK nyaman dan tertata dengan baik."
+        ]
+    },
+    "Accreditation": {
+        "title": "Akreditasi & Legalitas",
+        "subtitle": "Bukti komitmen Universitas Al-Irsyad Cilacap dalam menjaga mutu pendidikan dan kepatuhan terhadap standar nasional.",
+        "instBadge": "Akreditasi Institusi",
+        "instTitle": "Sejarah Legalitas & Akreditasi Institusi",
+        "instDesc": "Perjalanan legalitas institusi dari Akademi Keperawatan, Sekolah Tinggi Ilmu Kesehatan, hingga menjadi Universitas. Dokumen ini menjamin keabsahan ijazah lulusan pada setiap periodenya.",
+        "excellentAccred": "Terakreditasi Baik Sekali",
+        "progTitle": "Status Akreditasi Program Studi",
+        "progDesc": "Daftar lengkap status akreditasi program studi Diploma, Sarjana, dan Profesi di lingkungan Universitas Al-Irsyad Cilacap.",
+        "allFaculties": "Semua Fakultas",
+        "progsCount": "Prodi",
+        "tableNo": "No",
+        "tableProg": "Program Studi",
+        "tableLevel": "Jenjang",
+        "tableRank": "Peringkat",
+        "tableSK": "No. SK & Masa Berlaku",
+        "tableCert": "Sertifikat",
+        "validUntil": "Berlaku s.d",
+        "noData": "Belum ada data program studi untuk fakultas ini."
+    },
+    "LPM": {
+        "defaultTitle": "Lembaga Penjaminan Mutu",
+        "defaultSubtitle": "Portal Resmi Penjaminan Mutu Internal (SPMI) Universitas Al-Irsyad Cilacap",
+        "portalBadge": "Portal Akreditasi",
+        "criteriaTitle": "Pusat Data 9 Kriteria",
+        "criteriaDesc": "Akses cepat dokumen kriteria akreditasi untuk keperluan Audit Mutu Internal (AMI) dan Asesmen Lapangan.",
+        "documentsTitle": "Dokumen",
+        "criteria": "Kriteria",
+        "allDocuments": "Semua Dokumen Publik",
+        "resetFilter": "Reset Filter",
+        "noCriteria": "Data Kriteria belum tersedia.",
+        "more": "Selengkapnya",
+        "searchPlaceholder": "Cari dokumen (contoh: Renstra, Statuta)...",
+        "categoryAll": "Semua",
+        "tableDocName": "Nama Dokumen",
+        "tableCategory": "Kategori",
+        "tableYear": "Tahun",
+        "tableAction": "Aksi",
+        "download": "Unduh",
+        "noDocuments": "Tidak ada dokumen yang ditemukan."
+    },
+    "News": {
+        "categoryAll": "Semua",
+        "categoryNews": "Berita",
+        "categoryAnnouncement": "Pengumuman",
+        "categoryCareer": "Karir",
+        "noData": "Tidak ada data",
+        "noDataDesc": "Belum ada informasi untuk kategori {category}.",
+        "more": "Selengkapnya",
+        "readMore": "Baca Detail",
+        "defaultTitle": "Berita UNAIC",
+        "notFound": "Artikel Tidak Ditemukan",
+        "notFoundDesc": "Artikel yang Anda cari tidak ditemukan.",
+        "backToList": "Kembali ke Daftar Berita",
+        "by": "oleh",
+        "share": "Bagikan",
+        "relatedNews": "Berita Terkait",
+        "heroTitle": "Berita & Agenda - Berita",
+        "heroSubtitle": "Kumpulan berita terbaru seputar Universitas Al-Irsyad Cilacap.",
+        "latestNews": "Berita Terkini"
+    },
+    "Agenda": {
+        "noAgenda": "Belum ada agenda yang dijadwalkan.",
+        "viewAll": "Lihat Semua Agenda",
+        "readMore": "Lihat Detail",
+        "heroTitle": "Agenda UNAIC",
+        "heroSubtitle": "Kumpulan agenda terbaru seputar Universitas Al-Irsyad Cilacap.",
+        "recentAgenda": "Agenda Terkini",
+        "category": "Kategori",
+        "date": "Tanggal",
+        "time": "Waktu",
+        "location": "Lokasi",
+        "descriptionTitle": "Deskripsi Agenda",
+        "backToList": "Kembali ke Daftar Agenda",
+        "shareText": "Cek agenda ini di Universitas Al-Irsyad Cilacap"
+    },
+    "Leaders": {
+        "viewProfile": "Lihat Profil",
+        "loadingProfile": "Memuat Profil...",
+        "loadingLeaders": "Memuat Data Pimpinan...",
+        "backToList": "Kembali ke Daftar Pimpinan",
+        "heroTitle": "Profil Pimpinan",
+        "heroSubtitle": "Mengenal lebih dekat pimpinan Universitas Al-Irsyad Cilacap",
+        "heroTitleList": "Pimpinan",
+        "heroSubtitleList": "Komitmen pimpinan dalam memajukan Universitas Al-Irsyad Cilacap menuju universitas unggul dan berkarakter Islami.",
+        "rector": "Rektor",
+        "viceRector": "Wakil Rektor",
+        "dean": "Dekan Fakultas",
+        "topLeader": "Pimpinan Utama",
+        "otherLeaders": "Pejabat & Pimpinan Lainnya",
+        "contactInfo": "Informasi Kontak",
+        "officialEmail": "Email Resmi",
+        "office": "Kantor",
+        "officeLocation": "Gedung Rektorat UNAIC",
+        "researchPub": "Publikasi Riset",
+        "scholarProfile": "Google Scholar Profile",
+        "visionTitle": "Visi & Komitmen",
+        "defaultVision": "Berkomitmen untuk memajukan pendidikan tinggi kesehatan dan teknologi yang berlandaskan nilai-nilai keislaman demi mencetak generasi unggul masa depan.",
+        "educationHistory": "Riwayat Pendidikan",
+        "careerHistory": "Riwayat Karir Profesional",
+        "researchFocus": "Fokus Penelitian",
+        "ctaTitle": "Komitmen Pimpinan UNAIC",
+        "ctaDesc": "Pimpinan Universitas Al-Irsyad Cilacap berkomitmen untuk terus meningkatkan kualitas pendidikan, riset, dan pengabdian masyarakat demi mencetak generasi unggul dan berkarakter Islami.",
+        "category": {
+            "Rektor": "Rektor",
+            "Wakil Rektor": "Wakil Rektor",
+            "Dekan": "Dekan",
+            "Direktur": "Direktur",
+            "Lainnya": "Lainnya"
+        },
+        "orgTitle": "Struktur Organisasi UNAIC",
+        "orgDesc": "Gambaran lengkap struktur organisasi Universitas Al-Irsyad Cilacap yang menunjukkan hierarki dan hubungan antar unit kerja.",
+        "showOrg": "Lihat Struktur Organisasi Lengkap",
+        "hideOrg": "Sembunyikan Struktur Organisasi",
+        "clickToZoom": "Klik gambar untuk memperbesar dan melihat detail struktur organisasi"
+    },
+    "BAUKK": {
+        "servicesTitle": "Layanan Utama",
+        "servicesDesc": "Kami menyediakan layanan terintegrasi untuk mendukung operasional universitas dan kesejahteraan sivitas akademika.",
+        "transparencyTitle": "Transparansi & Akuntabilitas",
+        "transparencyDesc": "Kami berkomitmen menjunjung tinggi integritas dalam pengelolaan keuangan. Berikut adalah laporan audit sebagai wujud pertanggungjawaban publik.",
+        "faqTitle": "Pertanyaan Umum",
+        "contactTitle": "Hubungi Layanan BAUKK",
+        "contactDesc": "Tim kami siap membantu kebutuhan administrasi Anda. Silakan hubungi kami melalui saluran berikut.",
+        "whatsappBtn": "Chat via WhatsApp"
+    },
+    "Research": {
+        "title": "Penelitian & Inovasi",
+        "subtitle": "Mengembangkan ilmu pengetahuan dan teknologi melalui riset berkualitas.",
+        "focusTitle": "Fokus Penelitian",
+        "focusDesc": "Penelitian di UNAIC diarahkan untuk menjawab tantangan kesehatan dan teknologi masa depan. Kami berfokus pada pengembangan inovasi yang dapat diterapkan langsung untuk meningkatkan kualitas hidup masyarakat. Penelitian mencakup bidang kesehatan, farmasi, kebidanan, dan teknologi informasi.",
+        "servicesTitle": "Layanan Riset",
+        "ethicsTitle": "Komite Etik Penelitian",
+        "ethicsDesc": "Layanan kaji etik untuk memastikan penelitian memenuhi standar etika dan melindungi subjek penelitian.",
+        "hkiTitle": "HKI & Paten",
+        "hkiDesc": "Pendampingan pendaftaran Hak Kekayaan Intelektual (HKI) dan Paten dari hasil riset civitas akademika.",
+        "pubTitle": "Publikasi Ilmiah",
+        "pubDesc": "Fasilitasi publikasi hasil penelitian di jurnal nasional terakreditasi dan jurnal internasional bereputasi.",
+        "currentResearch": "Penelitian Terkini",
+        "leader": "KETUA PENELITI",
+        "viewDetail": "Lihat Detail"
+    },
+    "Footer": {
+        "description": "Universitas Al-Irsyad Cilacap (UNAIC) adalah institusi pendidikan tinggi yang berkomitmen untuk menghasilkan lulusan yang unggul, berkarakter, dan berdaya saing global.",
+        "quickLinks": "Akses Cepat",
+        "services": "Layanan & Informasi",
+        "contact": "Kontak & Lokasi",
+        "followUs": "Ikuti Kami",
+        "location": "Lokasi Kampus",
+        "viewDirections": "Lihat Arah di Google Maps",
+        "links": {
+            "pmb": "Penerimaan Mahasiswa Baru (PMB)",
+            "mitra": "Mitra & Kerjasama",
+            "career": "Alumni & Karir",
+            "gallery": "Galeri Foto",
+            "complaints": "Layanan Aduan",
+            "explore": "Jelajah Kampus",
+            "faq": "Tanya Jawab (FAQ)",
+            "contact": "Kontak Kami"
+        }
+    },
+    "Profile": {
+        "identityTitle": "Identitas Kampus",
+        "valuesTitle": "Nilai Inti Universitas",
+        "ctaTitle": "Kenali UNAIC Lebih Dekat",
+        "buttons": {
+            "history": "Sejarah",
+            "vision": "Visi Misi",
+            "achievements": "Prestasi"
+        }
+    },
+    "FAQ": {
+        "title": "FAQ",
+        "subtitle": "Pertanyaan yang sering diajukan seputar Universitas Al-Irsyad Cilacap.",
+        "generalQuestions": "Pertanyaan Umum",
+        "needHelp": "Butuh Bantuan Lebih Lanjut?",
+        "needHelpDesc": "Hubungi kami melalui halaman Kontak untuk pertanyaan lain yang tidak tercantum di FAQ.",
+        "contactUs": "Hubungi Kami",
+        "noFAQ": "Belum ada data FAQ tersedia."
+    },
+    "VisiMisi": {
+        "heroTitle": "Visi & Misi",
+        "heroSubtitle": "Universitas Al-Irsyad Cilacap",
+        "visionTitle": "Visi",
+        "missionTitle": "Misi",
+        "ctaTitle": "Bersama Membangun Masa Depan",
+        "ctaDesc": "Mari bergabung dengan Universitas Al-Irsyad Cilacap untuk mencapai visi dan misi bersama dalam mencetak generasi unggul.",
+        "ctaButton": "Lihat Profil UNAIC"
+    },
+    "History": {
+        "statsTitle": "Capaian Penting dalam Sejarah",
+        "galleryTitle": "Galeri Arsip UNAIC",
+        "ctaTitle": "Melangkah Maju Bersama UNAIC",
+        "ctaDesc": "Sejarah kami adalah fondasi untuk masa depan yang lebih cerah.",
+        "ctaButton": "Lihat Visi & Misi"
+    },
+    "Facilities": {
+        "heroTitle": "Fasilitas",
+        "heroSubtitle": "Mendukung kenyamanan belajar, riset, dan pengembangan diri mahasiswa.",
+        "ctaTitle": "Jelajahi Fasilitas UNAIC",
+        "ctaDesc": "Rasakan pengalaman belajar yang nyaman, modern, dan Islami.",
+        "ctaButton": "Kunjungi Kampus"
+    },
+    "Achievements": {
+        "heroTitle": "Prestasi",
+        "heroSubtitle": "Pencapaian akademik dan non-akademik mahasiswa serta dosen Universitas Al-Irsyad Cilacap di tingkat lokal, nasional, hingga internasional.",
+        "highlightsTitle": "Prestasi Unggulan",
+        "timelineTitle": "Timeline Prestasi",
+        "ctaTitle": "Bergabunglah dan Raih Prestasi Bersama UNAIC",
+        "ctaButton": "Daftar Sekarang"
+    },
+    "Partners": {
+        "heroTitle": "Mitra & Kerjasama",
+        "heroSubtitle": "Membangun sinergi strategis dengan berbagai institusi nasional dan internasional demi mewujudkan keunggulan akademik dan kebermanfaatan bagi masyarakat.",
+        "searchPlaceholder": "Cari nama mitra kerjasama...",
+        "searchButton": "Cari",
+        "allPartners": "Semua Mitra",
+        "introTitle": "Kolaborasi Tanpa Batas",
+        "introDesc": "Universitas Al-Irsyad Cilacap percaya bahwa kemajuan tidak dapat dicapai sendirian. Melalui jaringan kemitraan yang luas, kami memfasilitasi mahasiswa dan staf untuk berkembang melalui program magang, pertukaran, dan riset kolaboratif yang berdampak nyata.",
+        "networkTitle": "Jejaring Global & Lokal",
+        "networkDesc": "Kami telah menjalin kerjasama dengan lebih dari 100 mitra strategis yang mencakup rumah sakit, industries, pemerintahan, dan perguruan tinggi terkemuka di dalam dan luar negeri.",
+        "ctaTitle": "Ingin Menjadi Mitra Kami?",
+        "ctaDesc": "Kami selalu terbuka untuk peluang kerjasama baru yang saling menguntungkan dalam bidang pendidikan, penelitian, dan pengabdian masyarakat.",
+        "ctaButton": "Hubungi Kami",
+        "emptyCategory": "Belum ada data mitra untuk kategori ini",
+        "noCategories": "Tidak ada kategori yang ditemukan.",
+        "backButton": "Kembali ke Daftar Mitra",
+        "profileTitle": "Profil Mitra",
+        "websiteButton": "Kunjungi Website Resmi",
+        "galleryTitle": "Dokumentasi Kerjasama",
+        "noGallery": "Belum ada foto dokumentasi yang diunggah.",
+        "mouTitle": "Dokumen MoU",
+        "mouStatus": "Status Dokumen",
+        "mouActive": "AKTIF",
+        "mouDesc": "Dokumen Kesepahaman Bersama (MoU) tersedia untuk diunduh sebagai arsip publik terbatas.",
+        "downloadButton": "Unduh Dokumen",
+        "noMou": "Dokumen digital belum tersedia untuk publik.",
+        "contactTitle": "Kontak Kerjasama",
+        "contactDesc": "Untuk informasi lebih lanjut mengenai detail kerjasama ini, silakan hubungi Biro Kerjasama & Humas."
+    },
+    "Curriculum": {
+        "title": "Kurikulum Akademik",
+        "subtitle": "Informasi struktur mata kuliah dan kurikulum program studi di Universitas Al-Irsyad Cilacap.",
+        "sectionTitle": "Daftar Mata Kuliah",
+        "description": "Pilih fakultas dan program studi untuk melihat detail kurikulum.",
+        "download": "Unduh Kurikulum Lengkap (PDF)",
+        "noData": "Data kurikulum belum tersedia untuk program studi ini.",
+        "table": {
+            "semester": "Smstr",
+            "course": "Mata Kuliah",
+            "credits": "SKS"
+        }
+    },
+    "AcademicCalendar": {
+        "title": "Kalender Akademik",
+        "subtitle": "Panduan kegiatan akademik Universitas Al-Irsyad Cilacap untuk setiap tahun ajaran.",
+        "descriptionTitle": "Kalender Akademik UNAIC",
+        "description": "Kalender Akademik UNAIC berisi jadwal kegiatan penting yang wajib diketahui mahasiswa, dosen, dan civitas akademika. Kalender mencakup jadwal perkuliahan, registrasi, ujian tengah dan akhir semester, kegiatan akademik, hingga hari libur resmi.",
+        "tableTitle": "Jadwal Kegiatan Akademik",
+        "table": {
+            "semester": "Periode",
+            "activity": "Kegiatan",
+            "date": "Tanggal"
+        },
+        "mobileNote": "Swipe horizontal untuk melihat tabel lengkap",
+        "downloadTitle": "Unduh Kalender Akademik Lengkap",
+        "downloadDesc": "Dapatkan kalender akademik lengkap dalam format PDF untuk referensi offline.",
+        "downloadBtn": "Download PDF",
+        "helpTitle": "Butuh Bantuan?",
+        "helpDesc": "Hubungi bagian akademik untuk informasi lebih lanjut tentang kalender akademik.",
+        "helpBtn": "Kontak Akademik",
+        "noData": "Belum ada agenda kalender akademik yang dipublikasikan."
+    },
+    "AcademicPolicy": {
+        "title": "Kebijakan Akademik",
+        "subtitle": "Standar, aturan, dan pedoman akademik Universitas Al-Irsyad Cilacap.",
+        "descriptionTitle": "Kebijakan Akademik UNAIC",
+        "description": "Universitas Al-Irsyad Cilacap (UNAIC) menetapkan kebijakan akademik yang menjadi dasar penyelenggaraan pendidikan tinggi. Kebijakan ini meliputi kurikulum, proses pembelajaran, evaluasi, penelitian, dan tata kelola akademik. Dokumen kebijakan dirancang agar civitas akademika dapat memahami aturan dan menjalankan Tri Dharma Perguruan Tinggi sesuai standar nasional.",
+        "sectionTitle": "Dokumen Kebijakan Akademik",
+        "detailTitle": "Detail Kebijakan",
+        "purpose": "Tujuan",
+        "scope": "Ruang Lingkup",
+        "update": "Update",
+        "responsible": "Penanggung Jawab",
+        "download": "Unduh PDF",
+        "helpTitle": "Informasi & Bantuan",
+        "helpDesc": "Hubungi bagian akademik untuk mendapatkan detail kebijakan terbaru.",
+        "helpBtn": "Kontak Akademik",
+        "noData": "Belum ada dokumen kebijakan akademik yang tersedia."
+    },
+    "Library": {
+        "title": "Perpustakaan & Pusat Informasi",
+        "subtitle": "Pusat literasi, riset, dan sumber belajar digital Universitas Al-Irsyad Cilacap.",
+        "portalTitle": "Portal Digital SIMPUS",
+        "portalDesc": "Akses Sistem Informasi Perpustakaan (SIMPUS) untuk mencari koleksi buku, cek status pinjaman, dan akses repository digital secara mandiri.",
+        "portalBtn": "Buka Website SIMPUS",
+        "servicesTitle": "Layanan Perpustakaan",
+        "services": {
+            "opac": {
+                "title": "Katalog Online (OPAC)",
+                "desc": "Cari koleksi buku fisik yang tersedia di perpustakaan pustaka UNAIC secara real-time."
+            },
+            "repository": {
+                "title": "Repository UNAIC",
+                "desc": "Kumpulan karya ilmiah, skripsi, dan publikasi dosen/mahasiswa dalam format digital."
+            },
+            "journal": {
+                "title": "E-Resources",
+                "desc": "Akses ke pangkalan data jurnal nasional dan internasional yang dilanggan universitas."
+            },
+            "circulation": {
+                "title": "Sirkulasi & Member",
+                "desc": "Layanan peminjaman, pengembalian buku, dan pendaftaran keanggotaan perpustakaan."
+            }
+        },
+        "info": {
+            "hours": "Jam Operasional",
+            "weekday": "Senin - Jumat",
+            "saturday": "Sabtu",
+            "sunday": "Minggu & Hari Libur",
+            "closed": "Tutup",
+            "location": "Lokasi Perpustakaan",
+            "contact": "Kontak Perpustakaan"
+        }
+    },
+    "Laboratory": {
+        "headerTitle": "Fasilitas Laboratorium",
+        "introTitle": "Fasilitas Laboratorium Modern UNAIC",
+        "introText1": "Universitas Al-Irsyad Cilacap (UNAIC) menyediakan berbagai laboratorium modern untuk menunjang kegiatan penelitian, praktikum, dan inovasi.",
+        "introText2": "Setiap laboratorium dilengkapi dengan peralatan mutakhir yang dapat digunakan mahasiswa dan dosen sesuai bidang keilmuan.",
+        "introText3": "Laboratorium tidak hanya berfungsi sebagai tempat praktikum, tetapi juga sebagai pusat riset dan pengembangan teknologi.",
+        "listTitle": "Daftar Laboratorium",
+        "listSubtitle": "Laboratorium modern yang mendukung pembelajaran dan riset di berbagai bidang keilmuan",
+        "galleryTitle": "Galeri Laboratorium",
+        "gallerySubtitle": "Melihat lebih dekat fasilitas laboratorium UNAIC",
+        "ctaTitle": "Akses & Informasi",
+        "ctaDesc": "Hubungi kami untuk informasi lebih lanjut mengenai peminjaman, jadwal praktikum, dan kerjasama riset.",
+        "ctaContactBtn": "Halaman Kontak",
+        "info": {
+            "contactPerson": "Kontak Person",
+            "locationEmail": "Lokasi & Email"
+        }
+    },
+    "CommunityService": {
+        "title": "Pengabdian Masyarakat",
+        "subtitle": "Hilirisasi hasil riset untuk kebermanfaatan masyarakat luas.",
+        "impactTitle": "Dampak Sosial",
+        "impactDesc": "UNAIC berkomitmen untuk tidak hanya mengembangkan ilmu di menara gading, tetapi juga turun tangan menyelesaikan permasalahan di masyarakat. Melalui program Pengabdian Kepada Masyarakat (PKM), kami menerapkan teknologi dan ilmu pengetahuan untuk memberdayakan komunitas, meningkatkan kesehatan, dan mendukung ekonomi lokal.",
+        "servicesTitle": "Program Unggulan",
+        "featuredTitle": "Kegiatan PKM Terkini",
+        "leader": "KETUA TIM",
+        "viewReport": "Lihat Laporan"
+    },
+    "Publication": {
+        "title": "Publikasi Ilmiah",
+        "subtitle": "Repositori publikasi ilmiah, jurnal, dan prosiding civitas akademika UNAIC.",
+        "repoTitle": "Repositori Publikasi",
+        "tabs": {
+            "journal": "Jurnal",
+            "proceeding": "Prosiding",
+            "article": "Artikel Ilmiah"
+        },
+        "searchPlaceholder": "Cari judul, penulis, atau topik...",
+        "noData": "Belum ada data publikasi untuk kategori ini.",
+        "visitJournal": "Kunjungi Jurnal",
+        "visitArticle": "Lihat Dokumen",
+        "author": "Penulis",
+        "desc": "Deskripsi",
+        "category": "Kategori",
+        "year": "Tahun Terbit",
+        "loading": "Memuat data publikasi..."
+    },
+    "Complaint": {
+        "heroTitle": "Layanan Aduan & Aspirasi",
+        "heroSubtitle": "Suara Anda berharga bagi kemajuan UNAIC. Sampaikan aspirasi dan aduan Anda dengan aman dan terpercaya.",
+        "privacyBadge": "Jaminan Privasi",
+        "privacyTitle": "Identitas Pelapor & Keamanan Data Terjamin",
+        "privacyDesc": "Kami menghargai privasi Anda. Setiap laporan, terutama yang bersifat sensitif (Whistleblowing System), akan ditangani dengan prinsip kerahasiaan ketat. Anda dapat memilih untuk melapor secara anonim.",
+        "successTitle": "Laporan Berhasil Dikirim!",
+        "successDesc": "Terima kasih atas masukan Anda. Tim kami akan segera menindaklanjuti laporan ini.",
+        "newReport": "Kirim Laporan Baru",
+        "categoryTitle": "Pilih Kategori Aduan (Wajib)",
+        "selected": "Terpilih",
+        "flowTitle": "Alur Penanganan Aduan",
+        "steps": {
+            "1": {
+                "title": "Kirim Aduan",
+                "desc": "Isi form dengan detail dan bukti pendukung."
+            },
+            "2": {
+                "title": "Verifikasi",
+                "desc": "Tim kami akan memvalidasi laporan Anda."
+            },
+            "3": {
+                "title": "Tindak Lanjut",
+                "desc": "Investigasi dan penyelesaian masalah."
+            },
+            "4": {
+                "title": "Selesai",
+                "desc": "Anda akan menerima notifikasi hasil akhir."
+            }
+        },
+        "formTitle": "Formulir Layanan Aduan",
+        "formSubtitle": "Silakan lengkapi data di bawah ini",
+        "form": {
+            "name": "Nama Lengkap (Opsional)",
+            "namePlaceholder": "Boleh dikosongkan untuk anonim",
+            "category": "Kategori",
+            "categoryPlaceholder": "Pilih Kategori di Atas ☝️",
+            "title": "Judul Laporan",
+            "titlePlaceholder": "Contoh: AC Ruang 301 Rusak / Dugaan Pungli",
+            "desc": "Isi Laporan Detail",
+            "descPlaceholder": "Ceritakan kronologi, lokasi, dan detail kejadian...",
+            "file": "Upload Bukti (Foto/Dokumen)",
+            "fileLabel": "Klik untuk upload bukti",
+            "fileHelp": "Max 5MB (JPG, PNG, PDF)",
+            "changeFile": "Klik untuk ganti file",
+            "disclaimer": "Dengan mengirim laporan ini, saya menyatakan bahwa data yang saya sampaikan adalah benar dan dapat dipertanggungjawabkan.",
+            "submit": "Kirim Laporan",
+            "submitting": "Mengirim..."
+        },
+        "categories": {
+            "academic": {
+                "title": "Layanan Akademik",
+                "desc": "Keluhan terkait dosen, jadwal kuliah, nilai, atau bimbingan."
+            },
+            "facilities": {
+                "title": "Fasilitas & Sarpras",
+                "desc": "Lapor kerusakan AC, WiFi, kebersihan, atau fasilitas umum."
+            },
+            "ethics": {
+                "title": "Pelanggaran Etik (WBS)",
+                "desc": "Bullying, kekerasan seksual, pungli, atau gratifikasi."
+            },
+            "admin": {
+                "title": "Administrasi & Keuangan",
+                "desc": "Masalah pembayaran UKT, layanan biro, atau surat menyurat."
+            }
+        },
+        "maintenance": {
+            "title": "Layanan Sedang Dalam Perbaikan",
+            "desc": "Mohon maaf, sistem layanan aduan sedang menjalani pemeliharaan rutin untuk meningkatkan kualitas layanan. Silakan kembali lagi nanti.",
+            "reload": "Coba Muat Ulang"
+        }
+    },
+    "Contact": {
+        "heroTitle": "Layanan Aduan & Kontak",
+        "heroSubtitle": "Sampaikan masukan, aduan, atau pertanyaan Anda kepada kami.",
+        "cards": {
+            "complaint": {
+                "title": "Layanan Aduan",
+                "desc": "Laporkan keluhan terkait layanan akademik maupun non-akademik secara resmi."
+            },
+            "info": {
+                "title": "Informasi Umum",
+                "desc": "Pertanyaan seputar pendaftaran, beasiswa, dan program studi yang tersedia."
+            },
+            "technical": {
+                "title": "Bantuan Teknis",
+                "desc": "Kendala akses SIAKAD, E-Library, atau fasilitas digital lainnya."
+            }
+        },
+        "form": {
+            "title": "Hubungi Kami",
+            "subtitle": "Kontak & Lokasi",
+            "desc": "Kami siap membantu Anda. Jangan ragu untuk menghubungi kami atau berkunjung langsung ke kampus UNAIC.",
+            "infoTitle": "Informasi Kontak",
+            "fastHelpTitle": "Butuh Bantuan Cepat?",
+            "fastHelpDesc": "Kirim pesan langsung ke WhatsApp Official kami.",
+            "placeholderName": "Nama Lengkap",
+            "placeholderEmail": "Email",
+            "placeholderMessage": "Pesan",
+            "submitWhatsapp": "Chat WhatsApp Sekarang",
+            "success": "Pesan berhasil dikirim via WhatsApp."
+        },
+        "departments": {
+            "title": "Kontak Bagian & Unit",
+            "subtitle": "Hubungi bagian terkait untuk informasi yang lebih spesifik.",
+            "head": "Kepala Bagian",
+            "email": "Email",
+            "phone": "Telepon"
+        }
+    },
+    "PMBInfo": {
+        "heroTitle": "Informasi Pendaftaran",
+        "heroSubtitle": "Panduan lengkap penerimaan mahasiswa baru Universitas Al-Irsyad Cilacap",
+        "stats": {
+            "prodi": {
+                "title": "10 Program Studi",
+                "desc": "Pilihan program studi unggulan bidang kesehatan dan sosial."
+            },
+            "curriculum": {
+                "title": "Kurikulum Modern",
+                "desc": "Berbasis kompetensi dan terintegrasi dengan nilai-nilai Islami."
+            },
+            "access": {
+                "title": "Mudah Diakses",
+                "desc": "Sistem pendaftaran online yang cepat, mudah, dan transparan."
+            }
+        },
+        "steps": {
+            "1": {
+                "title": "Daftar Akun",
+                "desc": "Buat akun pendaftaran di pmb.universitasalirsyad.ac.id"
+            },
+            "2": {
+                "title": "Pilih Jalur",
+                "desc": "Pilih jalur pendaftaran (Reguler, Prestasi, atau Beasiswa)"
+            },
+            "3": {
+                "title": "Isi Formulir",
+                "desc": "Lengkapi biodata diri dan data orang tua/wali"
+            },
+            "4": {
+                "title": "Upload Berkas",
+                "desc": "Unggah scan rapor/ijazah, KK, dan pas foto terbaru"
+            },
+            "5": {
+                "title": "Pembayaran",
+                "desc": "Lakukan pembayaran biaya pendaftaran via virtual account"
+            },
+            "6": {
+                "title": "Cetak Kartu",
+                "desc": "Cetak kartu peserta ujian seleksi masuk"
+            },
+            "title": "Alur Pendaftaran"
+        },
+        "tuition": {
+            "title": "Estimasi Biaya Kuliah",
+            "subtitle": "Tahun Akademik 2026/2027",
+            "desc": "Rincian biaya pendidikan transparan dan terjangkau untuk setiap program studi."
+        },
+        "requirements": {
+            "title": "Persyaratan Berkas",
+            "desc": "Berikut adalah dokumen yang perlu Anda persiapkan sebelum melakukan pendaftaran online. Pastikan hasil scan terbaca dengan jelas.",
+            "list": [
+                "Scan Ijazah / SKL (Legalisir)",
+                "Scan Rapor Semester 1-5 (Bagi yang belum lulus)",
+                "Scan Kartu Keluarga (KK)",
+                "Scan KTP / Kartu Pelajar",
+                "Pas Foto Terbaru (Latar Belakang Merah/Biru)",
+                "Sertifikat Prestasi (Jika ada, untuk jalur prestasi)"
+            ],
+            "download": "Download Brosur PMB"
+        },
+        "faq": {
+            "title": "Pertanyaan Umum (FAQ)",
+            "desc": "Jawaban atas pertanyaan yang sering diajukan oleh calon mahasiswa baru.",
+            "q1": {
+                "title": "Kapan jadwal pendaftaran dibuka?",
+                "content": "Pendaftaran Mahasiswa Baru UNAIC biasanya dibuka dalam 3 gelombang. Gelombang 1 dimulai bulan Januari, Gelombang 2 bulan April, dan Gelombang 3 bulan Juli. Silakan cek website PMB untuk tanggal pastinya."
+            },
+            "q2": {
+                "title": "Apakah ada beasiswa di UNAIC?",
+                "content": "Ya, UNAIC menyediakan berbagai jenis beasiswa, termasuk Beasiswa KIP Kuliah, Beasiswa Yayasan, Beasiswa Prestasi Akademik & Non-Akademik, serta Beasiswa Hafidz Qur'an."
+            },
+            "q3": {
+                "title": "Berapa biaya pendaftarannya?",
+                "content": "Biaya pendaftaran untuk kelas reguler adalah Rp 250.000,-. Untuk jalur khusus atau program studi tertentu mungkin ada perbedaan. Cek rincian biaya di menu Biaya Kuliah."
+            },
+            "q4": {
+                "title": "Apakah bisa mendaftar lintas jurusan?",
+                "content": "Bisa. Lulusan SMA IPA bisa masuk ke semua prodi. Lulusan SMA IPS/Bahasa/SMK bisa masuk ke prodi tertentu sesuai ketentuan masing-masing program studi."
+            }
+        },
+        "cta": {
+            "title": "Siap Menjadi Bagian dari UNAIC?",
+            "desc": "Jangan lewatkan kesempatan untuk bergabung dengan kampus unggulan yang mencetak generasi islami, profesional, dan berdaya saing global.",
+            "button": "Daftar Sekarang"
+        }
+    },
+    "CampusTour": {
+        "heroTitle": "Jelajahi Kampus UNAIC",
+        "heroSubtitle": "Rasakan suasana akademik yang Islami, modern, dan asri di pusat kota Cilacap.",
+        "intro": {
+            "badge": "Green & Islamic Campus",
+            "title": "Lingkungan Belajar yang Nyaman & Kondusif",
+            "desc": "Kampus UNAIC didesain untuk mendukung keseimbangan antara keunggulan akademik dan nilai-nilai spiritual. Dikelilingi area hijau yang asri dan fasilitas ibadah yang representatif, mahasiswa dapat belajar dengan tenang dan fokus.",
+            "list": [
+                "Masjid Kampus yang Luas",
+                "Area Taman Hijau",
+                "Lingkungan Bebas Asap Rokok",
+                "Hotspot Area 24 Jam"
+            ]
+        },
+        "facilities": {
+            "title": "Fasilitas Unggulan",
+            "desc": "Menunjang proses pembelajaran dengan teknologi terkini dan standar pelayanan prima.",
+            "items": {
+                "classroom": {
+                    "title": "Smart Classroom",
+                    "desc": "Ruang kelas multimedia dengan AC & Smart TV."
+                },
+                "lab": {
+                    "title": "Laboratorium Terpadu",
+                    "desc": "Peralatan praktikum modern standar industri."
+                },
+                "library": {
+                    "title": "E-Library",
+                    "desc": "Akses ribuan jurnal dan buku digital."
+                },
+                "dorm": {
+                    "title": "Asrama Mahasiswa",
+                    "desc": "Hunian nyaman, aman, dan terjangkau."
+                },
+                "sport": {
+                    "title": "Sport Center",
+                    "desc": "Sarana olahraga untuk menjaga kebugaran."
+                },
+                "canteen": {
+                    "title": "Food Court",
+                    "desc": "Kantin bersih dengan menu halal & sehat."
+                }
+            },
+            "viewAll": "Lihat Semua Fasilitas"
+        },
+        "virtualTour": {
+            "badge": "Virtual Tour",
+            "title": "Keliling Kampus Tanpa Beranjak",
+            "desc": "Saksikan video profil singkat untuk mengenal lebih dekat Universitas Al-Irsyad Cilacap."
+        },
+        "location": {
+            "badge": "Lokasi Kampus",
+            "title": "Strategis di Pusat Kota",
+            "desc": "Kampus UNAIC terletak di lokasi yang sangat strategis di kota Cilacap, mudah diakses dengan berbagai moda transportasi. Dekat dengan fasilitas publik, pusat perbelanjaan, dan pantai wisata.",
+            "addressTitle": "Alamat Kampus",
+            "addressDesc": "Jl. Cerme No. 24, Sidanegara, Cilacap Tengah, Kabupaten Cilacap, Jawa Tengah 53223",
+            "landmarkTitle": "Landmark Terdekat",
+            "landmarkDesc": "Alun-Alun Cilacap (5 menit), Terminal Bus (10 menit), Stasiun KA (10 menit)."
+        },
+        "cta": {
+            "title": "Sudah Siap Bergabung?",
+            "desc": "Jadilah bagian dari generasi unggul bersama Universitas Al-Irsyad Cilacap.",
+            "register": "Daftar Sekarang",
+            "programs": "Lihat Jurusan"
+        }
+    },
+    "Gallery": {
+        "heroTitle": "Galeri UNAIC",
+        "heroSubtitle": "Momen dan dokumentasi kegiatan Universitas Al-Irsyad Cilacap.",
+        "filters": {
+            "all": "Semua"
+        },
+        "categories": {
+            "Academic": "Akademik",
+            "Student": "Kemahasiswaan",
+            "Facilities": "Fasilitas",
+            "Event": "Event"
+        },
+        "emptyTitle": "Foto Tidak Ditemukan",
+        "emptyDesc": "Maaf, belum ada foto dokumentasi untuk kategori ini."
+    }
+}

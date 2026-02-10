@@ -1,0 +1,74 @@
+[
+  {
+    "nama": "Siti Aminah, S.E.",
+    "slug": "siti-aminah",
+    "jabatan": "Kepala Bagian Keuangan",
+    "unit": "Bagian Keuangan",
+    "foto": "/images/staff/siti-aminah.jpg",
+    "email": "siti.aminah@universitasalirsyad.ac.id",
+    "profil": "Bertanggung jawab atas pengelolaan keuangan dan anggaran universitas dengan pengalaman lebih dari 15 tahun di bidang keuangan pendidikan tinggi."
+  },
+  {
+    "nama": "Ahmad Susanto, S.Kom.",
+    "slug": "ahmad-susanto",
+    "jabatan": "Kepala Bagian IT",
+    "unit": "Bagian Sistem Informasi",
+    "foto": "/images/staff/ahmad-susanto.jpg",
+    "email": "ahmad.susanto@universitasalirsyad.ac.id",
+    "profil": "Ahli dalam pengembangan sistem informasi dan teknologi digital dengan fokus pada implementasi e-learning dan digitalisasi administrasi akademik."
+  },
+  {
+    "nama": "Rini Wulandari, S.Pd.",
+    "slug": "rini-wulandari",
+    "jabatan": "Kepala Bagian Akademik",
+    "unit": "Bagian Akademik",
+    "foto": "/images/staff/rini-wulandari.jpg",
+    "email": "rini.wulandari@universitasalirsyad.ac.id",
+    "profil": "Berpengalaman dalam manajemen akademik dan pengembangan kurikulum dengan komitmen tinggi terhadap kualitas pendidikan."
+  },
+  {
+    "nama": "Budi Setiawan, S.E.",
+    "slug": "budi-setiawan",
+    "jabatan": "Kepala Bagian Umum",
+    "unit": "Bagian Umum",
+    "foto": "/images/staff/budi-setiawan.jpg",
+    "email": "budi.setiawan@universitasalirsyad.ac.id",
+    "profil": "Mengelola administrasi umum dan fasilitas universitas dengan fokus pada pelayanan prima kepada civitas akademika."
+  },
+  {
+    "nama": "Maya Sari, S.Pd.",
+    "slug": "maya-sari",
+    "jabatan": "Kepala Bagian Kemahasiswaan",
+    "unit": "Bagian Kemahasiswaan",
+    "foto": "/images/staff/maya-sari.jpg",
+    "email": "maya.sari@universitasalirsyad.ac.id",
+    "profil": "Dedikasi dalam pengembangan potensi mahasiswa melalui berbagai program kemahasiswaan dan kegiatan ekstrakurikuler."
+  },
+  {
+    "nama": "Dwi Rahayu, S.E.",
+    "slug": "dwi-rahayu",
+    "jabatan": "Kepala Bagian Kepegawaian",
+    "unit": "Bagian Kepegawaian",
+    "foto": "/images/staff/dwi-rahayu.jpg",
+    "email": "dwi.rahayu@universitasalirsyad.ac.id",
+    "profil": "Ahli dalam manajemen sumber daya manusia dengan fokus pada pengembangan kompetensi dan kesejahteraan pegawai."
+  },
+  {
+    "nama": "Eko Prasetyo, S.Kom.",
+    "slug": "eko-prasetyo",
+    "jabatan": "Kepala Bagian Perpustakaan",
+    "unit": "Perpustakaan",
+    "foto": "/images/staff/eko-prasetyo.jpg",
+    "email": "eko.prasetyo@universitasalirsyad.ac.id",
+    "profil": "Pengelola perpustakaan digital dengan visi mengembangkan pusat sumber belajar yang modern dan aksesibel."
+  },
+  {
+    "nama": "Linda Kusuma, S.Pd.",
+    "slug": "linda-kusuma",
+    "jabatan": "Kepala Bagian Laboratorium",
+    "unit": "Laboratorium",
+    "foto": "/images/staff/linda-kusuma.jpg",
+    "email": "linda.kusuma@universitasalirsyad.ac.id",
+    "profil": "Mengelola fasilitas laboratorium dengan standar internasional untuk mendukung praktikum dan penelitian mahasiswa."
+  }
+]

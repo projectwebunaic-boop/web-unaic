@@ -1,0 +1,78 @@
+{
+  "journals": [
+    {
+      "id": 1,
+      "name": "Jurnal Pharmaqueous",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Jurnal Pengabdian Masyarakat Al-Irsyad (JPMA)",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "name": "Jurnal Kesehatan Al-Irsyad",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "name": "Trends of Nursing Science",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "name": "JETBUS",
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "name": "INFOKABIN",
+      "link": "#"
+    }
+  ],
+  "proceedings": [
+    {
+      "id": 1,
+      "title": "Implementasi Teknologi AI dalam Pendidikan Farmasi",
+      "authors": "Prof. Siti Nurhaliza, Ph.D.",
+      "year": "2023",
+      "category": "Prosiding",
+      "pdfUrl": "https://pubmed.ncbi.nlm.nih.gov/39184524/"
+    },
+    {
+      "id": 2,
+      "title": "Penerapan Konsep Green Pharmacy di Indonesia",
+      "authors": "Prof. Hendro Wicaksono, Ph.D.",
+      "year": "2022",
+      "category": "Prosiding",
+      "pdfUrl": "/docs/publikasi/green-pharmacy-indonesia.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Pengembangan Model Bisnis Digital di Sektor Pendidikan",
+      "authors": "Dr. Lisa Permata, M.B.A.",
+      "year": "2021",
+      "category": "Prosiding",
+      "pdfUrl": "/docs/publikasi/model-bisnis-digital-pendidikan.pdf"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Strategi Pengembangan Kewirausahaan di Era Digital",
+      "authors": "Dr. Budi Santoso, M.B.A.",
+      "year": "2023",
+      "category": "Artikel",
+      "pdfUrl": "/docs/publikasi/strategi-kewirausahaan-digital.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Inovasi Digital Marketing untuk UMKM Kesehatan",
+      "authors": "Dr. Maya Sari, M.M.",
+      "year": "2022",
+      "category": "Artikel",
+      "pdfUrl": "/docs/publikasi/digital-marketing-umkm-kesehatan.pdf"
+    }
+  ]
+}

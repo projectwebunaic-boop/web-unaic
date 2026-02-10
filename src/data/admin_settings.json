@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "Admin UNAIC",
+    "email": "admin@unaic.ac.id"
+  },
+  "security": {
+    "pin": "$2b$10$xQS/SIn6AoRX/MJUBwQmjOEcgwb5hGTVVmiWI1QZ7t583ls6e/uCu",
+    "lastChanged": "2026-01-09T03:09:23.120Z"
+  },
+  "notifications": {
+    "emailAlerts": true,
+    "newComplaint": true,
+    "reportBundling": false
+  },
+  "general": {
+    "language": "en",
+    "maintenanceMode": false
+  }
+}

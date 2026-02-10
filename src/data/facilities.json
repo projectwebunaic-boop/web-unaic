@@ -1,0 +1,113 @@
+{
+  "academic": [
+    {
+      "id": "fa1",
+      "title": "Laboratorium",
+      "description": "Fasilitas laboratorium lengkap untuk mendukung riset dan praktikum mahasiswa.",
+      "image": "/images/fasilitas/lab.jpg",
+      "icon": "BookOpen",
+      "titleEn": "Laboratory",
+      "descriptionEn": "Well-equipped laboratory facilities are available to support student research and practical sessions."
+    },
+    {
+      "id": "fa2",
+      "title": "Ruang Kelas Nyaman",
+      "description": "Ruang kelas dengan fasilitas multimedia dan ventilasi yang baik.",
+      "image": "/images/fasilitas/ruang-kelas.jpg",
+      "icon": "Building",
+      "titleEn": "Comfortable Classrooms",
+      "descriptionEn": "Classrooms with multimedia facilities and good ventilation."
+    },
+    {
+      "id": "fa3",
+      "title": "Perpustakaan Lengkap",
+      "description": "Perpustakaan dengan koleksi buku dan jurnal ilmiah yang lengkap.",
+      "image": "/images/fasilitas/perpustakaan.jpg",
+      "icon": "BookOpen",
+      "titleEn": "Fully Equipped Library",
+      "descriptionEn": "A Library with a comprehensive collection of books and scholarly journals."
+    }
+  ],
+  "public": [
+    {
+      "id": "fu1",
+      "title": "Asrama",
+      "description": "Asrama nyaman dan aman untuk mahasiswa yang berasal dari luar kota.",
+      "image": "/images/fasilitas/asrama.jpg",
+      "titleEn": "Residence Hall",
+      "descriptionEn": "Comfortable and secure dormitories for students originating from outside the city."
+    },
+    {
+      "id": "fu2",
+      "title": "Masjid",
+      "description": "Tempat ibadah yang bersih dan nyaman untuk mendukung kegiatan spiritual.",
+      "image": "/images/fasilitas/masjid.jpg",
+      "titleEn": "Mosque",
+      "descriptionEn": "Clean and comfortable places of worship to support spiritual activities."
+    },
+    {
+      "id": "fu3",
+      "title": "Klinik Kampus",
+      "description": "Layanan kesehatan untuk mahasiswa dan staf kampus.",
+      "image": "/images/fasilitas/klinik.jpg",
+      "titleEn": "Campus Clinic",
+      "descriptionEn": "Healthcare Services for Students and Campus Staff."
+    },
+    {
+      "id": "fu4",
+      "title": "Kantin",
+      "description": "Kantin dengan berbagai pilihan makanan sehat dan terjangkau.",
+      "image": "/images/fasilitas/kantin.jpg",
+      "titleEn": "Canteen",
+      "descriptionEn": "A canteen with a variety of healthy and affordable food options."
+    },
+    {
+      "id": "fu5",
+      "title": "Parkir",
+      "description": "Area parkir luas dan aman untuk kendaraan mahasiswa dan staf.",
+      "image": "/images/fasilitas/parkiran.jpg",
+      "titleEn": "Parking",
+      "descriptionEn": "Spacious and secure parking areas for student and staff vehicles."
+    }
+  ],
+  "gallery": [
+    "/images/fasilitas/klinik.jpg",
+    "/images/fasilitas/perpustakaan.jpg",
+    "/images/fasilitas/ruang-kelas.jpg",
+    "/images/fasilitas/kantin.jpg",
+    "/images/fasilitas/parkiran.jpg",
+    "/images/fasilitas/lab.jpg",
+    "/images/fasilitas/asrama.jpg",
+    "/images/fasilitas/masjid.jpg"
+  ],
+  "stats": [
+    {
+      "id": "s1",
+      "label": "Jumlah Laboratorium",
+      "value": 12,
+      "icon": "BookOpen",
+      "labelEn": "Number of Laboratories"
+    },
+    {
+      "id": "s2",
+      "label": "Ruang Kelas",
+      "value": 45,
+      "icon": "Building",
+      "labelEn": "Classroom"
+    },
+    {
+      "id": "s3",
+      "label": "Perpustakaan",
+      "value": 1,
+      "icon": "BookOpen",
+      "labelEn": "Library"
+    },
+    {
+      "id": "s4",
+      "label": "Asrama",
+      "value": 2,
+      "icon": "Home",
+      "labelEn": "Dormitory"
+    }
+  ]
+}

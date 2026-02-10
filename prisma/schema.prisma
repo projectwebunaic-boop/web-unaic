@@ -237,6 +237,7 @@ model FacultyProgram {
   degree            String?
   degreeEn          String?
   icon              String?             @default("GraduationCap")
+  curriculumPdf     String?
   subjects          CurriculumSubject[]
   faculty           Faculty             @relation(fields: [facultyId], references: [id], onDelete: Cascade)
 

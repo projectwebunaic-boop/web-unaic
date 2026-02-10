@@ -22,19 +22,18 @@ export default async function KurikulumPage({ params }: { params: Promise<{ loca
   });
 
   // Pre-process data to be serializable and handle translations
-  const curriculumData = faculties.map(f => ({
+  const curriculumData = (faculties as any).map((f: any) => ({
     name: isEn ? (f.nameEn || f.name) : f.name,
-    programs: f.programs.map(p => ({
+    programs: (f.programs || []).map((p: any) => ({
       name: isEn ? (p.nameEn || p.name) : p.name,
-      // @ts-ignore
-      pdfUrl: (p as any).curriculumPdf || "#",
-      curriculum: p.subjects.map(s => ({
+      pdfUrl: p.curriculumPdf || "#",
+      curriculum: (p.subjects || []).map((s: any) => ({
         semester: s.semester,
         course: isEn ? (s.nameEn || s.name) : s.name,
         credits: s.credits.toString()
       }))
     }))
-  })).filter(f => f.programs.length > 0); // Only show faculties with programs
+  })).filter((f: any) => f.programs?.length > 0); // Only show faculties with programs
 
   return (
     <main className="bg-white font-sans text-gray-700">

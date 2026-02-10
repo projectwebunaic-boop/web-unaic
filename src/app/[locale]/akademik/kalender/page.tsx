@@ -32,7 +32,7 @@ export default async function KalenderAkademikPage({ params }: { params: Promise
     where: { id: 'singleton' }
   });
 
-  const pdfUrl = isEn ? (config?.pdfUrlEn || config?.pdfUrl) : (config?.pdfUrl || "/docs/kalender-akademik-2025.pdf");
+  const pdfUrl = (isEn ? (config?.pdfUrlEn || config?.pdfUrl) : config?.pdfUrl) || "/docs/kalender-akademik-2025.pdf";
 
   return (
     <main className="bg-white font-sans text-gray-700">

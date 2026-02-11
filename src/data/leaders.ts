@@ -13,7 +13,7 @@ export const leaders = {
     name: "Sarwa, AMK., S.Pd., M.Kes.",
     title: "Rektor Universitas Al-Irsyad Cilacap",
     image: "/images/pimpinan/rektor.png",
-    profile: "/akademik/pimpinan/rektor",
+    profile: "/manajemen/pimpinan/rektor",
     education: [
       "S1 Keperawatan - Universitas Indonesia (2005)",
       "S2 Pendidikan - Universitas Negeri Jakarta (2010)",
@@ -36,7 +36,7 @@ export const leaders = {
       name: "apt. Mika Tri Kumala Swandari, M.Sc",
       title: "Wakil Rektor I",
       image: "/images/pimpinan/warek1.png",
-      profile: "/akademik/pimpinan/warek1",
+      profile: "/manajemen/pimpinan/warek1",
       education: [
         "S1 Farmasi - Universitas Padjadjaran (2008)",
         "S2 Farmasi Klinis - Universitas Indonesia (2012)",
@@ -58,7 +58,7 @@ export const leaders = {
       name: "Yogi Andhi Lestari, S.ST., M.Keb.",
       title: "Wakil Rektor II",
       image: "/images/pimpinan/warek2.png",
-      profile: "/akademik/pimpinan/warek2",
+      profile: "/manajemen/pimpinan/warek2",
       education: [
         "D3 Kebidanan - Akademi Kebidanan Yogyakarta (2007)",
         "S1 Kebidanan - Universitas Gadjah Mada (2010)",
@@ -80,7 +80,7 @@ export const leaders = {
       name: "Agus Prasetyo, M.Kep., Ns.",
       title: "Wakil Rektor III",
       image: "/images/pimpinan/warek3.png",
-      profile: "/akademik/pimpinan/warek3",
+      profile: "/manajemen/pimpinan/warek3",
       education: [
         "S1 Keperawatan - Universitas Indonesia (2009)",
         "S2 Keperawatan - Universitas Gadjah Mada (2013)",
@@ -104,7 +104,7 @@ export const leaders = {
       name: "Dr. Johariyah., M. Keb.",
       title: "Dekan Fakultas Ilmu Kesehatan",
       image: "/images/pimpinan/dekan1.png",
-      profile: "/akademik/pimpinan/dekan1",
+      profile: "/manajemen/pimpinan/dekan1",
       education: [
         "S1 Kebidanan - Universitas Gadjah Mada (2006)",
         "S2 Kesehatan Reproduksi - Universitas Indonesia (2011)",
@@ -126,7 +126,7 @@ export const leaders = {
       name: "Dr. apt. Yuhansyah Nurfauzi, M.Si.",
       title: "Dekan Fakultas Farmasi, Sains & Teknologi",
       image: "/images/pimpinan/dekan2.png",
-      profile: "/akademik/pimpinan/dekan2",
+      profile: "/manajemen/pimpinan/dekan2",
       education: [
         "S1 Farmasi - Institut Teknologi Bandung (2007)",
         "S2 Kimia Farmasi - Universitas Indonesia (2012)",
@@ -148,7 +148,7 @@ export const leaders = {
       name: "Dr. Opi Irawansyah, M.PdI.",
       title: "Dekan Fakultas Ekonomi & Bisnis",
       image: "/images/pimpinan/dekan3.png",
-      profile: "/akademik/pimpinan/dekan3",
+      profile: "/manajemen/pimpinan/dekan3",
       education: [
         "S1 Ekonomi Islam - Universitas Islam Indonesia (2008)",
         "S2 Ekonomi Syariah - Universitas Muhammadiyah Yogyakarta (2013)",

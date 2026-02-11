@@ -6,7 +6,7 @@
     "titleEn": "Rector of Universitas Al-Irsyad Cilacap",
     "image": "/images/pimpinan/rektor.png",
     "category": "Rektor",
-    "profile": "/akademik/pimpinan/rektor",
+    "profile": "/manajemen/pimpinan/rektor",
     "slug": "rektor",
     "education": [
       "S1 Keperawatan - Universitas Indonesia (2005)",
@@ -52,7 +52,7 @@
     "titleEn": "Vice Rector I",
     "image": "/images/pimpinan/warek1.png",
     "category": "Wakil Rektor",
-    "profile": "/akademik/pimpinan/warek1",
+    "profile": "/manajemen/pimpinan/warek1",
     "slug": "warek1",
     "education": [
       "S1 Farmasi - Universitas Padjadjaran (2008)",
@@ -97,7 +97,7 @@
     "title": "Wakil Rektor II",
     "image": "/images/pimpinan/warek2.png",
     "category": "Wakil Rektor",
-    "profile": "/akademik/pimpinan/warek2",
+    "profile": "/manajemen/pimpinan/warek2",
     "slug": "warek2",
     "education": [
       "D3 Kebidanan - Akademi Kebidanan Yogyakarta (2007)",
@@ -143,7 +143,7 @@
     "title": "Vice Rector III",
     "image": "/images/pimpinan/warek3.png",
     "category": "Wakil Rektor",
-    "profile": "/akademik/pimpinan/warek3",
+    "profile": "/manajemen/pimpinan/warek3",
     "slug": "warek3",
     "education": [
       "S1 Keperawatan - Universitas Indonesia (2009)",
@@ -189,7 +189,7 @@
     "title": "Dekan Fakultas Ilmu Kesehatan",
     "image": "/images/pimpinan/dekan1.png",
     "category": "Dekan",
-    "profile": "/akademik/pimpinan/dekan1",
+    "profile": "/manajemen/pimpinan/dekan1",
     "slug": "dekan1",
     "education": [
       "S1 Kebidanan - Universitas Gadjah Mada (2006)",
@@ -235,7 +235,7 @@
     "title": "Dekan Fakultas Farmasi, Sains & Teknologi",
     "image": "/images/pimpinan/dekan2.png",
     "category": "Dekan",
-    "profile": "/akademik/pimpinan/dekan2",
+    "profile": "/manajemen/pimpinan/dekan2",
     "slug": "dekan2",
     "education": [
       "S1 Farmasi - Institut Teknologi Bandung (2007)",
@@ -260,7 +260,7 @@
     "title": "Dekan Fakultas Ekonomi & Bisnis",
     "image": "/images/pimpinan/dekan3.png",
     "category": "Dekan",
-    "profile": "/akademik/pimpinan/dekan3",
+    "profile": "/manajemen/pimpinan/dekan3",
     "slug": "dekan3",
     "education": [
       "S1 Ekonomi Islam - Universitas Islam Indonesia (2008)",

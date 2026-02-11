@@ -27,7 +27,13 @@ export default function middleware(request: NextRequest) {
         return NextResponse.redirect(new URL(newPathname, request.url), 301);
     }
 
-    // 3. New News Route Redirect
+    // 3. Legacy Pimpinan Redirects
+    if (pathname.includes('/akademik/pimpinan')) {
+        const newPathname = pathname.replace('/akademik/pimpinan', '/manajemen/pimpinan');
+        return NextResponse.redirect(new URL(newPathname, request.url), 301);
+    }
+
+    // 4. New News Route Redirect
     // Redirect /berita to /berita-agenda/berita (except if it already starts with /berita-agenda)
     // We check if pathname contains /berita but NOT /berita-agenda (to avoid double prefixing like /berita-agenda/agenda -> /berita-agenda/berita-agenda/agenda)
     // And also need to be careful with /admin/berita if it exists (it doesn't seem so based on adminMenu) -> admin uses /admin/news

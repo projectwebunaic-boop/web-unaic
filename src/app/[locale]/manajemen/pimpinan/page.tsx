@@ -28,7 +28,8 @@ export default async function PimpinanPage({ params }: { params: Promise<{ local
       {/* Hero Section */}
       <HeroSection
         title={t("heroTitleList")}
-        subtitle={`${t("heroSubtitleList")} (Total: ${leadersData.length}) [v2.2]`}
+        subtitle={`${t("heroSubtitleList")} (Total: ${leadersData.length}) [v3.0 - REFRESH-NOW]`}
+        className="bg-blue-900"
       />
 
       {/* Rektor Section */}

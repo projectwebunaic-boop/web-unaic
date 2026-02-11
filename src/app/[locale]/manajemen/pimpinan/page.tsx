@@ -28,7 +28,7 @@ export default async function PimpinanPage({ params }: { params: Promise<{ local
       {/* Hero Section */}
       <HeroSection
         title={t("heroTitleList")}
-        subtitle={`${t("heroSubtitleList")} (Total: ${leadersData.length}) [v3.0 - REFRESH-NOW]`}
+        subtitle={`${t("heroSubtitleList")} (Total: ${leadersData.length}) [v3.1 - FIX-SERVER-ERROR]`}
         className="bg-blue-900"
       />
 

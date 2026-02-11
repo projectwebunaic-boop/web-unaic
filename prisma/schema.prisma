@@ -7,6 +7,16 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+
+
+
+
+
+
+
+
+
+
 model AuditLog {
   id        Int      @id @default(autoincrement())
   action    String
@@ -26,6 +36,10 @@ model Post {
   contentEn String?
   category  String?
   published Boolean  @default(false)
+  image     String?
+  excerpt   String?
+  author    String?
+  isFeatured Boolean @default(false)
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }

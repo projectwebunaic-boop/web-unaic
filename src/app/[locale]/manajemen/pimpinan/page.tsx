@@ -28,7 +28,7 @@ export default async function PimpinanPage({ params }: { params: Promise<{ local
       {/* Hero Section */}
       <HeroSection
         title={t("heroTitleList")}
-        subtitle={t("heroSubtitleList")}
+        subtitle={`${t("heroSubtitleList")} (Total: ${leadersData.length})`}
       />
 
       {/* Rektor Section */}
@@ -40,7 +40,7 @@ export default async function PimpinanPage({ params }: { params: Promise<{ local
               name={rector.name}
               title={isEn ? (rector.titleEn || rector.title) : rector.title}
               image={rector.image || "/images/placeholder-user.png"}
-              profileLink={`/${locale}/akademik/pimpinan/${rector.slug}`}
+              profileLink={`/manajemen/pimpinan/${rector.slug}`}
             />
           </div>
         </section>
@@ -58,7 +58,7 @@ export default async function PimpinanPage({ params }: { params: Promise<{ local
                   name={leader.name}
                   title={isEn ? (leader.titleEn || leader.title) : leader.title}
                   image={leader.image || "/images/placeholder-user.png"}
-                  profileLink={`/${locale}/akademik/pimpinan/${leader.slug}`}
+                  profileLink={`/manajemen/pimpinan/${leader.slug}`}
                 />
               ))}
             </div>
@@ -78,7 +78,7 @@ export default async function PimpinanPage({ params }: { params: Promise<{ local
                   name={leader.name}
                   title={isEn ? (leader.titleEn || leader.title) : leader.title}
                   image={leader.image || "/images/placeholder-user.png"}
-                  profileLink={`/${locale}/akademik/pimpinan/${leader.slug}`}
+                  profileLink={`/manajemen/pimpinan/${leader.slug}`}
                 />
               ))}
             </div>
@@ -98,7 +98,7 @@ export default async function PimpinanPage({ params }: { params: Promise<{ local
                   name={leader.name}
                   title={isEn ? (leader.titleEn || leader.title) : leader.title}
                   image={leader.image || "/images/placeholder-user.png"}
-                  profileLink={`/${locale}/akademik/pimpinan/${leader.slug}`}
+                  profileLink={`/manajemen/pimpinan/${leader.slug}`}
                 />
               ))}
             </div>

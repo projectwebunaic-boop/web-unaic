@@ -19,12 +19,15 @@ import { ProfileContent } from "./ProfileContent";
 
 export default async function LeaderDetailPage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
   const { slug, locale } = await params;
+  console.log('🔍 Leader Slug:', slug, 'Locale:', locale);
+
   const t = await getTranslations({ locale, namespace: "Leaders" });
   const isEn = locale === 'en';
 
   const leaderData = await prisma.leader.findUnique({
     where: { slug }
   });
+  console.log('leaderData found:', !!leaderData);
 
   if (!leaderData) {
     notFound();
